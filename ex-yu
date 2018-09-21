@@ -1,17 +1,63 @@
 #EXTM3U
-
-
-#EXTINF:0 group-title="(EX-YU) Slovenia",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(EX-YU) Slovenia",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(EX-YU) Slovenia",JOJ | HD
-http://nn.geo.joj.sk/hls/joj-720.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",JOJ (1+) | HD
-https://nn.geo.joj.sk/hls/joj-720.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",TUTY TV | SD
-http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
+#EXTINF:-1,Cz- Film
+http://linux-app.tv:8000/live/Ott/Ott/8351.ts
+#EXTINF:-1,iptvtools_23
+http://linux-app.tv:8000/live/Ott/Ott/8350.ts
+#EXTINF:-1,iptvtools_24
+http://linux-app.tv:8000/live/Ott/Ott/8349.ts
+#EXTINF:-1,Cz- Filmbox Plus
+http://linux-app.tv:8000/live/Ott/Ott/8348.ts
+#EXTINF:-1,Cz- Filmbox Premium
+http://linux-app.tv:8000/live/Ott/Ott/8347.ts
+#EXTINF:-1,Cz- Fishing and Hunting
+http://linux-app.tv:8000/live/Ott/Ott/8346.ts
+#EXTINF:-1,Cz- Golf Channel
+http://linux-app.tv:8000/live/Ott/Ott/8345.ts
+#EXTINF:-1,Cz- HBO HD
+http://linux-app.tv:8000/live/Ott/Ott/8344.ts
+#EXTINF:-1,Cz- HBO2
+http://linux-app.tv:8000/live/Ott/Ott/8343.ts
+#EXTINF:-1,Cz- HBO3
+http://linux-app.tv:8000/live/Ott/Ott/8342.ts
+#EXTINF:-1,iptvtools_32
+http://linux-app.tv:8000/live/Ott/Ott/8341.ts
+#EXTINF:-1,Cz- JOJ Family HD
+http://linux-app.tv:8000/live/Ott/Ott/8340.ts
+#EXTINF:-1,iptvtools_34
+http://linux-app.tv:8000/live/Ott/Ott/8339.ts
+#EXTINF:-1,Cz- Markiza International
+http://linux-app.tv:8000/live/Ott/Ott/8338.ts
+#EXTINF:-1,iptvtools_36
+http://linux-app.tv:8000/live/Ott/Ott/8337.ts
+#EXTINF:-1,Cz- Nickelodeon
+http://linux-app.tv:8000/live/Ott/Ott/8336.ts
+#EXTINF:-1,Cz- REBEL
+http://linux-app.tv:8000/live/Ott/Ott/8334.ts
+#EXTINF:-1,Cz- RELAX
+http://linux-app.tv:8000/live/Ott/Ott/8333.ts
+#EXTINF:-1,Cz- Retro Music TV
+http://linux-app.tv:8000/live/Ott/Ott/8332.ts
+#EXTINF:-1,Cz- Spektrum HD
+http://linux-app.tv:8000/live/Ott/Ott/8331.ts
+#EXTINF:-1,iptvtools_42
+http://linux-app.tv:8000/live/Ott/Ott/8327.ts
+#EXTINF:-1,Cz- Viasat Nature HD
+http://linux-app.tv:8000/live/Ott/Ott/8326.ts
+#EXTINF:-1,iptvtools_44
+http://linux-app.tv:8000/live/Ott/Ott/8359.ts
+#EXTINF:-1,Cz- AXN
+http://linux-app.tv:8000/live/Ott/Ott/8358.ts
+#EXTINF:-1,iptvtools_46
+http://linux-app.tv:8000/live/Ott/Ott/8357.ts
+#EXTINF:-1,Cz- Duck TV
+http://linux-app.tv:8000/live/Ott/Ott/8354.ts
+#EXTINF:-1,Cz- E! Entertainment
+http://linux-app.tv:8000/live/Ott/Ott/8353.ts
+#EXTINF:-1,Cz- Sport 1
+http://linux-app.tv:8000/live/Ott/Ott/8330.ts
+#EXTINF:-1,iptvtools_52
+http://linux-app.tv:8000/live/Ott/Ott/8329.ts
+#EXTINF:-1,Cz- Sport 5
+http://linux-app.tv:8000/live/Ott/Ott/8328.ts
+#EXTINF:-1,iptvtools_54
+http://linux-app.tv:8000/live/Ott/Ott/8335.ts
