@@ -1,1 +1,17 @@
-http://yeni.mars3000.net:25461/get.php?username=salihakdogan&password=7zJNLVnNTk&type=m3u
+#EXTM3U
+
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",JOJ | HD
+http://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",JOJ (1+) | HD
+https://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TUTY TV | SD
+http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
