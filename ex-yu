@@ -1,248 +1,154 @@
-#EXTINF:-1,|SRB| PINK 2
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1010.ts
-#EXTINF:-1,|SRB| Pink 3 Info
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1004.ts
-#EXTINF:-1,|SRB| Pink BH
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1003.ts
-#EXTINF:-1,|SRB| Pink Comedy
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1002.ts
-#EXTINF:-1,|SRB| Pink Folk 1
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1000.ts
-#EXTINF:-1,|SRB| Pink Folk 2
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/999.ts
-#EXTINF:-1,|SRB| Pink Hits 2
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/998.ts
-#EXTINF:-1,|SRB| PINK HORROR
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1009.ts
-#EXTINF:-1,|SRB| Pink Kids
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/997.ts
-#EXTINF:-1,|SRB| PINK Kuvar
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1011.ts
-#EXTINF:-1,|SRB| Pink Pedia
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/996.ts
-#EXTINF:-1,|SRB| PINK PREMIUM
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1008.ts
-#EXTINF:-1,|SRB| PINK REALITY
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1007.ts
-#EXTINF:-1,|SRB| PINK ROMANCE
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1006.ts
-#EXTINF:-1,|SRB| Pink sci-fi-fantasy
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/992.ts
-#EXTINF:-1,|SRB| Pink Soap
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/995.ts
-#EXTINF:-1,|SRB| Pink Super Kids
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/994.ts
-#EXTINF:-1,|SRB| Pink thriller
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/991.ts
-#EXTINF:-1,|SRB| PINK WESTERN
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/1005.ts
-#EXTINF:-1,|SRB| Pink zabava
-http://151.80.105.4:8080/live/Etronics_7FNOhI/MKZVUP4k/990.ts
-#EXTINF:-1,Cz- EDGE
-http://linux-app.tv:8000/live/Ott/Ott/8352.ts
-#EXTINF:-1,Cz- Film
-http://linux-app.tv:8000/live/Ott/Ott/8351.ts
-#EXTINF:-1,Cz- Filmbox Extra HD
-http://linux-app.tv:8000/live/Ott/Ott/8350.ts
-#EXTINF:-1,Cz- Filmbox Family
-http://linux-app.tv:8000/live/Ott/Ott/8349.ts
-#EXTINF:-1,Cz- Filmbox Plus
-http://linux-app.tv:8000/live/Ott/Ott/8348.ts
-#EXTINF:-1,Cz- Filmbox Premium
-http://linux-app.tv:8000/live/Ott/Ott/8347.ts
-#EXTINF:-1,Cz- Fishing and Hunting
-http://linux-app.tv:8000/live/Ott/Ott/8346.ts
-#EXTINF:-1,Cz- Golf Channel
-http://linux-app.tv:8000/live/Ott/Ott/8345.ts
-#EXTINF:-1,Cz- HBO HD
-http://linux-app.tv:8000/live/Ott/Ott/8344.ts
-#EXTINF:-1,Cz- HBO2
-http://linux-app.tv:8000/live/Ott/Ott/8343.ts
-#EXTINF:-1,Cz- HBO3
-http://linux-app.tv:8000/live/Ott/Ott/8342.ts
-#EXTINF:-1,Cz- iConcerts
-http://linux-app.tv:8000/live/Ott/Ott/8341.ts
-#EXTINF:-1,Cz- JOJ Family HD
-http://linux-app.tv:8000/live/Ott/Ott/8340.ts
-#EXTINF:-1,Cz- KinoSvet
-http://linux-app.tv:8000/live/Ott/Ott/8339.ts
-#EXTINF:-1,Cz- Markiza International
-http://linux-app.tv:8000/live/Ott/Ott/8338.ts
-#EXTINF:-1,Cz- MTV Europe
-http://linux-app.tv:8000/live/Ott/Ott/8337.ts
-#EXTINF:-1,Cz- Nickelodeon
-http://linux-app.tv:8000/live/Ott/Ott/8336.ts
-#EXTINF:-1,Cz- REBEL
-http://linux-app.tv:8000/live/Ott/Ott/8334.ts
-#EXTINF:-1,Cz- RELAX
-http://linux-app.tv:8000/live/Ott/Ott/8333.ts
-#EXTINF:-1,Cz- Retro Music TV
-http://linux-app.tv:8000/live/Ott/Ott/8332.ts
-#EXTINF:-1,Cz- Spektrum HD
-http://linux-app.tv:8000/live/Ott/Ott/8331.ts
-#EXTINF:-1,Cz- Stingray Brava HD
-http://linux-app.tv:8000/live/Ott/Ott/8327.ts
-#EXTINF:-1,Cz- Viasat Nature HD
-http://linux-app.tv:8000/live/Ott/Ott/8326.ts
-#EXTINF:-1,Cz- AMC
-http://linux-app.tv:8000/live/Ott/Ott/8359.ts
-#EXTINF:-1,Cz- AXN
-http://linux-app.tv:8000/live/Ott/Ott/8358.ts
-#EXTINF:-1,Cz- Boomerang
-http://linux-app.tv:8000/live/Ott/Ott/8357.ts
-#EXTINF:-1,Cz- Cinemax
-http://linux-app.tv:8000/live/Ott/Ott/8356.ts
-#EXTINF:-1,Cz- Discovery
-http://linux-app.tv:8000/live/Ott/Ott/8355.ts
-#EXTINF:-1,Cz- Duck TV
-http://linux-app.tv:8000/live/Ott/Ott/8354.ts
-#EXTINF:-1,Cz- E! Entertainment
-http://linux-app.tv:8000/live/Ott/Ott/8353.ts
-#EXTINF:-1,Cz- Sport 1
-http://linux-app.tv:8000/live/Ott/Ott/8330.ts
-#EXTINF:-1,Cz- Sport 2 HD
-http://linux-app.tv:8000/live/Ott/Ott/8329.ts
-#EXTINF:-1,Cz- Sport 5
-http://linux-app.tv:8000/live/Ott/Ott/8328.ts
-#EXTINF:-1,Cz- Nova Sport 2 HD
-http://linux-app.tv:8000/live/Ott/Ott/8335.ts
-#EXTINF:-1,EX YU: RTS 1
-http://54.36.51.53:8000/live/ampadu/ampadu/4119.ts
-#EXTINF:-1,EX YU: RTS 2
-http://54.36.51.53:8000/live/ampadu/ampadu/4118.ts
-#EXTINF:-1,EX YU: FOX TV
-http://54.36.51.53:8000/live/ampadu/ampadu/8735.ts
-#EXTINF:-1,EX YU: FOX LIVE
-http://54.36.51.53:8000/live/ampadu/ampadu/8738.ts
-#EXTINF:-1,EX YU: FOX MOVIES
-http://54.36.51.53:8000/live/ampadu/ampadu/8736.ts
-#EXTINF:-1,EX YU: FOX CRIME
-http://54.36.51.53:8000/live/ampadu/ampadu/8737.ts
-#EXTINF:-1,EX YU: HBO
-http://54.36.51.53:8000/live/ampadu/ampadu/8766.ts
-#EXTINF:-1,EX YU: HBO 2
-http://54.36.51.53:8000/live/ampadu/ampadu/8767.ts
-#EXTINF:-1,EX YU: HBO COMEDY
-http://54.36.51.53:8000/live/ampadu/ampadu/8768.ts
-#EXTINF:-1,EX YU: MINIMAX
-http://54.36.51.53:8000/live/ampadu/ampadu/8777.ts
-#EXTINF:-1,EX YU: NICK JR.
-http://54.36.51.53:8000/live/ampadu/ampadu/8775.ts
-#EXTINF:-1,EX YU: NICKELODEON
-http://54.36.51.53:8000/live/ampadu/ampadu/8776.ts
-#EXTINF:-1,EX YU: TV SARAJEVO
-http://54.36.51.53:8000/live/ampadu/ampadu/8801.ts
-#EXTINF:-1,EX YU: TV K
-http://54.36.51.53:8000/live/ampadu/ampadu/8802.ts
-#EXTINF:-1,EX YU: DISCOVERY
-http://54.36.51.53:8000/live/ampadu/ampadu/8764.ts
-#EXTINF:-1,EX YU: NATIONAL GEOGRAPHIC
-http://54.36.51.53:8000/live/ampadu/ampadu/8765.ts
-#EXTINF:-1,EX YU: VIASAT NATURE
-http://54.36.51.53:8000/live/ampadu/ampadu/8786.ts
-#EXTINF:-1,EX YU: HISTORY CHANNEL
-http://54.36.51.53:8000/live/ampadu/ampadu/8769.ts
-#EXTINF:-1,EX YU: DOMA TV
-http://54.36.51.53:8000/live/ampadu/ampadu/4125.ts
-#EXTINF:-1,EX YU: DUGA TV
-http://54.36.51.53:8000/live/ampadu/ampadu/4112.ts
-#EXTINF:-1,EX YU: B92
-http://54.36.51.53:8000/live/ampadu/ampadu/8804.ts
-#EXTINF:-1,EX YU: HAYAT TV
-http://54.36.51.53:8000/live/ampadu/ampadu/4137.ts
-#EXTINF:-1,EX YU: HAYAT PLUS
-http://54.36.51.53:8000/live/ampadu/ampadu/4136.ts
-#EXTINF:-1,EX YU: HAYAT FOLK
-http://54.36.51.53:8000/live/ampadu/ampadu/4135.ts
-#EXTINF:-1,EX YU: HAYATOVCI
-http://54.36.51.53:8000/live/ampadu/ampadu/4134.ts
-#EXTINF:-1,EX YU: NOVA RS
-http://54.36.51.53:8000/live/ampadu/ampadu/4114.ts
-#EXTINF:-1,EX YU: NOVA TV
-http://54.36.51.53:8000/live/ampadu/ampadu/4130.ts
-#EXTINF:-1,EX YU: RTL
-http://54.36.51.53:8000/live/ampadu/ampadu/4129.ts
-#EXTINF:-1,EX YU: RTL 2
-http://54.36.51.53:8000/live/ampadu/ampadu/4128.ts
-#EXTINF:-1,EX YU: RTL KOCKICA
-http://54.36.51.53:8000/live/ampadu/ampadu/4126.ts
-#EXTINF:-1,EX YU: RTL LIVING
-http://54.36.51.53:8000/live/ampadu/ampadu/4127.ts
-#EXTINF:-1,EX YU: RTV ZENICA
-http://54.36.51.53:8000/live/ampadu/ampadu/4113.ts
-#EXTINF:-1,EX YU: TV 1000
-http://54.36.51.53:8000/live/ampadu/ampadu/8785.ts
-#EXTINF:-1,EX YU: MTV
-http://54.36.51.53:8000/live/ampadu/ampadu/8778.ts
-#EXTINF:-1,EX YU: MTV IGMAN
-http://54.36.51.53:8000/live/ampadu/ampadu/4131.ts
-#EXTINF:-1,EX YU: E!
-http://54.36.51.53:8000/live/ampadu/ampadu/8773.ts
-#EXTINF:-1,EX YU: HRT 1
-http://54.36.51.53:8000/live/ampadu/ampadu/4541.ts
-#EXTINF:-1,EX YU: HRT 2
-http://54.36.51.53:8000/live/ampadu/ampadu/4542.ts
-#EXTINF:-1,EX YU: HRT 3
-http://54.36.51.53:8000/live/ampadu/ampadu/4543.ts
-#EXTINF:-1,EX YU: HRT 4
-http://54.36.51.53:8000/live/ampadu/ampadu/4544.ts
-#EXTINF:-1,EX-YU: BHT
-http://ace-tv.xyz:8080/live/joan2/joan2/3699.ts
-#EXTINF:-1,EX-YU: CMAX
-http://ace-tv.xyz:8080/live/joan2/joan2/3700.ts
-#EXTINF:-1,EX-YU: CMAX 2
-http://ace-tv.xyz:8080/live/joan2/joan2/3701.ts
-#EXTINF:-1,EX-YU: CSTAR PREMIER 1
-http://ace-tv.xyz:8080/live/joan2/joan2/3702.ts
-#EXTINF:-1,EX-YU: CSTAR PREMIER 2
-http://ace-tv.xyz:8080/live/joan2/joan2/3703.ts
-#EXTINF:-1,EX-YU: DM SAT
-http://ace-tv.xyz:8080/live/joan2/joan2/3922.ts
-#EXTINF:-1,EX-YU: FACE TV
-http://ace-tv.xyz:8080/live/joan2/joan2/3704.ts
-#EXTINF:-1,EX-YU: FEDERALNA
-http://ace-tv.xyz:8080/live/joan2/joan2/3705.ts
-#EXTINF:-1,EX-YU: FILMBOX EXTRA
-http://ace-tv.xyz:8080/live/joan2/joan2/3706.ts
-#EXTINF:-1,EX-YU: GRAND
-http://ace-tv.xyz:8080/live/joan2/joan2/3707.ts
-#EXTINF:-1,EX-YU: GRAND 2
-http://ace-tv.xyz:8080/live/joan2/joan2/3708.ts
-#EXTINF:-1,EX-YU: HAYAT
-http://ace-tv.xyz:8080/live/joan2/joan2/3709.ts
-#EXTINF:-1,EX-YU: HBO 2
-http://ace-tv.xyz:8080/live/joan2/joan2/3710.ts
-#EXTINF:-1,EX-YU: HBO 3
-http://ace-tv.xyz:8080/live/joan2/joan2/3711.ts
-#EXTINF:-1,EX-YU: HBO ADRIA
-http://ace-tv.xyz:8080/live/joan2/joan2/3712.ts
-#EXTINF:-1,EX-YU: HRT 1
-http://ace-tv.xyz:8080/live/joan2/joan2/3870.ts
-#EXTINF:-1,EX-YU: HRT 2
-http://ace-tv.xyz:8080/live/joan2/joan2/3871.ts
-#EXTINF:-1,EX-YU: HRT 3
-http://ace-tv.xyz:8080/live/joan2/joan2/3872.ts
-#EXTINF:-1,EX-YU: HRT 4
-http://ace-tv.xyz:8080/live/joan2/joan2/3873.ts
-#EXTINF:-1,EX-YU: MRT 1
-http://ace-tv.xyz:8080/live/joan2/joan2/3713.ts
-#EXTINF:-1,EX-YU: MRT 2
-http://ace-tv.xyz:8080/live/joan2/joan2/3714.ts
-#EXTINF:-1,EX-YU: NOVA HR
-http://ace-tv.xyz:8080/live/joan2/joan2/3874.ts
-#EXTINF:-1,EX-YU: NOVA RS
-http://ace-tv.xyz:8080/live/joan2/joan2/3717.ts
-#EXTINF:-1,EX-YU: OBN
-http://ace-tv.xyz:8080/live/joan2/joan2/3718.ts
-#EXTINF:-1,EX-YU: PRVA
-http://ace-tv.xyz:8080/live/joan2/joan2/3944.ts
-#EXTINF:-1,EX-YU: PRVA PLUS
-http://ace-tv.xyz:8080/live/joan2/joan2/3723.ts
-#EXTINF:-1,EX-YU: RTL
-http://ace-tv.xyz:8080/live/joan2/joan2/3875.ts
-#EXTINF:-1,EX-YU: RTS 1
-http://ace-tv.xyz:8080/live/joan2/joan2/3945.ts
-#EXTINF:-1,EX-YU: RTS 2
-http://ace-tv.xyz:8080/live/joan2/joan2/3946.ts
-#EXTINF:-1,EX-YU: RTS 3
-http://ace-tv.xyz:8080/live/joan2/joan2/3724.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HD hr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18285.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HD sr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18284.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HD sr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18283.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 hr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18282.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HD sr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18281.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HD sr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18279.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 hr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18278.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HD sr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18277.ts
+#EXTINF:-1,EX-YU: Pink
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18274.ts
+#EXTINF:-1,EX-YU: Pink Action
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18271.ts
+#EXTINF:-1,EX-YU: Pink bih
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18270.ts
+#EXTINF:-1,EX-YU: Pink Classic
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18269.ts
+#EXTINF:-1,EX-YU: Pink Extra
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18268.ts
+#EXTINF:-1,EX-YU: Pink Fashion
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18267.ts
+#EXTINF:-1,EX-YU: Pink Film
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18266.ts
+#EXTINF:-1,EX-YU: Pink Folk
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18265.ts
+#EXTINF:-1,EX-YU: Pink Hits 1
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18263.ts
+#EXTINF:-1,EX-YU: Pink Koncert
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18261.ts
+#EXTINF:-1,EX-YU: Pink Premium
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18258.ts
+#EXTINF:-1,EX-YU: Pink Serije
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18256.ts
+#EXTINF:-1,EX-YU: Pink Super Kids
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18255.ts
+#EXTINF:-1,EX-YU: Pink Thriller
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18254.ts
+#EXTINF:-1,EX-YU: PinkComedy
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18252.ts
+#EXTINF:-1,EX-YU: PinkHoror
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18250.ts
+#EXTINF:-1,EX-YU: PinkM
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18248.ts
+#EXTINF:-1,EX-YU: Prva Max
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18246.ts
+#EXTINF:-1,EX-YU: Prva Plus
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18245.ts
+#EXTINF:-1,EX-YU: Prva World
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18244.ts
+#EXTINF:-1,EX-YU: RTCG 1
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18242.ts
+#EXTINF:-1,EX-YU: RTCG SAT
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18240.ts
+#EXTINF:-1,EX-YU: RTL 2
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18238.ts
+#EXTINF:-1,EX-YU: RTL Crime
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18237.ts
+#EXTINF:-1,EX-YU: Rts 2
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18232.ts
+#EXTINF:-1,EX-YU: SlavonskaTV
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18228.ts
+#EXTINF:-1,EX-YU: SOS
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18227.ts
+#EXTINF:-1,EX-YU: Sport Klub 2 HD sr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18225.ts
+#EXTINF:-1,EX-YU: Sport Klub 3 HD sr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18224.ts
+#EXTINF:-1,EX-YU: sportklub1hr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18222.ts
+#EXTINF:-1,EX-YU: sportklub3hr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18220.ts
+#EXTINF:-1,EX-YU: sportklub4sr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18219.ts
+#EXTINF:-1,EX-YU: sportklub5sr
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18218.ts
+#EXTINF:-1,EX-YU: sportskatv
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18216.ts
+#EXTINF:-1,EX-YU: StudioB
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18215.ts
+#EXTINF:-1,EX-YU: Travel chanell
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18213.ts
+#EXTINF:-1,EX-YU: TV 1000
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18212.ts
+#EXTINF:-1,EX-YU: viasathistory
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18208.ts
+#EXTINF:-1,RS | BHT HD
+http://185.11.145.30:8080/live/volkan1/volkan123/1913.ts
+#EXTINF:-1,RS | BOSNATV1
+http://185.11.145.30:8080/live/volkan1/volkan123/1875.ts
+#EXTINF:-1,RS | DISCOVERY CHANNEL
+http://185.11.145.30:8080/live/volkan1/volkan123/1882.ts
+#EXTINF:-1,RS | DM sat
+http://185.11.145.30:8080/live/volkan1/volkan123/1905.ts
+#EXTINF:-1,RS | DOMA TV
+http://185.11.145.30:8080/live/volkan1/volkan123/1919.ts
+#EXTINF:-1,RS | Face TV
+http://185.11.145.30:8080/live/volkan1/volkan123/1909.ts
+#EXTINF:-1,RS | Glas Drine
+http://185.11.145.30:8080/live/volkan1/volkan123/1886.ts
+#EXTINF:-1,RS | Happy TV
+http://185.11.145.30:8080/live/volkan1/volkan123/1883.ts
+#EXTINF:-1,RS | HRT 1
+http://185.11.145.30:8080/live/volkan1/volkan123/1890.ts
+#EXTINF:-1,RS | HRT 2
+http://185.11.145.30:8080/live/volkan1/volkan123/1891.ts
+#EXTINF:-1,RS | HRT 3
+http://185.11.145.30:8080/live/volkan1/volkan123/1892.ts
+#EXTINF:-1,RS | HRT 4
+http://185.11.145.30:8080/live/volkan1/volkan123/1893.ts
+#EXTINF:-1,RS | KANAL 5
+http://185.11.145.30:8080/live/volkan1/volkan123/1885.ts
+#EXTINF:-1,RS | NOVA
+http://185.11.145.30:8080/live/volkan1/volkan123/1894.ts
+#EXTINF:-1,RS | OBN
+http://185.11.145.30:8080/live/volkan1/volkan123/1910.ts
+#EXTINF:-1,RS | Pink
+http://185.11.145.30:8080/live/volkan1/volkan123/1895.ts
+#EXTINF:-1,RS | PINK WESTERN
+http://185.11.145.30:8080/live/volkan1/volkan123/1911.ts
+#EXTINF:-1,RS | PINK COMEDY
+http://185.11.145.30:8080/live/volkan1/volkan123/1897.ts
+#EXTINF:-1,RS | PINK CRIME&MISTERY
+http://185.11.145.30:8080/live/volkan1/volkan123/1898.ts
+#EXTINF:-1,RS | PINK FILM
+http://185.11.145.30:8080/live/volkan1/volkan123/1899.ts
+#EXTINF:-1,RS | PINK FOLK 1
+http://185.11.145.30:8080/live/volkan1/volkan123/1900.ts
+#EXTINF:-1,RS | PINK HORROR
+http://185.11.145.30:8080/live/volkan1/volkan123/1901.ts
+#EXTINF:-1,RS | PINK PLUS
+http://185.11.145.30:8080/live/volkan1/volkan123/1904.ts
+#EXTINF:-1,RS | Prva
+http://185.11.145.30:8080/live/volkan1/volkan123/1884.ts
+#EXTINF:-1,RS | RTL
+http://185.11.145.30:8080/live/volkan1/volkan123/1915.ts
+#EXTINF:-1,RS | RTL 2
+http://185.11.145.30:8080/live/volkan1/volkan123/1916.ts
+#EXTINF:-1,RS | RTL KOCKICA
+http://185.11.145.30:8080/live/volkan1/volkan123/1918.ts
+#EXTINF:-1,RS | RTL Kockica
+http://185.11.145.30:8080/live/volkan1/volkan123/1907.ts
+#EXTINF:-1,RS | RTS1
+http://185.11.145.30:8080/live/volkan1/volkan123/1920.ts
+#EXTINF:-1,RS | RTS2
+http://185.11.145.30:8080/live/volkan1/volkan123/1921.ts
+#EXTINF:-1,RS | Valentino TV
+http://185.11.145.30:8080/live/volkan1/volkan123/1906.ts
