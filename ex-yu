@@ -289,3 +289,78 @@ http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74629.ts
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74632.ts
 #EXTINF:-1,AL: ARENA SPORT 1 HD
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/119263.ts
+
+#EXTM3U
+#EXTINF:-1,iptvtools_36
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,TV Puls
+http://37.59.17.187:8005/live/Edi2/Edi2/1631.ts
+#EXTINF:-1,RTCG
+http://37.59.17.187:8005/live/Edi2/Edi2/1616.ts
+#EXTINF:-1,HRT 1
+http://37.59.17.187:8005/live/Edi2/Edi2/1263.ts
+#EXTINF:-1,HRT 2
+http://37.59.17.187:8005/live/Edi2/Edi2/1262.ts
+#EXTINF:-1,HRT 3
+http://37.59.17.187:8005/live/Edi2/Edi2/1261.ts
+#EXTINF:-1,HRT 4
+http://37.59.17.187:8005/live/Edi2/Edi2/1260.ts
+#EXTINF:-1,Lov i Ribolov
+http://37.59.17.187:8005/live/Edi2/Edi2/1591.ts
+#EXTINF:-1,RTS1
+http://37.59.17.187:8005/live/Edi2/Edi2/477.ts
+#EXTINF:-1,RTS 2
+http://37.59.17.187:8005/live/Edi2/Edi2/476.ts
+#EXTINF:-1,B92
+http://37.59.17.187:8005/live/Edi2/Edi2/591.ts
+#EXTINF:-1,MKTV 2
+http://37.59.17.187:8005/live/Edi2/Edi2/694.ts
+#EXTINF:-1,Pink 1
+http://37.59.17.187:8005/live/Edi2/Edi2/582.ts
+#EXTINF:-1,Pink 2
+http://37.59.17.187:8005/live/Edi2/Edi2/581.ts
+#EXTINF:-1,Pink 3
+http://37.59.17.187:8005/live/Edi2/Edi2/580.ts
+#EXTINF:-1,Pink Folk 1
+http://37.59.17.187:8005/live/Edi2/Edi2/575.ts
+#EXTINF:-1,Pink Folk 2
+http://37.59.17.187:8005/live/Edi2/Edi2/574.ts
+#EXTINF:-1,Balkan TV
+http://37.59.17.187:8005/live/Edi2/Edi2/685.ts
+#EXTINF:-1,Pink Zabava
+http://37.59.17.187:8005/live/Edi2/Edi2/559.ts
+#EXTINF:-1,Pink Western
+http://37.59.17.187:8005/live/Edi2/Edi2/471.ts
+#EXTINF:-1,Pink Thriller
+http://37.59.17.187:8005/live/Edi2/Edi2/578.ts
+#EXTINF:-1,Pink M
+http://37.59.17.187:8005/live/Edi2/Edi2/571.ts
+#EXTINF:-1,Pink Kids
+http://37.59.17.187:8005/live/Edi2/Edi2/470.ts
+#EXTINF:-1,Pink Horror
+http://37.59.17.187:8005/live/Edi2/Edi2/573.ts
+#EXTINF:-1,Pink Extra
+http://37.59.17.187:8005/live/Edi2/Edi2/469.ts
+#EXTINF:-1,Pink Crime and Mistery
+http://37.59.17.187:8005/live/Edi2/Edi2/577.ts
+#EXTINF:-1,Pink Comedy
+http://37.59.17.187:8005/live/Edi2/Edi2/468.ts
+#EXTINF:-1,Pink BH
+http://37.59.17.187:8005/live/Edi2/Edi2/572.ts
+#EXTINF:-1,OBN
+http://37.59.17.187:8005/live/Edi2/Edi2/474.ts
+#EXTINF:-1,BN Music
+http://37.59.17.187:8005/live/Edi2/Edi2/723.ts
+#EXTINF:-1,Nova TV
+http://37.59.17.187:8005/live/Edi2/Edi2/478.ts
+#EXTINF:-1,Hayat SR
+http://37.59.17.187:8005/live/Edi2/Edi2/535.ts
+#EXTINF:-1,Hayat Plus SR
+http://37.59.17.187:8005/live/Edi2/Edi2/536.ts
+#EXTINF:-1,Hayat Folk SR
+http://37.59.17.187:8005/live/Edi2/Edi2/537.ts
+#EXTINF:-1,Club TV
+http://37.59.17.187:8005/live/Edi2/Edi2/268.ts
+#EXTINF:-1,Doma TV
+http://37.59.17.187:8005/live/Edi2/Edi2/479.ts
