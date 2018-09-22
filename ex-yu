@@ -289,10 +289,6 @@ http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74629.ts
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74632.ts
 #EXTINF:-1,AL: ARENA SPORT 1 HD
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/119263.ts
-
-#EXTM3U
-#EXTINF:-1,iptvtools_36
-http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTM3U
 #EXTINF:-1,TV Puls
 http://37.59.17.187:8005/live/Edi2/Edi2/1631.ts
@@ -364,8 +360,6 @@ http://37.59.17.187:8005/live/Edi2/Edi2/537.ts
 http://37.59.17.187:8005/live/Edi2/Edi2/268.ts
 #EXTINF:-1,Doma TV
 http://37.59.17.187:8005/live/Edi2/Edi2/479.ts
-#EXTINF:0,=====SPORT=====
-http://37.59.17.187:8005/live/Edi2/Edi2/1207.ts
 #EXTINF:0,SUPER SPORT 1 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/1579.ts
 #EXTINF:0,SUPER SPORT 2 HD
@@ -486,3 +480,52 @@ http://37.59.17.187:8005/live/Edi2/Edi2/532.ts
 http://37.59.17.187:8005/live/Edi2/Edi2/533.ts
 #EXTINF:0,Eurosport 2
 http://37.59.17.187:8005/live/Edi2/Edi2/534.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1543.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1544.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1545.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1546.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1547.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 1 SBR
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1548.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 2 SBR
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1549.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3 SBR
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1550.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 SBR
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1551.ts
+#EXTINF:-1,Ex-Yu: SPORT KLUB 4 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/3678.ts
+#EXTINF:-1,Ex-Yu: SPORT KLUB 5 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/3679.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 3
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/2100.ts
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1968.ts
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1967.ts
+#EXTINF:-1,AL:Super Sport 6 /SS Kosova 2 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1590.ts
+#EXTINF:-1,AL:Super Sport 5 /SS Kosova 1 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1589.ts
+#EXTINF:-1,AL: Supersport 4 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/941.ts
+#EXTINF:-1,AL: Supersport 3 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/942.ts
+#EXTINF:-1,AL: Supersport 2 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/943.ts
+#EXTINF:-1,AL: Supersport 1 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/944.ts
+#EXTINF:-1,AL:Tring Sport 4 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1594.ts
+#EXTINF:-1,AL:Tring Sport 3 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1593.ts
+#EXTINF:-1,AL:Tring Sport 2 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1592.ts
+#EXTINF:-1,AL:Tring Sport 1 HD
+http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1591.ts
+iyikosan is offline Report Post  	Reply With Quote Thanks
