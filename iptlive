@@ -151,3 +151,44 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8
 #EXTINF:-1,iptvtools_107
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTM3U
+#EXTINF:-1,TV Puls
+http://37.59.17.187:8005/live/Edi2/Edi2/1631.ts
+#EXTINF:-1,RTCG
+http://37.59.17.187:8005/live/Edi2/Edi2/1616.ts
+#EXTINF:-1,HRT 2
+http://37.59.17.187:8005/live/Edi2/Edi2/1262.ts
+#EXTINF:-1,HRT 3
+http://37.59.17.187:8005/live/Edi2/Edi2/1261.ts
+#EXTINF:-1,HRT 4
+http://37.59.17.187:8005/live/Edi2/Edi2/1260.ts
+#EXTINF:-1,Pink Zabava
+http://37.59.17.187:8005/live/Edi2/Edi2/559.ts
+#EXTINF:-1,Pink Western
+http://37.59.17.187:8005/live/Edi2/Edi2/471.ts
+#EXTINF:-1,Pink M
+http://37.59.17.187:8005/live/Edi2/Edi2/571.ts
+#EXTINF:-1,Pink Kids
+http://37.59.17.187:8005/live/Edi2/Edi2/470.ts
+#EXTINF:-1,Pink Crime and Mistery
+http://37.59.17.187:8005/live/Edi2/Edi2/577.ts
+#EXTINF:-1,Pink Comedy
+http://37.59.17.187:8005/live/Edi2/Edi2/468.ts
+#EXTINF:-1,Pink BH
+http://37.59.17.187:8005/live/Edi2/Edi2/572.ts
+#EXTINF:-1,OBN
+http://37.59.17.187:8005/live/Edi2/Edi2/474.ts
+#EXTINF:-1,BN Music
+http://37.59.17.187:8005/live/Edi2/Edi2/723.ts
+#EXTINF:-1,Nova TV
+http://37.59.17.187:8005/live/Edi2/Edi2/478.ts
+#EXTINF:-1,Hayat SR
+http://37.59.17.187:8005/live/Edi2/Edi2/535.ts
+#EXTINF:-1,Hayat Plus SR
+http://37.59.17.187:8005/live/Edi2/Edi2/536.ts
+#EXTINF:-1,Hayat Folk SR
+http://37.59.17.187:8005/live/Edi2/Edi2/537.ts
+#EXTINF:-1,Club TV
+http://37.59.17.187:8005/live/Edi2/Edi2/268.ts
+#EXTINF:-1,Doma TV
+http://37.59.17.187:8005/live/Edi2/Edi2/479.ts
