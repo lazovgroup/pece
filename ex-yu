@@ -289,7 +289,6 @@ http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74629.ts
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74632.ts
 #EXTINF:-1,AL: ARENA SPORT 1 HD
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/119263.ts
-#EXTM3U
 #EXTINF:-1,TV Puls
 http://37.59.17.187:8005/live/Edi2/Edi2/1631.ts
 #EXTINF:-1,RTCG
@@ -528,8 +527,7 @@ http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1593.ts
 http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1592.ts
 #EXTINF:-1,AL:Tring Sport 1 HD
 http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1591.ts
-iyikosan is offline Report Post  	Reply With Quote Thanks
-
+iyikosan is offline Report Post  	Reply With Quote Thank
 #EXTM3U
 
 #EXTINF:-1,iptvtools_4
@@ -725,3 +723,23 @@ http://37.59.17.187:8005/live/Edi2/Edi2/537.ts
 http://37.59.17.187:8005/live/Edi2/Edi2/268.ts
 #EXTINF:-1,Doma TV
 http://37.59.17.187:8005/live/Edi2/Edi2/479.ts
+#EXTINF:-1,<<<<3PM ELP<<<SPORTS WORK<<<
+http://portal.simiptv.com:8001/live/priya/12345/18607.m3u8
+#EXTINF:-1,Sport |  Arena Sport 1 Serbian
+http://portal.simiptv.com:8001/live/priya/12345/18603.m3u8
+#EXTINF:-1,Sport |  Arena Sport 2 Serbian
+http://portal.simiptv.com:8001/live/priya/12345/18604.m3u8
+#EXTINF:-1,Sport |  Arena Sport 3 Serbian
+http://portal.simiptv.com:8001/live/priya/12345/18605.m3u8
+#EXTINF:-1,Sport |  Arena Sport 4 Serbian
+http://portal.simiptv.com:8001/live/priya/12345/18606.m3u8
+#EXTINF:-1,Sport |  Arena Sport 1 HR
+http://portal.simiptv.com:8001/live/priya/12345/19952.m3u8
+#EXTINF:-1,Sport |  Arena Sport 2 HR
+http://portal.simiptv.com:8001/live/priya/12345/19953.m3u8
+#EXTINF:-1,Arena Sport 3 (HR)
+http://portal.simiptv.com:8001/live/priya/12345/19954.m3u8
+#EXTINF:-1,Arena Sport 4 (HR)
+http://portal.simiptv.com:8001/live/priya/12345/19955.m3u8
+#EXTINF:-1,Arena Sport 5 HR
+http://portal.simiptv.com:8001/live/priya/12345/19956.m3u8
