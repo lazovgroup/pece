@@ -1,294 +1,4 @@
 #EXTM3U
-#EXTINF:-1,BeIN_Sport_04_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/66.ts
-#EXTINF:-1,BeIN_Sport_03_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/65.ts
-#EXTINF:-1,BeIN_Sport_01_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/63.ts
-#EXTINF:-1,BeIN_Sport_05_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/67.ts
-#EXTINF:-1,BeIN_Sport_06_HD2
-http://173.249.22.88:8000/live/solosudiotv/solosudiotv/68.ts
-#EXTINF:-1,SPORT: FOX SPORTS 1 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126074.ts
-#EXTINF:-1,SPORT: Fox Sports 2 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/60409.ts
-#EXTINF:-1,SPORT: FOX Sports Arizona
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126076.ts
-#EXTINF:-1,SPORT: FOX Sports Detroit
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126077.ts
-#EXTINF:-1,SPORT: FOX Sports Florida
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126078.ts
-#EXTINF:-1,SPORT: FOX Sports Net
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126080.ts
-#EXTINF:-1,SPORT: FOX Sports North
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126081.ts
-#EXTINF:-1,SPORT: FOX Sports Ohio
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126082.ts
-#EXTINF:-1,SPORT: FOX Sports Prime Ticket
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126083.ts
-#EXTINF:-1,SPORT: FOX Sports San Diego
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126084.ts
-#EXTINF:-1,SPORT: FOX Sports South
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126085.ts
-#EXTINF:-1,SPORT: FOX Sports Southeast
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126086.ts
-#EXTINF:-1,SPORT: FOX Sports Southwest
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126087.ts
-#EXTINF:-1,SPORT: Fox Sports Southwest Plus
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126088.ts
-#EXTINF:-1,SPORT: FOX Sports West
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126090.ts
-#EXTINF:-1,SPORT: FOX Sports Wisconsin
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126091.ts
-#EXTINF:-1,SPORT: BT Sport 1 FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120666.ts
-#EXTINF:-1,SPORT: BT Sport 2 FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94771.ts
-#EXTINF:-1,SPORT: BT Sport 3 FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94772.ts
-#EXTINF:-1,SPORT: BT Sport 1 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62225.ts
-#EXTINF:-1,SPORT: BT Sport 2 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62224.ts
-#EXTINF:-1,SPORT: BT Sport 3 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62223.ts
-#EXTINF:-1,SPORT: BT Sport ESPN FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94773.ts
-#EXTINF:-1,SPORT: BT Sport ESPN HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/93488.ts
-#EXTINF:-1,SPORT: BT Sport Europe
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127144.ts
-#EXTINF:-1,SPORT: BT Sport Extra 1
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100085.ts
-#EXTINF:-1,SPORT: BT Sport Extra 2 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/105180.ts
-#EXTINF:-1,SPORT: BT Sport Extra 3
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/99947.ts
-#EXTINF:-1,SPORT: BT Sport Extra 4
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/96511.ts
-#EXTINF:-1,SPORT: BT Sport Extra 5
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/93902.ts
-#EXTINF:-1,SPORT: beIN Sports HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106912.ts
-#EXTINF:-1,SPORT: beIN Sports HD 1
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62751.ts
-#EXTINF:-1,SPORT: beIN Sports HD 2
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77965.ts
-#EXTINF:-1,SPORT: beIN Sports HD 3
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77963.ts
-#EXTINF:-1,SPORT: beIN Sports HD 4
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77961.ts
-#EXTINF:-1,SPORT: beIN Sports HD 5
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77959.ts
-#EXTINF:-1,SPORT: beIN Sports HD 6
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77957.ts
-#EXTINF:-1,SPORT: beIN Sports HD 7
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77955.ts
-#EXTINF:-1,SPORT: beIN Sports HD 8
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77953.ts
-#EXTINF:-1,SPORT: beIN Sports HD 9
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77952.ts
-#EXTINF:-1,SPORT: beIN Sports HD 10
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/78936.ts
-#EXTINF:-1,SPORT: beIN Sports HD 11
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74643.ts
-#EXTINF:-1,SPORT: beIN Sports HD 12
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62742.ts
-#EXTINF:-1,SPORT: beIN Sports Max 2
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/106577.ts
-#EXTINF:-1,SPORT: beIN Sports Max 5
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100285.ts
-#EXTINF:-1,SPORT: beIN Sports Max 6
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100286.ts
-#EXTINF:-1,SPORT: beIN Sports Max 7
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100287.ts
-#EXTINF:-1,SPORT: beIN Sports Max 8
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100288.ts
-#EXTINF:-1,SPORT: beIN Sports Max 9
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100289.ts
-#EXTINF:-1,SPORT: beIN Sports Max 10
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100290.ts
-#EXTINF:-1,SPORT: beIN Sports News HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/62754.ts
-#EXTINF:-1,SPORT: Sky Sports Action FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/128428.ts
-#EXTINF:-1,SPORT: Sky Sports 1 Main Event HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127821.ts
-#EXTINF:-1,SPORT: Sky Sports 2 Cricket HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127823.ts
-#EXTINF:-1,SPORT: Sky Sports 3 Action HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127824.ts
-#EXTINF:-1,SPORT: Sky Sports 4 Golf HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127825.ts
-#EXTINF:-1,SPORT: Sky Sports 5 Football HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127826.ts
-#EXTINF:-1,SPORT: Sky Sports Action HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74496.ts
-#EXTINF:-1,SPORT: Sky Sports Arena HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74495.ts
-#EXTINF:-1,SPORT: Sky Sports Cricket HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74492.ts
-#EXTINF:-1,SPORT: Sky Sports F1 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74497.ts
-#EXTINF:-1,SPORT: Sky Sports Football HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/65085.ts
-#EXTINF:-1,SPORT: Sky Sports Golf HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74770.ts
-#EXTINF:-1,SPORT: Sky Sports Main Event HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74486.ts
-#EXTINF:-1,SPORT: Sky Sports Mix HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/98196.ts
-#EXTINF:-1,SPORT: Sky Sports News HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/91401.ts
-#EXTINF:-1,SPORT: Sky Sports News HQ HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/93230.ts
-#EXTINF:-1,SPORT: Sky Sports P/L HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127827.ts
-#EXTINF:-1,SPORT: Sky Sports Premier League HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/65083.ts
-#EXTINF:-1,SPORT: Sky Sports The Open HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/93236.ts
-#EXTINF:-1,SPORT: AFN Sports 1 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100724.ts
-#EXTINF:-1,SPORT: AFN Sports 2 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/100725.ts
-#EXTINF:-1,SPORT: At the races
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126116.ts
-#EXTINF:-1,SPORT: beout Q 1 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120964.ts
-#EXTINF:-1,SPORT: beout Q 2 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120965.ts
-#EXTINF:-1,SPORT: beout Q 3 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120966.ts
-#EXTINF:-1,SPORT: beout Q 4 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120967.ts
-#EXTINF:-1,SPORT: beout Q 5 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120968.ts
-#EXTINF:-1,SPORT: beout Q 6 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120969.ts
-#EXTINF:-1,SPORT: beout Q 7 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/120970.ts
-#EXTINF:-1,SPORT: BIG TEN NETWORK
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126117.ts
-#EXTINF:-1,SPORT: BOUTQ 7 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/119250.ts
-#EXTINF:-1,SPORT: Box Nation (UK)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/104874.ts
-#EXTINF:-1,SPORT: BOX NATION HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74518.ts
-#EXTINF:-1,SPORT: British Eurosport 2
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126118.ts
-#EXTINF:-1,SPORT: Chelsea TV HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/65020.ts
-#EXTINF:-1,SPORT: Dolce Sport 2 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126212.ts
-#EXTINF:-1,SPORT: EirSport 2 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/65067.ts
-#EXTINF:-1,SPORT: Eleven FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115580.ts
-#EXTINF:-1,SPORT: Eleven Sports 1 (UK)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/124390.ts
-#EXTINF:-1,SPORT: Eleven Sports 2 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/65064.ts
-#EXTINF:-1,SPORT: Eleven Sports 3 (Belgium NL)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/124720.ts
-#EXTINF:-1,SPORT: ELEVEN SPORTS HD (US)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77121.ts
-#EXTINF:-1,SPORT: ESPN
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126122.ts
-#EXTINF:-1,SPORT: ESPN 3
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126123.ts
-#EXTINF:-1,SPORT: ESPN Direct
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126124.ts
-#EXTINF:-1,SPORT: ESPN2
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126127.ts
-#EXTINF:-1,SPORT: Eurosport 1 FHD (UK)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/94786.ts
-#EXTINF:-1,SPORT: Eurosport 1 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/65014.ts
-#EXTINF:-1,SPORT: Eurosport 2 FHD (UK)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115582.ts
-#EXTINF:-1,SPORT: Eurosport 2 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64985.ts
-#EXTINF:-1,SPORT: Flow Sports 1 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74941.ts
-#EXTINF:-1,SPORT: FOX DEPORTES HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126115.ts
-#EXTINF:-1,SPORT: Futbol 1 HD (UKR)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115558.ts
-#EXTINF:-1,SPORT: Futbol 2 FHD (UKR)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115559.ts
-#EXTINF:-1,SPORT: GOLF FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112043.ts
-#EXTINF:-1,SPORT: GOLF HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112044.ts
-#EXTINF:-1,SPORT: KBS SPORTS (KOR)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115554.ts
-#EXTINF:-1,SPORT: Liverpool FC TV
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64983.ts
-#EXTINF:-1,SPORT: LONGHORN NETWORK
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126128.ts
-#EXTINF:-1,SPORT: Manchester United FC FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/64982.ts
-#EXTINF:-1,SPORT: Manchester United FC HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/108657.ts
-#EXTINF:-1,SPORT: MBC SPORTS (KOR)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115555.ts
-#EXTINF:-1,SPORT: Pac-12 Arizona
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126092.ts
-#EXTINF:-1,SPORT: Pac-12 Bay Area
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126093.ts
-#EXTINF:-1,SPORT: Pac-12 Los Angeles
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126094.ts
-#EXTINF:-1,SPORT: Pac-12 Mountain
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126095.ts
-#EXTINF:-1,SPORT: Pac-12 National
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126096.ts
-#EXTINF:-1,SPORT: Pac-12 Oregon
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126097.ts
-#EXTINF:-1,SPORT: Pac-12 Washington
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126098.ts
-#EXTINF:-1,SPORT: PPTV SPORTS (THAI)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/124715.ts
-#EXTINF:-1,SPORT: Premium Sport
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/124906.ts
-#EXTINF:-1,SPORT: Racing
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126130.ts
-#EXTINF:-1,SPORT: SBS GOLF (KOR)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115556.ts
-#EXTINF:-1,SPORT: SBS SPORTS (KOR)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/115557.ts
-#EXTINF:-1,SPORT: SEC NETWORK
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126131.ts
-#EXTINF:-1,SPORT: Sky Sports1 Main Event HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/127822.ts
-#EXTINF:-1,SPORT: SKYNET SPORTS 1 (MY)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74630.ts
-#EXTINF:-1,SPORT: SkyNet Sports 4
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/114868.ts
-#EXTINF:-1,SPORT: SKYNET SPORTS 4 (MY)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/121815.ts
-#EXTINF:-1,SPORT: SKYNET SPORTS 5 (MY)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/121816.ts
-#EXTINF:-1,SPORT: SKYNET SPORTS HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126211.ts
-#EXTINF:-1,SPORT: Sport TV1 (PT)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/111173.ts
-#EXTINF:-1,SPORT: STAR SPORTS SELECT 1 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/79608.ts
-#EXTINF:-1,SPORT: TELECOM Sport 1
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/111175.ts
-#EXTINF:-1,SPORT: Tennis Channel FHD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/126132.ts
-#EXTINF:-1,SPORT: UK SkyNet Sports 1
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74627.ts
-#EXTINF:-1,SPORT: UK SkyNet Sports 3
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74629.ts
-#EXTINF:-1,SPORT: UK SkyNet Sports 6
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74632.ts
-#EXTINF:-1,AL: ARENA SPORT 1 HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/119263.ts
 #EXTINF:-1,TV Puls
 http://37.59.17.187:8005/live/Edi2/Edi2/1631.ts
 #EXTINF:-1,RTCG
@@ -299,8 +9,6 @@ http://37.59.17.187:8005/live/Edi2/Edi2/1263.ts
 http://37.59.17.187:8005/live/Edi2/Edi2/1262.ts
 #EXTINF:-1,HRT 3
 http://37.59.17.187:8005/live/Edi2/Edi2/1261.ts
-#EXTINF:-1,HRT 4
-http://37.59.17.187:8005/live/Edi2/Edi2/1260.ts
 #EXTINF:-1,Lov i Ribolov
 http://37.59.17.187:8005/live/Edi2/Edi2/1591.ts
 #EXTINF:-1,RTS1
@@ -341,16 +49,12 @@ http://37.59.17.187:8005/live/Edi2/Edi2/469.ts
 http://37.59.17.187:8005/live/Edi2/Edi2/577.ts
 #EXTINF:-1,Pink Comedy
 http://37.59.17.187:8005/live/Edi2/Edi2/468.ts
-#EXTINF:-1,Pink BH
-http://37.59.17.187:8005/live/Edi2/Edi2/572.ts
 #EXTINF:-1,OBN
 http://37.59.17.187:8005/live/Edi2/Edi2/474.ts
 #EXTINF:-1,BN Music
 http://37.59.17.187:8005/live/Edi2/Edi2/723.ts
 #EXTINF:-1,Nova TV
 http://37.59.17.187:8005/live/Edi2/Edi2/478.ts
-#EXTINF:-1,Hayat SR
-http://37.59.17.187:8005/live/Edi2/Edi2/535.ts
 #EXTINF:-1,Hayat Plus SR
 http://37.59.17.187:8005/live/Edi2/Edi2/536.ts
 #EXTINF:-1,Hayat Folk SR
@@ -359,334 +63,214 @@ http://37.59.17.187:8005/live/Edi2/Edi2/537.ts
 http://37.59.17.187:8005/live/Edi2/Edi2/268.ts
 #EXTINF:-1,Doma TV
 http://37.59.17.187:8005/live/Edi2/Edi2/479.ts
-#EXTINF:0,SUPER SPORT 1 HD
+#EXTINF:-1,SUPER SPORT 1 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/1579.ts
-#EXTINF:0,SUPER SPORT 2 HD
+#EXTINF:-1,SUPER SPORT 2 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/629.ts
-#EXTINF:0,SUPER SPORT 3 HD
+#EXTINF:-1,SUPER SPORT 3 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/630.ts
-#EXTINF:0,SUPER SPORT 4 HD
+#EXTINF:-1,SUPER SPORT 4 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/632.ts
-#EXTINF:0,SUPER SPORT KOSOVA 1 HD
+#EXTINF:-1,SUPER SPORT KOSOVA 1 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/865.ts
-#EXTINF:0,SUPER SPORT KOSOVA 2
+#EXTINF:-1,SUPER SPORT KOSOVA 2
 http://37.59.17.187:8005/live/Edi2/Edi2/866.ts
-#EXTINF:0,Telesport
-http://37.59.17.187:8005/live/Edi2/Edi2/1746.ts
-#EXTINF:0,TRING SPORT NEWS
+#EXTINF:-1,TRING SPORT NEWS
 http://37.59.17.187:8005/live/Edi2/Edi2/1224.ts
-#EXTINF:0,TRING SPORT 1 HD
+#EXTINF:-1,TRING SPORT 1 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/1011.ts
-#EXTINF:0,TRING SPORT 2 HD
+#EXTINF:-1,TRING SPORT 2 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/1093.ts
-#EXTINF:0,TRING SPORT 3 HD
+#EXTINF:-1,TRING SPORT 3 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/1094.ts
-#EXTINF:0,TRING SPORT 4 HD
+#EXTINF:-1,TRING SPORT 4 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/1095.ts
-#EXTINF:0,SPORT KLUB 1 HD
+#EXTINF:-1,SPORT KLUB 1 HD
 http://37.59.17.187:8005/live/Edi2/Edi2/847.ts
-#EXTINF:0,SPORT KLUB 2
+#EXTINF:-1,SPORT KLUB 2
 http://37.59.17.187:8005/live/Edi2/Edi2/848.ts
-#EXTINF:0,SPORT KLUB 3
+#EXTINF:-1,SPORT KLUB 3
 http://37.59.17.187:8005/live/Edi2/Edi2/905.ts
-#EXTINF:0,ARENA SPORT 1
+#EXTINF:-1,ARENA SPORT 1
 http://37.59.17.187:8005/live/Edi2/Edi2/361.ts
-#EXTINF:0,ARENA SPORT 2
+#EXTINF:-1,ARENA SPORT 2
 http://37.59.17.187:8005/live/Edi2/Edi2/362.ts
-#EXTINF:0,ARENA SPORT 3
+#EXTINF:-1,ARENA SPORT 3
 http://37.59.17.187:8005/live/Edi2/Edi2/363.ts
-#EXTINF:0,ARENA SPORT 4
+#EXTINF:-1,ARENA SPORT 4
 http://37.59.17.187:8005/live/Edi2/Edi2/364.ts
-#EXTINF:0,ARENA SPORT 5
+#EXTINF:-1,ARENA SPORT 5
 http://37.59.17.187:8005/live/Edi2/Edi2/991.ts
-#EXTINF:0,(ES) Canal+
-http://37.59.17.187:8005/live/Edi2/Edi2/1621.ts
-#EXTINF:0,(ES) Fox
-http://37.59.17.187:8005/live/Edi2/Edi2/1622.ts
-#EXTINF:0,(ES) Futbol
+#EXTINF:-1,(ES) Futbol
 http://37.59.17.187:8005/live/Edi2/Edi2/1623.ts
-#EXTINF:0,(ES) Real Madrid
+#EXTINF:-1,(ES) Real Madrid
 http://37.59.17.187:8005/live/Edi2/Edi2/1624.ts
-#EXTINF:0,(FR) Canal Sport
-http://37.59.17.187:8005/live/Edi2/Edi2/1625.ts
-#EXTINF:0,(FR) Info Sport
-http://37.59.17.187:8005/live/Edi2/Edi2/1626.ts
-#EXTINF:0,Sky Sport F1 UK
+#EXTINF:-1,Sky Sport F1 UK
 http://37.59.17.187:8005/live/Edi2/Edi2/1323.ts
-#EXTINF:0,Sky Sport UK 1
+#EXTINF:-1,Sky Sport UK 1
 http://37.59.17.187:8005/live/Edi2/Edi2/1324.ts
-#EXTINF:0,Sky Sport UK 2
+#EXTINF:-1,Sky Sport UK 2
 http://37.59.17.187:8005/live/Edi2/Edi2/1325.ts
-#EXTINF:0,Sky Sport UK 3
+#EXTINF:-1,Sky Sport UK 3
 http://37.59.17.187:8005/live/Edi2/Edi2/1326.ts
-#EXTINF:0,Sky Sport UK 4
+#EXTINF:-1,Sky Sport UK 4
 http://37.59.17.187:8005/live/Edi2/Edi2/1327.ts
-#EXTINF:0,Sky Sport UK 5
+#EXTINF:-1,Sky Sport UK 5
 http://37.59.17.187:8005/live/Edi2/Edi2/1328.ts
-#EXTINF:0,BT Sport 1
+#EXTINF:-1,BT Sport 1
 http://37.59.17.187:8005/live/Edi2/Edi2/1259.ts
-#EXTINF:0,BT Sport 2
+#EXTINF:-1,BT Sport 2
 http://37.59.17.187:8005/live/Edi2/Edi2/1258.ts
-#EXTINF:0,Canal Sport
-http://37.59.17.187:8005/live/Edi2/Edi2/1388.ts
-#EXTINF:0,Sport1 DE
+#EXTINF:-1,Sport1 DE
 http://37.59.17.187:8005/live/Edi2/Edi2/1238.ts
-#EXTINF:0,Sky Sport 1
+#EXTINF:-1,Sky Sport 1
 http://37.59.17.187:8005/live/Edi2/Edi2/247.ts
-#EXTINF:0,Sky Sport 2 (DE)
+#EXTINF:-1,Sky Sport 2 (DE)
 http://37.59.17.187:8005/live/Edi2/Edi2/248.ts
-#EXTINF:0,Sky Sport 3 DE
+#EXTINF:-1,Sky Sport 3 DE
 http://37.59.17.187:8005/live/Edi2/Edi2/1602.ts
-#EXTINF:0,Sky Sport 4 DE
-http://37.59.17.187:8005/live/Edi2/Edi2/1603.ts
-#EXTINF:0,Sky Sport 5 DE
-http://37.59.17.187:8005/live/Edi2/Edi2/1604.ts
-#EXTINF:0,Sky Sport 6  DE
-http://37.59.17.187:8005/live/Edi2/Edi2/1605.ts
-#EXTINF:0,Sky Sport 7 DE
-http://37.59.17.187:8005/live/Edi2/Edi2/1606.ts
-#EXTINF:0,Sky Sport 8 DE
-http://37.59.17.187:8005/live/Edi2/Edi2/1607.ts
-#EXTINF:0,Sky Sport 9 DE
-http://37.59.17.187:8005/live/Edi2/Edi2/1608.ts
-#EXTINF:0,Sky Sport 10 DE
-http://37.59.17.187:8005/live/Edi2/Edi2/1609.ts
-#EXTINF:0,Sky Sport 11 DE
-http://37.59.17.187:8005/live/Edi2/Edi2/1610.ts
-#EXTINF:0,Sky Fußball Bundesliga DE
-http://37.59.17.187:8005/live/Edi2/Edi2/1273.ts
-#EXTINF:0,Sky  Bundesliga 1
+#EXTINF:-1,Sky  Bundesliga 1
 http://37.59.17.187:8005/live/Edi2/Edi2/249.ts
-#EXTINF:0,SKY Bundesliga (DE)
-http://37.59.17.187:8005/live/Edi2/Edi2/1302.ts
-#EXTINF:0,Sky Bundesliga 2 (DE)
-http://37.59.17.187:8005/live/Edi2/Edi2/1274.ts
-#EXTINF:0,Sky Bundesliga 3
-http://37.59.17.187:8005/live/Edi2/Edi2/1278.ts
-#EXTINF:0,Sky Bundesliga 4 (DE)
-http://37.59.17.187:8005/live/Edi2/Edi2/1277.ts
-#EXTINF:0,Sky Bundesliga 5
-http://37.59.17.187:8005/live/Edi2/Edi2/1276.ts
-#EXTINF:0,Sky Bundesliga 6 (DE)
-http://37.59.17.187:8005/live/Edi2/Edi2/1275.ts
-#EXTINF:0,Extreme Sports HD
-http://37.59.17.187:8005/live/Edi2/Edi2/1795.ts
-#EXTINF:0,Eurosport 1 DE
+#EXTINF:-1,Eurosport 1 DE
 http://37.59.17.187:8005/live/Edi2/Edi2/1826.ts
-#EXTINF:0,Eurosport 1 Croatia
-http://37.59.17.187:8005/live/Edi2/Edi2/532.ts
-#EXTINF:0,Eurosport 2 Croatia
+#EXTINF:-1,Eurosport 2 Croatia
 http://37.59.17.187:8005/live/Edi2/Edi2/533.ts
-#EXTINF:0,Eurosport 2
+#EXTINF:-1,Eurosport 2
 http://37.59.17.187:8005/live/Edi2/Edi2/534.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1543.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1544.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1545.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1546.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1547.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 1 SBR
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1548.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 2 SBR
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1549.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 3 SBR
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1550.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 4 SBR
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1551.ts
-#EXTINF:-1,Ex-Yu: SPORT KLUB 4 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/3678.ts
-#EXTINF:-1,Ex-Yu: SPORT KLUB 5 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/3679.ts
-#EXTINF:-1,EX-YU: SPORT KLUB 3
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/2100.ts
-#EXTINF:-1,EX-YU: Sport Klub 2
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1968.ts
-#EXTINF:-1,EX-YU: Sport Klub 1
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1967.ts
-#EXTINF:-1,AL:Super Sport 6 /SS Kosova 2 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1590.ts
-#EXTINF:-1,AL:Super Sport 5 /SS Kosova 1 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1589.ts
-#EXTINF:-1,AL: Supersport 4 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/941.ts
-#EXTINF:-1,AL: Supersport 3 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/942.ts
-#EXTINF:-1,AL: Supersport 2 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/943.ts
-#EXTINF:-1,AL: Supersport 1 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/944.ts
-#EXTINF:-1,AL:Tring Sport 4 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1594.ts
-#EXTINF:-1,AL:Tring Sport 3 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1593.ts
-#EXTINF:-1,AL:Tring Sport 2 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1592.ts
-#EXTINF:-1,AL:Tring Sport 1 HD
-http://clientportalpro.com:2500/live/live:iptv_2/ECRZoYVtK5/1591.ts
-iyikosan is offline Report Post  	Reply With Quote Thank
-#EXTM3U
-
-#EXTINF:-1,iptvtools_4
+#EXTINF:-1,iptvtools_265
 http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,iptvtools_5
+#EXTINF:-1,iptvtools_266
 http://tvstream.rtvbn.com:1935/live/stream/playlist.m3u8
-#EXTINF:-1,iptvtools_6
+#EXTINF:-1,iptvtools_267
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:-1,iptvtools_8
+#EXTINF:-1,iptvtools_268
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
-#EXTINF:-1,iptvtools_10
+#EXTINF:-1,iptvtools_269
 http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
-#EXTINF:-1,iptvtools_14
+#EXTINF:-1,iptvtools_270
 http://77.238.209.50:8080/hema1
-#EXTINF:-1,iptvtools_15
+#EXTINF:-1,iptvtools_271
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1,iptvtools_16
+#EXTINF:-1,iptvtools_272
 http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1,iptvtools_17
+#EXTINF:-1,iptvtools_273
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1,iptvtools_18
+#EXTINF:-1,iptvtools_274
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1,iptvtools_20
+#EXTINF:-1,iptvtools_275
 http://185.84.145.10:8081/
-#EXTINF:-1,iptvtools_21
+#EXTINF:-1,iptvtools_276
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
-#EXTINF:-1,iptvtools_22
+#EXTINF:-1,iptvtools_277
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
-#EXTINF:-1,iptvtools_23
+#EXTINF:-1,iptvtools_278
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
-#EXTINF:-1,iptvtools_27
-http://109.72.63.194:5900/
-#EXTINF:-1,iptvtools_31
+#EXTINF:-1,iptvtools_280
 http://212.200.102.3:5000/udp/239.99.99.99:23999
-#EXTINF:-1,iptvtools_32
+#EXTINF:-1,iptvtools_281
 http://212.200.102.3:5000/udp/239.6.0.10:5000
-#EXTINF:-1,iptvtools_33
+#EXTINF:-1,iptvtools_282
 http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-1,iptvtools_34
+#EXTINF:-1,iptvtools_283
 http://185.46.161.3/hls/hd.m3u8
-#EXTINF:-1,iptvtools_35
+#EXTINF:-1,iptvtools_284
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,iptvtools_36
+#EXTINF:-1,iptvtools_285
 http://skyfolk.mk/live.m3u8
-#EXTINF:-1,iptvtools_37
+#EXTINF:-1,iptvtools_286
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
-#EXTINF:-1,iptvtools_38
+#EXTINF:-1,iptvtools_287
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
-#EXTINF:-1,iptvtools_39
+#EXTINF:-1,iptvtools_288
 http://play.lanet.tv/live/2009.m3u8
-#EXTINF:-1,iptvtools_40
+#EXTINF:-1,iptvtools_289
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
-#EXTINF:-1,iptvtools_41
-http://91.191.42.74:8080/
-#EXTINF:-1,iptvtools_44
+#EXTINF:-1,iptvtools_291
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,iptvtools_45
+#EXTINF:-1,iptvtools_292
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8%20
-#EXTINF:-1,iptvtools_46
+#EXTINF:-1,iptvtools_293
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-#EXTINF:-1,iptvtools_48
+#EXTINF:-1,iptvtools_294
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1,iptvtools_49
+#EXTINF:-1,iptvtools_295
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1,iptvtools_50
-http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
-#EXTINF:-1,iptvtools_51
+#EXTINF:-1,iptvtools_297
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_52
-http://188.210.224.6:81/tv7/playlist.m3u8
-#EXTINF:-1,iptvtools_53
+#EXTINF:-1,iptvtools_299
 http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
-#EXTINF:-1,iptvtools_54
+#EXTINF:-1,iptvtools_300
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
-#EXTINF:-1,iptvtools_55
+#EXTINF:-1,iptvtools_301
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1,iptvtools_56
+#EXTINF:-1,iptvtools_302
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_57
+#EXTINF:-1,iptvtools_303
 http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_58
+#EXTINF:-1,iptvtools_304
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,iptvtools_59
+#EXTINF:-1,iptvtools_305
 http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
-#EXTINF:-1,iptvtools_60
+#EXTINF:-1,iptvtools_306
 http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
-#EXTINF:-1,iptvtools_61
+#EXTINF:-1,iptvtools_307
 http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
-#EXTINF:-1,iptvtools_62
+#EXTINF:-1,iptvtools_308
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
-#EXTINF:-1,iptvtools_64
+#EXTINF:-1,iptvtools_309
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1,iptvtools_65
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1,iptvtools_66
+#EXTINF:-1,iptvtools_311
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,iptvtools_68
-http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:-1,iptvtools_70
+#EXTINF:-1,iptvtools_313
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1,iptvtools_71
+#EXTINF:-1,iptvtools_314
 http://rtmp.one.by:1300/
-#EXTINF:-1,iptvtools_73
+#EXTINF:-1,iptvtools_315
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1,iptvtools_74
+#EXTINF:-1,iptvtools_316
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8?sd=6&rebase=on
-#EXTINF:-1,iptvtools_76
+#EXTINF:-1,iptvtools_317
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
-#EXTINF:-1,iptvtools_78
+#EXTINF:-1,iptvtools_318
 http://176.9.126.181:1022/
-#EXTINF:-1,iptvtools_80
+#EXTINF:-1,iptvtools_319
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1,iptvtools_81
+#EXTINF:-1,iptvtools_320
 http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
-#EXTINF:-1,iptvtools_82
+#EXTINF:-1,iptvtools_321
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-#EXTINF:-1,iptvtools_85
+#EXTINF:-1,iptvtools_322
 http://46.40.5.99:8000/arena_1_low
-#EXTINF:-1,iptvtools_86
+#EXTINF:-1,iptvtools_323
 http://46.40.5.99:8000/arena_2_low
-#EXTINF:-1,iptvtools_87
+#EXTINF:-1,iptvtools_324
 http://46.40.5.99:8000/arena_3_low
-#EXTINF:-1,iptvtools_88
+#EXTINF:-1,iptvtools_325
 http://46.40.5.99:8000/arena_4_low
-#EXTINF:-1,iptvtools_89
+#EXTINF:-1,iptvtools_326
 http://46.40.5.99:8000/arena_1_high
-#EXTINF:-1,iptvtools_92
+#EXTINF:-1,iptvtools_327
 http://46.40.5.99:8000/arena_4_high
-#EXTINF:-1,iptvtools_93
+#EXTINF:-1,iptvtools_328
 http://46.40.5.99:8000/b92_high
-#EXTINF:-1,iptvtools_95
-http://46.40.5.99:8000/prva_tv_high
-#EXTINF:-1,iptvtools_96
+#EXTINF:-1,iptvtools_330
 http://46.40.5.99:8000/rts_1_high
-#EXTINF:-1,iptvtools_97
-http://46.40.5.99:8000/rts_2_high
-#EXTINF:-1,iptvtools_98
-http://46.40.5.99:8000/rtv_1_high
-#EXTINF:-1,iptvtools_99
-http://46.40.5.99:8000/rtv_2_high
-#EXTINF:-1,iptvtools_101
+#EXTINF:-1,iptvtools_334
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
-#EXTINF:-1,iptvtools_102
+#EXTINF:-1,iptvtools_335
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1,iptvtools_103
+#EXTINF:-1,iptvtools_336
 http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1,iptvtools_104
+#EXTINF:-1,iptvtools_337
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1,iptvtools_105
+#EXTINF:-1,iptvtools_338
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1,iptvtools_106
+#EXTINF:-1,iptvtools_339
 http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8
-#EXTINF:-1,iptvtools_107
+#EXTINF:-1,iptvtools_340
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTM3U
 #EXTINF:-1,TV Puls
 http://37.59.17.187:8005/live/Edi2/Edi2/1631.ts
-#EXTINF:-1,RTCG
-http://37.59.17.187:8005/live/Edi2/Edi2/1616.ts
 #EXTINF:-1,HRT 2
 http://37.59.17.187:8005/live/Edi2/Edi2/1262.ts
 #EXTINF:-1,HRT 3
@@ -699,8 +283,6 @@ http://37.59.17.187:8005/live/Edi2/Edi2/559.ts
 http://37.59.17.187:8005/live/Edi2/Edi2/471.ts
 #EXTINF:-1,Pink M
 http://37.59.17.187:8005/live/Edi2/Edi2/571.ts
-#EXTINF:-1,Pink Kids
-http://37.59.17.187:8005/live/Edi2/Edi2/470.ts
 #EXTINF:-1,Pink Crime and Mistery
 http://37.59.17.187:8005/live/Edi2/Edi2/577.ts
 #EXTINF:-1,Pink Comedy
@@ -713,8 +295,6 @@ http://37.59.17.187:8005/live/Edi2/Edi2/474.ts
 http://37.59.17.187:8005/live/Edi2/Edi2/723.ts
 #EXTINF:-1,Nova TV
 http://37.59.17.187:8005/live/Edi2/Edi2/478.ts
-#EXTINF:-1,Hayat SR
-http://37.59.17.187:8005/live/Edi2/Edi2/535.ts
 #EXTINF:-1,Hayat Plus SR
 http://37.59.17.187:8005/live/Edi2/Edi2/536.ts
 #EXTINF:-1,Hayat Folk SR
@@ -723,16 +303,6 @@ http://37.59.17.187:8005/live/Edi2/Edi2/537.ts
 http://37.59.17.187:8005/live/Edi2/Edi2/268.ts
 #EXTINF:-1,Doma TV
 http://37.59.17.187:8005/live/Edi2/Edi2/479.ts
-#EXTINF:-1,<<<<3PM ELP<<<SPORTS WORK<<<
-http://portal.simiptv.com:8001/live/priya/12345/18607.m3u8
-#EXTINF:-1,Sport |  Arena Sport 1 Serbian
-http://portal.simiptv.com:8001/live/priya/12345/18603.m3u8
-#EXTINF:-1,Sport |  Arena Sport 2 Serbian
-http://portal.simiptv.com:8001/live/priya/12345/18604.m3u8
-#EXTINF:-1,Sport |  Arena Sport 3 Serbian
-http://portal.simiptv.com:8001/live/priya/12345/18605.m3u8
-#EXTINF:-1,Sport |  Arena Sport 4 Serbian
-http://portal.simiptv.com:8001/live/priya/12345/18606.m3u8
 #EXTINF:-1,Sport |  Arena Sport 1 HR
 http://portal.simiptv.com:8001/live/priya/12345/19952.m3u8
 #EXTINF:-1,Sport |  Arena Sport 2 HR
