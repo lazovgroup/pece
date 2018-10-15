@@ -219,55 +219,41 @@ http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
 #EXTINF:-1,iptvtools_309
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1,iptvtools_311
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,iptvtools_313
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1,iptvtools_314
+#EXTINF:-1,MUSIC 1 HD
 http://rtmp.one.by:1300/
-#EXTINF:-1,iptvtools_315
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1,iptvtools_316
-http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8?sd=6&rebase=on
-#EXTINF:-1,iptvtools_317
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
-#EXTINF:-1,iptvtools_318
-http://176.9.126.181:1022/
-#EXTINF:-1,iptvtools_319
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1,iptvtools_320
 http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
 #EXTINF:-1,iptvtools_321
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-#EXTINF:-1,iptvtools_322
+#EXTINF:-1,ARENA SPORT 1 LOW
 http://46.40.5.99:8000/arena_1_low
-#EXTINF:-1,iptvtools_323
+#EXTINF:-1,ARENA SPORT 2 LOW
 http://46.40.5.99:8000/arena_2_low
-#EXTINF:-1,iptvtools_324
+#EXTINF:-1,ARENA SPORT 3 LOW
 http://46.40.5.99:8000/arena_3_low
-#EXTINF:-1,iptvtools_325
+#EXTINF:-1,ARENA SPORT 4 LOW
 http://46.40.5.99:8000/arena_4_low
-#EXTINF:-1,iptvtools_326
+#EXTINF:-1,ARENA SPORT 1 HIGT
 http://46.40.5.99:8000/arena_1_high
-#EXTINF:-1,iptvtools_327
+#EXTINF:-1,ARENA SPORT 4 HIGT
 http://46.40.5.99:8000/arena_4_high
-#EXTINF:-1,iptvtools_328
-http://46.40.5.99:8000/b92_high
-#EXTINF:-1,iptvtools_330
+#EXTINF:-1,O2 TV
+http://46.40.5.99:8000/b92
+#EXTINF:-1,RTS--1
 http://46.40.5.99:8000/rts_1_high
-#EXTINF:-1,iptvtools_334
+#EXTINF:-1,RTS--
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
 #EXTINF:-1,iptvtools_335
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1,iptvtools_336
+#EXTINF:-1,HRT--2
 http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1,iptvtools_337
+#EXTINF:-1,HRT--3
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1,iptvtools_338
+#EXTINF:-1,HRT--4
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1,iptvtools_339
+#EXTINF:-1,NB--TV
 http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8
-#EXTINF:-1,iptvtools_340
+#EXTINF:-1,RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,TV Puls
 http://37.59.17.187:8005/live/Edi2/Edi2/1631.ts
