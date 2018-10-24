@@ -1,172 +1,227 @@
-#EXTINF:-1,====== Ex-Yu ======
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5601.ts
+#EXTM3U
 #EXTINF:-1,Ex-Yu: 24 Kitchen
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5627.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5627.m3u8
+#EXTINF:-1,Ex-Yu: 24 Kitchen
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5627.m3u8
+#EXTINF:-1,iptvtools_3
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1,Ex-Yu: Pink Action
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2902.m3u8
 #EXTINF:-1,Ex-Yu: Animal Planet
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4001.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 1 HD Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2070.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 1 Srb
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3958.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 2 HD Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1751.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 2 Srb
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3959.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 3 HD Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1752.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 3 Srb
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3960.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 4 HD Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1753.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 4 Srb
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3961.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 5 HD Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3353.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 5 Srb
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3962.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4001.m3u8
 #EXTINF:-1,Ex-YU: AXN Adria
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8987.ts
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8987.m3u8
 #EXTINF:-1,Ex-Yu: B92
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3972.ts
-#EXTINF:-1,Ex-Yu: Baby TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7768.ts
-#EXTINF:-1,Ex-Yu: Balkan
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4113.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3972.m3u8
+#EXTINF:-1,iptvtools_10
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
 #EXTINF:-1,EX-YU: Banovina
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6712.ts
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6712.m3u8
 #EXTINF:-1,Ex-Yu: Belle Amie
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6698.ts
-#EXTINF:-1,Ex-Yu: BN Music
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3975.ts
-#EXTINF:-1,Ex-Yu: Cinemax 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4012.ts
-#EXTINF:-1,Ex-Yu: Cinemax 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4013.ts
-#EXTINF:-1,Ex-Yu: Cinestar Premiere 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4014.ts
-#EXTINF:-1,Ex-Yu: Cinestar Premiere 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4015.ts
-#EXTINF:-1,Ex-Yu: Cinestar TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8988.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6698.m3u8
+#EXTINF:-1,iptvtools_14
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+#EXTINF:-1,iptvtools_15
+http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+#EXTINF:-1,Ex-Yu: Pink Classic
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8997.m3u8
+#EXTINF:-1,Ex-Yu: Pink Comedy
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2905.m3u8
+#EXTINF:-1,Ex-Yu: Pink Crime & Mystery
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3357.m3u8
+#EXTINF:-1,iptvtools_19
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 #EXTINF:-1,Ex-Yu: Discovery Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4002.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4002.m3u8
 #EXTINF:-1,Ex-Yu: Discovery Science
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9017.ts
-#EXTINF:-1,Ex-Yu: Disney Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7766.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9017.m3u8
 #EXTINF:-1,Ex-Yu: DM Sat
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3979.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3979.m3u8
 #EXTINF:-1,Ex-Yu: Doma tv
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3985.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3985.m3u8
+#EXTINF:-1,iptvtools_28
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,iptvtools_29
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1,Ex-Yu: Duga TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8776.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8776.m3u8
 #EXTINF:-1,Ex-Yu: E! Entertainment
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6697.ts
-#EXTINF:-1,Ex-Yu: Eurosport 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6699.ts
-#EXTINF:-1,Ex-Yu: Eurosport 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6700.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6697.m3u8
+#EXTINF:-1,iptvtools_34
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1,Ex-Yu: Pink Extra
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4764.m3u8
+#EXTINF:-1,iptvtools_37
+http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
+#EXTINF:-1,Ex-Yu: Pink Folk 1
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4763.m3u8
+#EXTINF:-1,Ex-Yu: Pink Folk 2
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4017.m3u8
 #EXTINF:-1,Ex-Yu: Fox Crime
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4005.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4005.m3u8
 #EXTINF:-1,Ex-Yu: Fox life
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4006.ts
-#EXTINF:-1,Ex-Yu: Fox Movies
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4007.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4006.m3u8
 #EXTINF:-1,Ex-Yu: Fox TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4008.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4008.m3u8
 #EXTINF:-1,Ex-Yu: Grand TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3978.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3978.m3u8
 #EXTINF:-1,Ex-Yu: Happy Tv
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4000.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4000.m3u8
 #EXTINF:-1,Ex-Yu: HBO Adria
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4010.ts
-#EXTINF:-1,Ex-Yu: HBO Comedy
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4011.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4010.m3u8
 #EXTINF:-1,Ex-Yu: History Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4003.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4003.m3u8
+#EXTINF:-1,Ex-Yu: Pink Hits 2
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4762.m3u8
+#EXTINF:-1,Ex-Yu: Pink Horror
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2904.m3u8
+#EXTINF:-1,iptvtools_57
+http://178.253.194.75:1935/live/hram.stream/playlist.m3u8
+#EXTINF:-1,iptvtools_58
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+#EXTINF:-1,iptvtools_59
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1,Ex-Yu: HRT 1 Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3524.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3524.m3u8
+#EXTINF:-1,iptvtools_62
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1,Ex-Yu: HRT 2 Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3521.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3521.m3u8
+#EXTINF:-1,iptvtools_65
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 #EXTINF:-1,Ex-Yu: HRT 3 Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3522.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3522.m3u8
+#EXTINF:-1,iptvtools_68
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1,iptvtools_70
+http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
+#EXTINF:-1,iptvtools_71
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1,iptvtools_72
+https://nn.geo.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1,Ex-Yu: Kanal 5 Plus
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4024.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4024.m3u8
 #EXTINF:-1,Ex-Yu: Klasik TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3987.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3987.m3u8
+#EXTINF:-1,Ex-Yu: Pink Koncert
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4761.m3u8
+#EXTINF:-1,iptvtools_78
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,Ex-Yu: Pink Kuvar
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4765.m3u8
 #EXTINF:-1,Ex-Yu: Lov i Ribolov
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3988.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3988.m3u8
 #EXTINF:-1,Ex-Yu: M1 Film
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8990.ts
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8990.m3u8
+#EXTINF:-1,iptvtools_83
+http://stream.kukaj.se/stream/4/video.m3u8
 #EXTINF:-1,Ex-Yu: Mini
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8995.ts
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8995.m3u8
 #EXTINF:-1,Ex-Yu: Mini Ultra TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3998.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3998.m3u8
 #EXTINF:-1,Ex-Yu: Minimax
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8994.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8994.m3u8
 #EXTINF:-1,Ex-Yu: Nat Geo Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3989.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3989.m3u8
+#EXTINF:-1,Ex-Yu: Nat Geo Channel
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3989.m3u8
 #EXTINF:-1,Ex-Yu: Nat Geo Wild
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9018.ts
-#EXTINF:-1,Ex-Yu: Nickelodeon
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3994.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9018.m3u8
 #EXTINF:-1,Ex-Yu: NOVA RS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3971.ts
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3971.m3u8
 #EXTINF:-1,Ex-Yu: Nova Tv
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3992.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3992.m3u8
+#EXTINF:-1,iptvtools_98
+http://178.132.6.97:8080/RS:OSMPale1/index.m3u8
 #EXTINF:-1,Ex-Yu: Palma Plus
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8984.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8984.m3u8
+#EXTINF:-1,Ex-Yu: Pink Pedia
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2898.m3u8
+#EXTINF:-1,Ex-Yu: Pink
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2901.m3u8
+#EXTINF:-1,Ex-Yu: Pink 2
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2897.m3u8
+#EXTINF:-1,Ex-Yu: Pink 3
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4758.m3u8
+#EXTINF:-1,Ex-Yu: Pink Bh
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3358.m3u8
+#EXTINF:-1,Ex-Yu: Pink Classic
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8997.m3u8
+#EXTINF:-1,Ex-Yu: Pink Comedy
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2905.m3u8
+#EXTINF:-1,Ex-Yu: Pink Crime & Mystery
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3357.m3u8
+#EXTINF:-1,Ex-Yu: Pink Extra
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4764.m3u8
+#EXTINF:-1,Ex-Yu: Pink Folk 1
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4763.m3u8
+#EXTINF:-1,Ex-Yu: Pink Hits 2
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4762.m3u8
+#EXTINF:-1,Ex-Yu: Pink Horror
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2904.m3u8
+#EXTINF:-1,Ex-Yu: Pink Koncert
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4761.m3u8
+#EXTINF:-1,Ex-Yu: Pink Kuvar
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4765.m3u8
+#EXTINF:-1,Ex-Yu: Pink Pedia
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2898.m3u8
+#EXTINF:-1,Ex-Yu: Pink Reality
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2900.m3u8
+#EXTINF:-1,Ex-Yu: Pink Romance
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2896.m3u8
+#EXTINF:-1,Ex-Yu: Pink Thriller
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2903.m3u8
+#EXTINF:-1,Ex-Yu: Pink Westren
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4020.m3u8
+#EXTINF:-1,Ex-Yu: Pink Zabava
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2907.m3u8
 #EXTINF:-1,Ex-Yu: Planeta tv
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3981.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3981.m3u8
+#EXTINF:-1,Ex-Yu: Pink Plus
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2908.m3u8
 #EXTINF:-1,Ex-Yu: Prva Plus
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3970.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3970.m3u8
 #EXTINF:-1,Ex-Yu: Prva Tv
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3969.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3969.m3u8
+#EXTINF:-1,Ex-Yu: Pink Reality
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2900.m3u8
+#EXTINF:-1,iptvtools_132
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,iptvtools_133
+http://5.63.149.252:5000/live/499/499.m3u8
+#EXTINF:-1,Ex-Yu: Pink Romance
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2896.m3u8
+#EXTINF:-1,iptvtools_135
+http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8
 #EXTINF:-1,Ex-Yu: RTCG Sat
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8775.ts
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8775.m3u8
+#EXTINF:-1,iptvtools_138
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Ex-Yu: RTL 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3996.ts
-#EXTINF:-1,Ex-Yu: RTL Crime Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6705.ts
-#EXTINF:-1,Ex-Yu: RTL Kockica
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3997.ts
-#EXTINF:-1,Ex-Yu: RTL Living Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6706.ts
-#EXTINF:-1,Ex-Yu: RTL Passion
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8991.ts
-#EXTINF:-1,Ex-Yu: RTL Televizija
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3995.ts
-#EXTINF:-1,Ex-Yu: RTS 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3967.ts
-#EXTINF:-1,Ex-Yu: RTS 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3968.ts
-#EXTINF:-1,Ex-Yu: RTS 3
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8770.ts
-#EXTINF:-1,Ex-Yu: RTS Satelite
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8771.ts
-#EXTINF:-1,Ex-Yu: RTV Novi Pazar
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8983.ts
-#EXTINF:-1,Ex-Yu: SciFi
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8985.ts
-#EXTINF:-1,EX-YU: SOS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6714.ts
-#EXTINF:-1,Ex-Yu: Sport Klub 1 HD Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1747.ts
-#EXTINF:-1,Ex-Yu: Sport Klub 2 HD Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1748.ts
-#EXTINF:-1,Ex-Yu: Sport Klub 3 HD Cro
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2826.ts
-#EXTINF:-1,Ex-Yu: Sport Klub HD 1 Srb
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3963.ts
-#EXTINF:-1,Ex-Yu: Sport Klub HD 2 Srb
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3964.ts
-#EXTINF:-1,Ex-Yu: Sport Klub HD 3 Srb
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3965.ts
-#EXTINF:-1,Ex-Yu: Studio B
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8772.ts
-#EXTINF:-1,Ex-Yu: Super Kids
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4759.ts
-#EXTINF:-1,Ex-Yu: TLC
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7767.ts
-#EXTINF:-1,Ex-Yu: Travel Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9020.ts
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3996.m3u8
+#EXTINF:-1,iptvtools_161
+http://178.132.6.97:80/RTV:USK1/playlist.m3u8
+#EXTINF:-1,iptvtools_162
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1,iptvtools_165
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1,iptvtools_168
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
+#EXTINF:-1,iptvtools_170
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1,iptvtools_171
+http://37.59.21.217:8809/live/tv5web.m3u8
+#EXTINF:-1,iptvtools_172
+http://192.99.6.113:1935/liveTarget/TeslaVision.stream/chunklist_w1459988322.m3u8
+#EXTINF:-1,iptvtools_178
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1,iptvtools_179
+http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,iptvtools_182
+http://212.43.97.35:1935/winechannel/winechannel/chunklist_w693696609.m3u8
+#EXTINF:-1,iptvtools_183
+http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
+#EXTINF:-1,Ex-Yu: Pink Zabava
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2907.m3u8
+#EXTINF:-1,Zdrava TV HR
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/16658.m3u8
