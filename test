@@ -1,227 +1,1864 @@
 #EXTM3U
-#EXTINF:-1,Ex-Yu: 24 Kitchen
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5627.m3u8
-#EXTINF:-1,Ex-Yu: 24 Kitchen
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5627.m3u8
-#EXTINF:-1,iptvtools_3
+
+#EXTINF:0 group-title="AL: Albania",AL: ACTION HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/66.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: ALBANIAIPTV COM HD
+http://51.15.3.71:8000/live/albi322/kanale666/62.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: ALBANIAIPTV COM (1+) HD
+http://51.15.3.71:8000/live/albi322/kanale666/63.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: ALBANIAIPTV COM (2+) HD
+http://51.15.3.71:8000/live/albi322/kanale666/64.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: ALBANIAIPTV COM (3+) HD
+http://51.15.3.71:8000/live/albi322/kanale666/65.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: ALBANIAIPTV COM (4+) HD
+http://51.15.3.71:8000/live/albi322/kanale666/66.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: AOULA LAAYOUNE 
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: AQSA 
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: AR ALERTH 
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1125.ts
+#EXTINF:0 group-title="AL: Albania",AL: BAGHDADIA AAN 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2372.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: BASIRA 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2588.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: DAFRAH TV 
+http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: EKHBARIA HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2342.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: EMARAT TV 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2587.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: GHAD HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2586.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: HADATH 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2621.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: HIWAR TV 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2584.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: HUMOR 1 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/65.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: HUMOR 2 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/64.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: INSEN TV 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2583.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: JADEED 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2582.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: JAMAHIRIA TV 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2581.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: JANOUBIA TV 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2580.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: JAZEERA HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2325.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: JAZEERA BALKANS 
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: JAZEERA DOCUMENTARY HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2332.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: KAHERA WAL NAS 2 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2579.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: MAGHRIBIA 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2577.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: MAGHRIBIA (1+) 
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: MAYADEEN TV 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2576.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: MUSTAKILA 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2574.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: MY NAHAR HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2805.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: MY NAHAR DRAMA HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2806.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: NABAA 
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: NAHAR DRAMA 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2573.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: NAHAR ONE 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2571.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: OSN YAWM 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2324.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: RAYYAN HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2354.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: RTK 1 KOSOVO 
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: RTV ZIK DENMARK 
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: THRILLER HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/63.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: TOYOR JANAH 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2387.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: TV ASSEMBLEIA SP 
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: TV JUG 
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: WESTERN HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/62.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: ATV DUTCH 
+http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: EEN 
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: KETNET 
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: NRJ HITS TV 
+http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: NRJ HITS TV (1+) 
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: RTL-TVI 
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: THERE WILL BLOOD 2007 
+https://bobmovies.net/hl/The_Prestige_2006_360p.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: TVL DUTCH 
+http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: VISION 4 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: VTM NIEUWS DUTCH 
+https://dpp-live-events.medialaancdn.be/events/hls/aes/vtmnieuws_114_360p.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: VTM NIEUWS DUTCH (1+) 
+https://dpp-live-events.medialaancdn.be/events/hls/aes/vtmnieuws_114_540p.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: VTM NIEUWS DUTCH (2+) 
+https://dpp-live-events.medialaancdn.be/events/hls/aes/vtmnieuws_114_720p.m3u8
+#EXTINF:0 group-title="BG: Bulgaria",BG: TV STARA ZAGORA ENTERTAINMENT BULGARIAN 
+http://95.87.0.78:8080/tvstz.m3u8
+#EXTINF:0 group-title="CZ: Czech Republic",CZ: SPEKTRUM 
+http://213.81.153.241/live001/channel054_p5.stream/DVR.m3u8
+#EXTINF:0 group-title="FR: France",FR: 24 ARABIC HD
+http://194.88.107.101:6204/live/rahman/rahman/2748.ts
+#EXTINF:0 group-title="FR: France",FR: 24 IN ARABIC HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2329.m3u8
+#EXTINF:0 group-title="FR: France",FR: ALSACE 20 
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: BBLACK! AFRICA 
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: BBLACK! CARIBBEAN 
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: BFM PARIS 
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+#EXTINF:0 group-title="FR: France",FR: CPAC 
+http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
+#EXTINF:0 group-title="FR: France",FR: DJING CLASSICS 
+https://www.djing.com/tv/classics.ts
+#EXTINF:0 group-title="FR: France",FR: DJING DANCEFLOOR 
+https://www.djing.com/tv/dancefloor.ts
+#EXTINF:0 group-title="FR: France",FR: DJING ELECTRO ROCK 
+https://www.djing.com/tv/session_electro-rock.ts
+#EXTINF:0 group-title="FR: France",FR: DJING ELECTRO ROCK (1+) 
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:0 group-title="FR: France",FR: DJING HITS 
+https://www.djing.com/tv/hits.ts
+#EXTINF:0 group-title="FR: France",FR: DJING KARAOKE 
+https://www.djing.com/tv/karaoke.ts
+#EXTINF:0 group-title="FR: France",FR: DJING KARAOKE (1+) 
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:0 group-title="FR: France",FR: DJING LIVE 
+https://www.djing.com/tv/live.ts
+#EXTINF:0 group-title="FR: France",FR: DJING SUMMER VIBES 
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:0 group-title="FR: France",FR: DJING TOUCH 
+https://www.djing.com/tv/session_french-touch.ts
+#EXTINF:0 group-title="FR: France",FR: DJING UNDERGROUND 
+https://www.djing.com/tv/underground.ts
+#EXTINF:0 group-title="FR: France",FR: FASHION TV 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:0 group-title="FR: France",FR: FASHION TV (1+) 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: FRANCOPHONIE 24 
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0 group-title="FR: France",FR: GONG 
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: GONG MAX 
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:0 group-title="FR: France",FR: INDEX2500 M3U8 
+http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
+#EXTINF:0 group-title="FR: France",FR: KINGDOM SAT 
+http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
+#EXTINF:0 group-title="FR: France",FR: KTO 
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:0 group-title="FR: France",FR: LA CHAINE NORMANDE 
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: RTL 2 
+http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: SEVDAH TV 
+http://178.132.6.97:8080/FR:SEVDAHTV1/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: TF1 
+http://195.154.30.45:2626/live/tf1.ts
+#EXTINF:0 group-title="FR: France",FR: TV5 MONDE INFO 
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0 group-title="FR: France",FR: TV7 
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: TVPI 
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:0 group-title="FR: France",FR: UNSERDING 
+http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: 13TH STREET HD
+http://194.88.107.101:6204/live/jian/jian/12372.ts
+#EXTINF:0 group-title="DE: Germany",DE: 13TH STREET (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12372.ts
+#EXTINF:0 group-title="DE: Germany",DE: 2-3 TV 
+http://123tv.cdn.ses-ps.com/index.ts
+#EXTINF:0 group-title="DE: Germany",DE: 2M MORCO 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2448.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: 3SAT HD
+http://194.88.107.101:6204/live/jian/jian/12203.ts
+#EXTINF:0 group-title="DE: Germany",DE: 3SAT (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12203.ts
+#EXTINF:0 group-title="DE: Germany",DE: 3SAT (2+) HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/694.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: 5 NL 
+http://194.88.107.101:6204/live/rahman/rahman/11024.ts
+#EXTINF:0 group-title="DE: Germany",DE: A&E 
+http://194.88.107.101:6204/live/jian/jian/12272.ts
+#EXTINF:0 group-title="DE: Germany",DE: A&E (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12272.ts
+#EXTINF:0 group-title="DE: Germany",DE: ACTION 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/717.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: AIRE SANTA FE 
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ALLGAU TV 
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ANIMAL PLANET HD
+http://194.88.107.101:6204/live/rahman/rahman/12286.ts
+#EXTINF:0 group-title="DE: Germany",DE: ANIMAL PLANET (1+) HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/695.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ARD-ALPHA 
+http://livestreams.br.de/i/bralpha_germany@119899/master.ts
+#EXTINF:0 group-title="DE: Germany",DE: ARTE HD
+http://194.88.107.101:6204/live/jian/jian/12201.ts
+#EXTINF:0 group-title="DE: Germany",DE: ARTE (1+) HD
+http://194.88.107.101:6204/live/jian/jian/12202.ts
+#EXTINF:0 group-title="DE: Germany",DE: ARTE (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12201.ts
+#EXTINF:0 group-title="DE: Germany",DE: ARTE (3+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12202.ts
+#EXTINF:0 group-title="DE: Germany",DE: ATLANTIC 1 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/718.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ATV HD
+http://194.88.107.101:6204/live/jian/jian/12200.ts
+#EXTINF:0 group-title="DE: Germany",DE: ATV (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12200.ts
+#EXTINF:0 group-title="DE: Germany",DE: AXN HD
+http://194.88.107.101:6204/live/jian/jian/12374.ts
+#EXTINF:0 group-title="DE: Germany",DE: AXN (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12374.ts
+#EXTINF:0 group-title="DE: Germany",DE: BADEN TV 
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BADEN TV (1+) 
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BEIN ENTRAINMENT 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3794.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BERLIN METAL TV 
+http://autopilot.myowntv.org/content/33816/index.ts
+#EXTINF:0 group-title="DE: Germany",DE: BLIZZ TV 
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BR SUED 
+http://livestreams.br.de/i/bfssued_germany@119890/master.ts
+#EXTINF:0 group-title="DE: Germany",DE: BUNDESLIGA 1 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/720.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BUNDESLIGA 10 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/721.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BUNDESLIGA 2 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/722.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BUNDESLIGA 3 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/723.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BUNDESLIGA 4 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/724.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BUNDESLIGA 5 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/725.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BUNDESLIGA 6 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/726.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BUNDESLIGA 7 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/727.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BUNDESLIGA 9 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/729.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: CAMPUS TV MAGDEBURG 
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: CANAL LAS ESTRELLAS 
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/1577.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: CLASSICA 
+http://194.88.107.101:6204/live/jian/jian/12255.ts
+#EXTINF:0 group-title="DE: Germany",DE: CLASSICA (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12255.ts
+#EXTINF:0 group-title="DE: Germany",DE: COMEDY 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/734.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: DAS ERSTE HD
+http://194.88.107.101:6204/live/jian/jian/12212.ts
+#EXTINF:0 group-title="DE: Germany",DE: DAS ERSTE (1+) HD
+http://194.88.107.101:6204/live/jian/jian/12213.ts
+#EXTINF:0 group-title="DE: Germany",DE: DAS ERSTE (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12212.ts
+#EXTINF:0 group-title="DE: Germany",DE: DAS ERSTE (3+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12213.ts
+#EXTINF:0 group-title="DE: Germany",DE: DAS ERSTE 
+https://mcdn.daserste.de/daserste/de/playlist.ts
+#EXTINF:0 group-title="DE: Germany",DE: DAS ERSTE (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12211.ts
+#EXTINF:0 group-title="DE: Germany",DE: DAS ERSTE (2+) 
+https://mcdn.daserste.de/daserste/de/profile1/index.ts
+#EXTINF:0 group-title="DE: Germany",DE: DAS ERSTE (3+) 
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.ts
+#EXTINF:0 group-title="DE: Germany",DE: DAS ERSTE (4+) 
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/index_2692_av-p.ts
+#EXTINF:0 group-title="DE: Germany",DE: DER AKTIONAR TV 
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: DEUTSCHE WELLE 
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: DEUTSCHE WELLE (1+) 
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: DEUTSCHE WELLE (2+) 
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: DEUTSCHES MUZIK 
+http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: DISCOVERY CHANNEL HD
+http://194.88.107.101:6204/live/jian/jian/12284.ts
+#EXTINF:0 group-title="DE: Germany",DE: DISCOVERY CHANNEL (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12284.ts
+#EXTINF:0 group-title="DE: Germany",DE: DMAX HD
+http://194.88.107.101:6204/live/rahman/rahman/12361.ts
+#EXTINF:0 group-title="DE: Germany",DE: ELBEKANAL 
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: EMOTION 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/735.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: FASHION TV 
+http://194.88.107.101:6204/live/jian/jian/12279.ts
+#EXTINF:0 group-title="DE: Germany",DE: FASHION TV (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12279.ts
+#EXTINF:0 group-title="DE: Germany",DE: FIX & FOXI 
+http://194.88.107.101:6204/live/jian/jian/12265.ts
+#EXTINF:0 group-title="DE: Germany",DE: FOLX TV 
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: FOX HD
+http://194.88.107.101:6204/live/jian/jian/12376.ts
+#EXTINF:0 group-title="DE: Germany",DE: FOX (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12376.ts
+#EXTINF:0 group-title="DE: Germany",DE: FRANKEN FERNSEHEN 
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: FS1 SALZBURG 
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: GENIUS PLUS 
+http://194.88.107.101:6204/live/jian/jian/12190.ts
+#EXTINF:0 group-title="DE: Germany",DE: GENIUS PLUS (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12190.ts
+#EXTINF:0 group-title="DE: Germany",DE: HALLE 
+http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: HISTORY HD
+http://194.88.107.101:6204/live/jian/jian/12283.ts
+#EXTINF:0 group-title="DE: Germany",DE: HISTORY (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12283.ts
+#EXTINF:0 group-title="DE: Germany",DE: HISTORY CHANNEL HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/700.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: HR FERNSEHEN 
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: HSE24 HD
+http://194.88.107.101:6204/live/jian/jian/12189.ts
+#EXTINF:0 group-title="DE: Germany",DE: HSE24 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12189.ts
+#EXTINF:0 group-title="DE: Germany",DE: HURA 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2437.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: INTV 
+https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ISAR TV 
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: JUWELO HD
+http://194.88.107.101:6204/live/jian/jian/12188.ts
+#EXTINF:0 group-title="DE: Germany",DE: JUWELO (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12188.ts
+#EXTINF:0 group-title="DE: Germany",DE: KABEL 1 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/701.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: KABEL EINS HD
+http://194.88.107.101:6204/live/jian/jian/12215.ts
+#EXTINF:0 group-title="DE: Germany",DE: KABEL EINS (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12215.ts
+#EXTINF:0 group-title="DE: Germany",DE: KABEL EINS CLASSIC HD
+http://194.88.107.101:6204/live/jian/jian/12214.ts
+#EXTINF:0 group-title="DE: Germany",DE: KABEL EINS CLASSIC (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12214.ts
+#EXTINF:0 group-title="DE: Germany",DE: KABEL EINS DOKU 
+http://194.88.107.101:6204/live/jian/jian/12281.ts
+#EXTINF:0 group-title="DE: Germany",DE: KABEL EINS DOKU (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12281.ts
+#EXTINF:0 group-title="DE: Germany",DE: KIKA HD
+http://194.88.107.101:6204/live/jian/jian/12262.ts
+#EXTINF:0 group-title="DE: Germany",DE: KIKA (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12262.ts
+#EXTINF:0 group-title="DE: Germany",DE: KIKA (2+) HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/702.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: KINOWELT HD
+http://194.88.107.101:6204/live/jian/jian/12368.ts
+#EXTINF:0 group-title="DE: Germany",DE: KINOWELT (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12368.ts
+#EXTINF:0 group-title="DE: Germany",DE: KRIMI 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/736.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: KULTURMDTV 
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MBC 1 HD
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3804.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MBC 2 HD
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3805.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MBC 3 HD
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3806.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MBC 4 HD
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3807.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MBC ACTION HD
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3810.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MBC BOLLYWOOD HD
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3809.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MBC MASER 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3811.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MBC MASER 2 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3812.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MBC MAX HD
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3808.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MDF 1 
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MUNCHEN TV 
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: N24 DOKU 
+http://194.88.107.101:6204/live/jian/jian/12282.ts
+#EXTINF:0 group-title="DE: Germany",DE: N24 DOKU (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12282.ts
+#EXTINF:0 group-title="DE: Germany",DE: NAT GEO HD
+http://194.88.107.101:6204/live/rahman/rahman/12288.ts
+#EXTINF:0 group-title="DE: Germany",DE: NAT GEO WILD HD
+http://194.88.107.101:6204/live/rahman/rahman/12287.ts
+#EXTINF:0 group-title="DE: Germany",DE: NAT GEO WILD (1+) HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/703.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: NATIONAL GEOGRAPHIC HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/704.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: NDR HD
+http://194.88.107.101:6204/live/jian/jian/12199.ts
+#EXTINF:0 group-title="DE: Germany",DE: NDR (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12199.ts
+#EXTINF:0 group-title="DE: Germany",DE: NDR HAMBURG 
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: NDR MECKLENBURG-VORPOMMERN 
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: NDR NIEDERSACHSEN 
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: NDR SCHLESWIG-HOLSTEIN 
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: OBERPFALZ TV 
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: OE24 
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: OFFENER KANAL MAGDEBURG 
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: OK54 
+http://stream-cdn.ok54.de/hls/ok54.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: OKTO TV 
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ONE HD
+http://194.88.107.101:6204/live/jian/jian/12198.ts
+#EXTINF:0 group-title="DE: Germany",DE: ONE (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12198.ts
+#EXTINF:0 group-title="DE: Germany",DE: ORF 1 HD
+http://194.88.107.101:6204/live/jian/jian/12196.ts
+#EXTINF:0 group-title="DE: Germany",DE: ORF 1 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12196.ts
+#EXTINF:0 group-title="DE: Germany",DE: ORF 1 
+http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ORF 2 HD
+http://194.88.107.101:6204/live/jian/jian/12195.ts
+#EXTINF:0 group-title="DE: Germany",DE: ORF 2 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12195.ts
+#EXTINF:0 group-title="DE: Germany",DE: ORF 2 
+http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ORF 3 
+http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ORF EINS HD
+http://194.88.107.101:6204/live/jian/jian/12197.ts
+#EXTINF:0 group-title="DE: Germany",DE: ORF EINS (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12197.ts
+#EXTINF:0 group-title="DE: Germany",DE: PHOENIX 
+http://194.88.107.101:6204/live/jian/jian/12273.ts
+#EXTINF:0 group-title="DE: Germany",DE: PHOENIX (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12273.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL 13 ULICA HD
+http://37.59.34.182:8000/live/POLAND/POLAND/1987.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL FOKUS TV 
+http://37.59.34.182:8000/live/POLAND/POLAND/2013.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL FOOD NETWORK HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2014.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL FOX HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2016.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL FOX COMEDY HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2015.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL H2 HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2018.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL HBO HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2019.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL HISTORY HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2020.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL KINO TV 
+http://37.59.34.182:8000/live/POLAND/POLAND/2021.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL LIFETIME HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2022.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL MANGO 24 
+http://37.59.34.182:8000/live/POLAND/POLAND/2023.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL MINIMINI HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2025.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL NAT GEO PEOPLE HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2029.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL NATIONAL GEO HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2031.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL NATIONAL GEO 
+http://37.59.34.182:8000/live/POLAND/POLAND/2030.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL NOWA TV 
+http://37.59.34.182:8000/live/POLAND/POLAND/2035.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL NTL 
+http://37.59.34.182:8000/live/POLAND/POLAND/2036.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL NUTA TV 
+http://37.59.34.182:8000/live/POLAND/POLAND/2037.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL POLO TV 
+http://37.59.34.182:8000/live/POLAND/POLAND/2039.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2045.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT 
+http://37.59.34.182:8000/live/POLAND/POLAND/2040.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT 2 HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2041.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT CAFE HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2042.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT DOKU HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2043.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT FILM HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2044.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT PLAY HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2048.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT VIASAT HISTORY HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2055.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POWER TV 
+http://37.59.34.182:8000/live/POLAND/POLAND/2056.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL RTS UN HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2057.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL SCIFI UNIVERSAL 
+http://37.59.34.182:8000/live/POLAND/POLAND/2058.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL SRF 1 HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2059.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL SRF ZWEI HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2060.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL SUDANCE HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2061.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL SUPER POLSAT 
+http://37.59.34.182:8000/live/POLAND/POLAND/2062.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TARVEL CHANNEL HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2063.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL TLC HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2066.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TNT HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2067.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TO!TV 
+http://37.59.34.182:8000/live/POLAND/POLAND/2068.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL TTV HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2069.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL TV PULS HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2070.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TV4 HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2072.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TV4 
+http://37.59.34.182:8000/live/POLAND/POLAND/2071.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TVN HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2076.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TVN 24 HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2073.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TVN 7 HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2074.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TVN FABULA 
+http://37.59.34.182:8000/live/POLAND/POLAND/2075.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TVN STYLE HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2077.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL TVN TURBO HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2078.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL TVP 2 HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2079.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TVP HISTORIA 
+http://37.59.34.182:8000/live/POLAND/POLAND/2080.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL TVP KULTURA 
+http://37.59.34.182:8000/live/POLAND/POLAND/2081.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL TVS 
+http://37.59.34.182:8000/live/POLAND/POLAND/2083.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL UNIVERSAL HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2084.ts
+#EXTINF:0 group-title="DE: Germany",DE: PLANET HD
+http://194.88.107.101:6204/live/rahman/rahman/12285.ts
+#EXTINF:0 group-title="DE: Germany",DE: POP10 
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PRO 7 HD
+http://194.88.107.101:6204/live/jian/jian/12228.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO 7 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12228.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO 7 (2+) HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/706.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PRO 7 MAXX HD
+http://194.88.107.101:6204/live/jian/jian/12225.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO 7 MAXX (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12225.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO 7 MAXX (2+) HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/708.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PRO7 HD
+http://194.88.107.101:6204/live/jian/jian/12229.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO7 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12229.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO7 
+http://194.88.107.101:6204/live/jian/jian/12227.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO7 (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12227.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO7 FUN HD
+http://194.88.107.101:6204/live/jian/jian/12230.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO7 FUN (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12230.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO7 MAXX HD
+http://194.88.107.101:6204/live/jian/jian/12226.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO7 MAXX (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12226.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO7 MAXX 
+http://194.88.107.101:6204/live/jian/jian/12224.ts
+#EXTINF:0 group-title="DE: Germany",DE: PRO7 MAXX (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12224.ts
+#EXTINF:0 group-title="DE: Germany",DE: RFO 
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: RHEINMAIN TV 
+http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ROMANCE TV 
+http://194.88.107.101:6204/live/jian/jian/12193.ts
+#EXTINF:0 group-title="DE: Germany",DE: ROMANCE TV (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12193.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL HD
+http://194.88.107.101:6204/live/jian/jian/12242.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL (1+) HD
+http://194.88.107.101:6204/live/jian/jian/12243.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12242.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL (3+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12243.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL (4+) HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/711.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: RTL 
+http://194.88.107.101:6204/live/jian/jian/12241.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12241.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL 2 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/709.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: RTL CRIME 
+http://194.88.107.101:6204/live/jian/jian/12365.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL CRIME (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12365.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL CRIME (2+) 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/710.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: RTL II HD
+http://194.88.107.101:6204/live/jian/jian/12239.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL II (1+) HD
+http://194.88.107.101:6204/live/jian/jian/12240.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL II (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12239.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL II (3+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12240.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL II 
+http://194.88.107.101:6204/live/jian/jian/12238.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL II (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12238.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL LIVING HD
+http://194.88.107.101:6204/live/rahman/rahman/12362.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL NITRO HD
+http://194.88.107.101:6204/live/jian/jian/12217.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL NITRO (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12217.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL NITRO 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/712.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: RTL PASSION HD
+http://194.88.107.101:6204/live/jian/jian/12364.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL PASSION (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12364.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL PASSION 
+http://194.88.107.101:6204/live/rahman/rahman/12363.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL PASSION (1+) 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/713.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: RTL PLUS 
+http://194.88.107.101:6204/live/jian/jian/12237.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL PLUS (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12237.ts
+#EXTINF:0 group-title="DE: Germany",DE: RTL PLUS (2+) 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/714.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SANTUARIO FATIMA PORTUGAL 
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 HD
+http://194.88.107.101:6204/live/jian/jian/12232.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12232.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12233.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 
+http://194.88.107.101:6204/live/jian/jian/12231.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12231.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 (2+) 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/715.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 GOLD HD
+http://194.88.107.101:6204/live/jian/jian/12220.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 GOLD (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12220.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 GOLD 
+http://194.88.107.101:6204/live/jian/jian/12218.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 GOLD (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12218.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT 1 GOLD (2+) 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/716.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SAT1 EMOTIONS 
+http://194.88.107.101:6204/live/jian/jian/12216.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT1 EMOTIONS (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12216.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT1 GOLD HD
+http://194.88.107.101:6204/live/jian/jian/12219.ts
+#EXTINF:0 group-title="DE: Germany",DE: SAT1 GOLD (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12219.ts
+#EXTINF:0 group-title="DE: Germany",DE: SELECT 1 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/737.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SELECT 2 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/738.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SELECT 3 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/739.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SELECT 4 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/740.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SELECT 5 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/741.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SELECT 6 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/742.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SELECT 7 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/743.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SIXX HD
+http://194.88.107.101:6204/live/jian/jian/12222.ts
+#EXTINF:0 group-title="DE: Germany",DE: SIXX (1+) HD
+http://194.88.107.101:6204/live/jian/jian/12223.ts
+#EXTINF:0 group-title="DE: Germany",DE: SIXX (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12222.ts
+#EXTINF:0 group-title="DE: Germany",DE: SIXX (3+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12223.ts
+#EXTINF:0 group-title="DE: Germany",DE: SIXX 
+http://194.88.107.101:6204/live/jian/jian/12221.ts
+#EXTINF:0 group-title="DE: Germany",DE: SIXX (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12221.ts
+#EXTINF:0 group-title="DE: Germany",DE: SONY ENTERAINMENT HD
+http://194.88.107.101:6204/live/rahman/rahman/12367.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SPIEGEL TV GESCHICHTE HD
+http://194.88.107.101:6204/live/rahman/rahman/12275.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SPIEGEL TV WISSEN HD
+http://194.88.107.101:6204/live/rahman/rahman/12274.ts
+#EXTINF:0 group-title="DE: Germany",DE: STARS TV 
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SUPER RTL HD
+http://194.88.107.101:6204/live/jian/jian/12258.ts
+#EXTINF:0 group-title="DE: Germany",DE: SUPER RTL (1+) HD
+http://194.88.107.101:6204/live/jian/jian/12259.ts
+#EXTINF:0 group-title="DE: Germany",DE: SUPER RTL (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12258.ts
+#EXTINF:0 group-title="DE: Germany",DE: SUPER RTL (3+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12259.ts
+#EXTINF:0 group-title="DE: Germany",DE: SUPER RTL (4+) HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/758.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SUPER RTL 
+http://194.88.107.101:6204/live/jian/jian/12257.ts
+#EXTINF:0 group-title="DE: Germany",DE: SUPER RTL (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12257.ts
+#EXTINF:0 group-title="DE: Germany",DE: SWR 3 
+http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SYFY 
+http://194.88.107.101:6204/live/jian/jian/12375.ts
+#EXTINF:0 group-title="DE: Germany",DE: SYFY (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12375.ts
+#EXTINF:0 group-title="DE: Germany",DE: SYLT1 
+http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TAGESSCHAU24 
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TELE 5 HD
+http://194.88.107.101:6204/live/jian/jian/12192.ts
+#EXTINF:0 group-title="DE: Germany",DE: TELE 5 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12192.ts
+#EXTINF:0 group-title="DE: Germany",DE: TELE 5 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/759.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TIDE TV 1 
+http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TIROL TV 
+http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TIROL TV (1+) 
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TLC HD
+http://194.88.107.101:6204/live/jian/jian/12278.ts
+#EXTINF:0 group-title="DE: Germany",DE: TLC (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12278.ts
+#EXTINF:0 group-title="DE: Germany",DE: TNT COMEDY HD
+http://194.88.107.101:6204/live/jian/jian/12369.ts
+#EXTINF:0 group-title="DE: Germany",DE: TNT COMEDY (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12369.ts
+#EXTINF:0 group-title="DE: Germany",DE: TNT FILM HD
+http://194.88.107.101:6204/live/jian/jian/12371.ts
+#EXTINF:0 group-title="DE: Germany",DE: TNT FILM (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12371.ts
+#EXTINF:0 group-title="DE: Germany",DE: TOGGO PLUS 
+http://194.88.107.101:6204/live/jian/jian/12260.ts
+#EXTINF:0 group-title="DE: Germany",DE: TOGGO PLUS (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12260.ts
+#EXTINF:0 group-title="DE: Germany",DE: TRAVEL CHANNEL HD
+http://194.88.107.101:6204/live/jian/jian/12280.ts
+#EXTINF:0 group-title="DE: Germany",DE: TRAVEL CHANNEL (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12280.ts
+#EXTINF:0 group-title="DE: Germany",DE: TV ASTA 
+http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TV C 
+http://s1.wsepanel.com:1935/camarafeira/camarafeira/live.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TV KUJAWY 
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TV MITTELRHEIN 
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TV OOST 
+http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TV TORUN 
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TV TOURING SCHWEINFURT 
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TV TOURING WURZBURG 
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TV TRWAM 
+http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TV38 
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TVA OSTBAYERN 
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TVO 
+https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TVO (1+) 
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: TVT ZGORZELEC 
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: UNIVERSAL CHANNEL HD
+http://194.88.107.101:6204/live/jian/jian/12373.ts
+#EXTINF:0 group-title="DE: Germany",DE: UNIVERSAL CHANNEL (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12373.ts
+#EXTINF:0 group-title="DE: Germany",DE: VOX HD
+http://194.88.107.101:6204/live/jian/jian/12235.ts
+#EXTINF:0 group-title="DE: Germany",DE: VOX (1+) HD
+http://194.88.107.101:6204/live/jian/jian/12236.ts
+#EXTINF:0 group-title="DE: Germany",DE: VOX (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12235.ts
+#EXTINF:0 group-title="DE: Germany",DE: VOX (3+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12236.ts
+#EXTINF:0 group-title="DE: Germany",DE: VOX (4+) HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/760.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: VOX 
+http://194.88.107.101:6204/live/jian/jian/12234.ts
+#EXTINF:0 group-title="DE: Germany",DE: VOX (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12234.ts
+#EXTINF:0 group-title="DE: Germany",DE: WDR FERNSEHEN 
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: WELT DER WUNDER 
+http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: WELT DER WUNDER (1+) 
+http://live.vidoo.de/live/weltderwunder/master.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ZDF HD
+http://194.88.107.101:6204/live/jian/jian/12209.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF (1+) HD
+http://194.88.107.101:6204/live/jian/jian/12210.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12209.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF (3+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12210.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF (4+) HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/761.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ZDF 
+http://194.88.107.101:6204/live/jian/jian/12208.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12208.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF INFO HD
+http://194.88.107.101:6204/live/jian/jian/12207.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF INFO (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12207.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF NEO HD
+http://194.88.107.101:6204/live/jian/jian/12205.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF NEO (1+) HD
+http://194.88.107.101:6204/live/jian/jian/12206.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF NEO (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12205.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF NEO (3+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12206.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF NEO 
+http://194.88.107.101:6204/live/jian/jian/12204.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZDF NEO (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12204.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZEE ONE HD
+http://194.88.107.101:6204/live/jian/jian/12389.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZEE ONE (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/12389.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZEE ONE 
+http://194.88.107.101:6204/live/jian/jian/12388.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZEE ONE (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/12388.ts
+#EXTINF:0 group-title="DE: Germany",DE: ZEEAFLAM 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3803.m3u8
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: 1 MEDIASET 
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: 2 MEDIASET 
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: 20 MEDIASET 
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: 2017 GEO 
+https://bobmovies.net/hl/IT.2017.EBRip.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ALBANIAIPTV COM-SKYCALCIO 1 HD
+http://51.15.3.71:8000/live/albi322/kanale666/81.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ALBANIAIPTV COM-SKYCALCIO 2 HD
+http://51.15.3.71:8000/live/albi322/kanale666/82.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ALTO ADIGE TV 
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ANIMAL PLANET 
+http://173.249.53.3:8000/live/test/test1/184.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ANTENNA TRE NORDEST 
+http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ATLANTIC HD
+http://173.249.53.3:8000/live/test/test1/224.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CAFETV24 VENETO 
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 10 
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 5 HD
+http://173.249.53.3:8000/live/test/test1/185.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 7 
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 74 SICILIA 
+http://151.80.100.112:1935/canale74/canale74/chunklist_w174779335.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 8 
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 85 PUGLIA 
+http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CARINA TV 
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: COMPANY TV 
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CREMONA 1 
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 group-title="IT: Italy",IT: DEEJAY TV 
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: DISCOVERY HD
+http://173.249.53.3:8000/live/test/test1/186.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: DISCOVERY SCIENCE HD
+http://173.249.53.3:8000/live/test/test1/187.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: EDEN TV 86 
+http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ESPERIA TV 18 CALABRIA 
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ETV MARCHE 
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: FOCUS MEDIASET 
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch26)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: FOX HD
+http://194.88.107.101:6204/live/jian/jian/9461.ts
+#EXTINF:0 group-title="IT: Italy",IT: FOX (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9461.ts
+#EXTINF:0 group-title="IT: Italy",IT: FOX CRIME HD
+http://194.88.107.101:6204/live/jian/jian/9462.ts
+#EXTINF:0 group-title="IT: Italy",IT: FOX CRIME (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9462.ts
+#EXTINF:0 group-title="IT: Italy",IT: FOX LIFE HD
+http://194.88.107.101:6204/live/jian/jian/9460.ts
+#EXTINF:0 group-title="IT: Italy",IT: FOX LIFE (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9460.ts
+#EXTINF:0 group-title="IT: Italy",IT: HISTORY LAB 
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: IRIS MEDIASET 
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: LA 5 MEDIASET 
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: LA 7 HD
+http://173.249.53.3:8000/live/test/test1/190.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: LA 7 
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: M20 TV 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: MEDIASET EXTRA 
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: NAT GEO HD
+http://173.249.53.3:8000/live/test/test1/192.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: NAT GEO WILD HD
+http://173.249.53.3:8000/live/test/test1/193.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: NETTUNO TV 
+http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 1 HD
+http://173.249.53.3:8000/live/test/test1/202.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 10 HD
+http://173.249.53.3:8000/live/test/test1/203.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 11 HD
+http://173.249.53.3:8000/live/test/test1/204.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 12 HD
+http://173.249.53.3:8000/live/test/test1/205.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 13 HD
+http://173.249.53.3:8000/live/test/test1/206.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 14 
+http://173.249.53.3:8000/live/test/test1/207.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 15 
+http://173.249.53.3:8000/live/test/test1/208.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 16 
+http://173.249.53.3:8000/live/test/test1/209.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 2 HD
+http://173.249.53.3:8000/live/test/test1/210.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 3 HD
+http://173.249.53.3:8000/live/test/test1/211.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 4 HD
+http://173.249.53.3:8000/live/test/test1/212.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 5 HD
+http://173.249.53.3:8000/live/test/test1/213.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 6 HD
+http://173.249.53.3:8000/live/test/test1/214.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 7 HD
+http://173.249.53.3:8000/live/test/test1/82.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 8 HD
+http://173.249.53.3:8000/live/test/test1/215.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PFILA 9 HD
+http://173.249.53.3:8000/live/test/test1/216.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM ACTION HD
+http://173.249.53.3:8000/live/test/test1/195.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM ACTION (1+) HD
+http://194.88.107.101:6204/live/jian/jian/9459.ts
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM ACTION (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9459.ts
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM ACTION 24 
+http://173.249.53.3:8000/live/test/test1/194.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO 
+http://194.88.107.101:6204/live/jian/jian/9458.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/9458.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO 1 
+http://173.249.53.3:8000/live/test/test1/196.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO 1 (1+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/879.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO 2 HD
+http://194.88.107.101:6204/live/jian/jian/9457.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO 2 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9457.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO 2 
+http://173.249.53.3:8000/live/test/test1/197.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO 3 
+http://173.249.53.3:8000/live/test/test1/198.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO 4 
+http://173.249.53.3:8000/live/test/test1/199.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO 5 
+http://173.249.53.3:8000/live/test/test1/200.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CALCIO 6 
+http://173.249.53.3:8000/live/test/test1/201.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CRIME HD
+http://194.88.107.101:6204/live/jian/jian/9454.ts
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CRIME (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9454.ts
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM EMOTION HD
+http://194.88.107.101:6204/live/jian/jian/9453.ts
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM EMOTION (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9453.ts
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM STORIES HD
+http://194.88.107.101:6204/live/jian/jian/9448.ts
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM STORIES (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9448.ts
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SUPERCALCIO HD
+http://163.172.211.229:8000/live/beintst/beintesrt/878.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PRIMARETE LOMBARDIA 
+http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PRIMOCANALE LIGURIA 
+http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: QVC 
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: R101 TV 
+http://hlslive.msf.ticdn.it/hls/CH10/live_Layer2.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 1 HD
+http://173.249.53.3:8000/live/test/test1/217.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI 1 (1+) HD
+http://194.88.107.101:6204/live/jian/jian/9447.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 1 (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9447.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 2 HD
+http://173.249.53.3:8000/live/test/test1/218.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI 2 (1+) HD
+http://194.88.107.101:6204/live/jian/jian/9446.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 2 (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9446.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 3 HD
+http://173.249.53.3:8000/live/test/test1/219.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI 3 (1+) HD
+http://194.88.107.101:6204/live/jian/jian/9445.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 3 (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9445.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 4 HD
+http://173.249.53.3:8000/live/test/test1/220.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI 4 (1+) HD
+http://194.88.107.101:6204/live/jian/jian/9444.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 4 (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9444.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 4 
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI 4 (1+) 
+https://raiquattro1-live.akamaized.net/hls/live/598315/raiquattro1/rai4_1200/chunklist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI 5 HD
+http://173.249.53.3:8000/live/test/test1/221.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI 5 
+http://194.88.107.101:6204/live/jian/jian/9443.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 5 (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/9443.ts
+#EXTINF:0 group-title="IT: Italy",IT: RAI 5 (2+) 
+https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/rai5_1200/chunklist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI PREMIUM HD
+http://173.249.53.3:8000/live/test/test1/222.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI PREMIUM 
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SUDTIROL SWITZERLAND 
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RDS SOCIAL TV 
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RETE 4 HD
+http://173.249.53.3:8000/live/test/test1/223.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RETESOLE 
+http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RTTR TV TRENTO 
+http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RTV SAN MARINO 
+http://o4.senape.tv:1935/webtv_live4/_definst_/0QBXFQ2L0I5P/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SENATO TV 
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SICILIA MEDIA TV 
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY CALCIO 1 HD
+http://194.88.107.101:6204/live/jian/jian/9439.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY CALCIO 1 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9439.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY CALCIO 2 HD
+http://194.88.107.101:6204/live/jian/jian/9438.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY CALCIO 2 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9438.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY CALCIO 3 HD
+http://194.88.107.101:6204/live/jian/jian/9437.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY CALCIO 3 (1+) HD
+http://194.88.107.101:6204/live/jian/jian/9437.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY CALCIO 3 (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9437.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY CALCIO 4 HD
+http://194.88.107.101:6204/live/jian/jian/9436.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY CALCIO 4 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9436.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY SUPERCALCIO 
+http://194.88.107.101:6204/live/jian/jian/9419.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY SUPERCALCIO (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/9419.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY TG24 
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY TG24 (1+) 
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY UNO HD
+http://194.88.107.101:6204/live/jian/jian/9417.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY UNO (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/9417.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKYCALCIO 1 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/81.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKYCALCIO 2 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/82.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: STANDBY TV 
+http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: STUDIO 100 PUGLIA 
+http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPER J TV 
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPERSIX 
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@692375/master.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPERTV 
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELE 8 ENTERTAINMENT ITALIAN 
+http://video2.kronopress.com:1935/tele8_live/tele8/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELE MILANO 
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEABRUZZO TV 
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELECHIARA 
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELECOLOR 
+http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELECUPOLE 
+http://dcunilive15-lh.akamaihd.net/i/dclive_1@90423/master.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEFOGGIA 
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEFRIULI 
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEMIA 
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEMILANO ENTERTAINMENT ITALIAN 
+http://91.121.222.160:1935/piublu/piublu.sdp/HasBahCa.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEMONTENEVE 
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEMONTEVE 
+http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEMONTEVE 3 
+http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEPAVIA 
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEPAVIA (1+) 
+http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEPAVIA ENTERTAINMENT ITALIAN 
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEROMAGNA 
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEROMAGNA LIFESTYLE 
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEROMAGNA MIA 
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELESUD TRAPANI 
+http://live.streamcaster.net:1935/telesud3_live/telesud/chunklist_w1977902813.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELETICINO SWITZERLAND 
+http://teleticinolive.vedge.infomaniak.com/livecast/teleticinolive/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEVOMERO CAMPANIA 
+http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TG NORBA 24 
+http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TGCOM24 MEDIASET 
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TOP CRIME MEDIASET 
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TRC MODENA 
+http://o1.senape.tv:1935/webtv_live/VC3TCRHI9LNP/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TRENTINO TV 
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TRENTINO TV (1+) 
+http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TSN LIVIGNO 
+http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TSN LIVIGNO (1+) 
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TV 2000 
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TVA VICENZA 
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TVRS MARCHE 
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: UNO HD
+http://173.249.53.3:8000/live/test/test1/189.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: VERA TV 
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: VIDEO BRESCIA 
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: VIDEO BRESCIA 2 
+http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: VIDEO CALABRIA 
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: VIDEO MEDITERRANEO 
+http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: VIDEONOLA 
+http://79.143.181.106:8000/live/videonola/videonola/1021.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: VIDEOSTAR TV LOMBARDIA 
+http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: WRECK 
+https://bobmovies.net/hl/Wreck.it.Ralph.2012_720p.m3u8
+#EXTINF:0 group-title="LT: Lithuania",LT: TV SYD 
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: 777 TEHNIKA TV 
 http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
-#EXTINF:-1,Ex-Yu: Pink Action
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2902.m3u8
-#EXTINF:-1,Ex-Yu: Animal Planet
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4001.m3u8
-#EXTINF:-1,Ex-YU: AXN Adria
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8987.m3u8
-#EXTINF:-1,Ex-Yu: B92
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3972.m3u8
-#EXTINF:-1,iptvtools_10
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ADITV 
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARIRANG 
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: BANOVINA 
 http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,EX-YU: Banovina
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6712.m3u8
-#EXTINF:-1,Ex-Yu: Belle Amie
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6698.m3u8
-#EXTINF:-1,iptvtools_14
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: BEJING TV ENTERTAINMENT CH MANDARIN 
+http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: BLUESKY CHANNEL 
+http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: BN TV 
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
-#EXTINF:-1,iptvtools_15
-http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
-#EXTINF:-1,Ex-Yu: Pink Classic
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8997.m3u8
-#EXTINF:-1,Ex-Yu: Pink Comedy
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2905.m3u8
-#EXTINF:-1,Ex-Yu: Pink Crime & Mystery
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3357.m3u8
-#EXTINF:-1,iptvtools_19
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: CGTN DOCUMENTARY 
+http://live.cgtn.com/cctv-d.ts
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: CHANNEL 2 
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: DDTV 
 http://203.156.63.20:1935/live/ddtv/playlist.m3u8
-#EXTINF:-1,Ex-Yu: Discovery Channel
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4002.m3u8
-#EXTINF:-1,Ex-Yu: Discovery Science
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9017.m3u8
-#EXTINF:-1,Ex-Yu: DM Sat
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3979.m3u8
-#EXTINF:-1,Ex-Yu: Doma tv
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3985.m3u8
-#EXTINF:-1,iptvtools_28
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: DOT DANCE 
 http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1,iptvtools_29
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: DUGA TV 
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:-1,Ex-Yu: Duga TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8776.m3u8
-#EXTINF:-1,Ex-Yu: E! Entertainment
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6697.m3u8
-#EXTINF:-1,iptvtools_34
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ELEKTRIKA TV 
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Ex-Yu: Pink Extra
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4764.m3u8
-#EXTINF:-1,iptvtools_37
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ETV 
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: FILM SELECT 
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
-#EXTINF:-1,Ex-Yu: Pink Folk 1
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4763.m3u8
-#EXTINF:-1,Ex-Yu: Pink Folk 2
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4017.m3u8
-#EXTINF:-1,Ex-Yu: Fox Crime
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4005.m3u8
-#EXTINF:-1,Ex-Yu: Fox life
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4006.m3u8
-#EXTINF:-1,Ex-Yu: Fox TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4008.m3u8
-#EXTINF:-1,Ex-Yu: Grand TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3978.m3u8
-#EXTINF:-1,Ex-Yu: Happy Tv
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4000.m3u8
-#EXTINF:-1,Ex-Yu: HBO Adria
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4010.m3u8
-#EXTINF:-1,Ex-Yu: History Channel
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4003.m3u8
-#EXTINF:-1,Ex-Yu: Pink Hits 2
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4762.m3u8
-#EXTINF:-1,Ex-Yu: Pink Horror
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2904.m3u8
-#EXTINF:-1,iptvtools_57
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: FOODIE CHANNEL 
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: GOLICA TV 
+http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: HISTORY 
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: HOME & LIVING 
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: HRAM 
 http://178.253.194.75:1935/live/hram.stream/playlist.m3u8
-#EXTINF:-1,iptvtools_58
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: HRAM TV 
 http://178.253.194.75:1935/live/hram.stream/.m3u8
-#EXTINF:-1,iptvtools_59
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: HRT 1 
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1,Ex-Yu: HRT 1 Cro
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3524.m3u8
-#EXTINF:-1,iptvtools_62
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: HRT 2 
 http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1,Ex-Yu: HRT 2 Cro
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3521.m3u8
-#EXTINF:-1,iptvtools_65
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: HRT 3 
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1,Ex-Yu: HRT 3 Cro
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3522.m3u8
-#EXTINF:-1,iptvtools_68
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: HRT 4 
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1,iptvtools_70
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: INSANTV 
+http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ITN 
 http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
-#EXTINF:-1,iptvtools_71
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1,iptvtools_72
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: JOJ HD
 https://nn.geo.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1,Ex-Yu: Kanal 5 Plus
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4024.m3u8
-#EXTINF:-1,Ex-Yu: Klasik TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3987.m3u8
-#EXTINF:-1,Ex-Yu: Pink Koncert
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4761.m3u8
-#EXTINF:-1,iptvtools_78
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: KRONEHIT TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1,Ex-Yu: Pink Kuvar
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4765.m3u8
-#EXTINF:-1,Ex-Yu: Lov i Ribolov
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3988.m3u8
-#EXTINF:-1,Ex-Yu: M1 Film
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8990.m3u8
-#EXTINF:-1,iptvtools_83
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: MAFI10 TV PUBLIC-ONDEMANDSHOWS HUNGARIAN/CZECH 
 http://stream.kukaj.se/stream/4/video.m3u8
-#EXTINF:-1,Ex-Yu: Mini
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8995.m3u8
-#EXTINF:-1,Ex-Yu: Mini Ultra TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3998.m3u8
-#EXTINF:-1,Ex-Yu: Minimax
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8994.m3u8
-#EXTINF:-1,Ex-Yu: Nat Geo Channel
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3989.m3u8
-#EXTINF:-1,Ex-Yu: Nat Geo Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3989.m3u8
-#EXTINF:-1,Ex-Yu: Nat Geo Wild
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9018.m3u8
-#EXTINF:-1,Ex-Yu: NOVA RS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3971.m3u8
-#EXTINF:-1,Ex-Yu: Nova Tv
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3992.m3u8
-#EXTINF:-1,iptvtools_98
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: METROTV 
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: NEPALI TV 
+http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: OKEY TV 
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: OSM PALE 
 http://178.132.6.97:8080/RS:OSMPale1/index.m3u8
-#EXTINF:-1,Ex-Yu: Palma Plus
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8984.m3u8
-#EXTINF:-1,Ex-Yu: Pink Pedia
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2898.m3u8
-#EXTINF:-1,Ex-Yu: Pink
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2901.m3u8
-#EXTINF:-1,Ex-Yu: Pink 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2897.m3u8
-#EXTINF:-1,Ex-Yu: Pink 3
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4758.m3u8
-#EXTINF:-1,Ex-Yu: Pink Bh
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3358.m3u8
-#EXTINF:-1,Ex-Yu: Pink Classic
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8997.m3u8
-#EXTINF:-1,Ex-Yu: Pink Comedy
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2905.m3u8
-#EXTINF:-1,Ex-Yu: Pink Crime & Mystery
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3357.m3u8
-#EXTINF:-1,Ex-Yu: Pink Extra
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4764.m3u8
-#EXTINF:-1,Ex-Yu: Pink Folk 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4763.m3u8
-#EXTINF:-1,Ex-Yu: Pink Hits 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4762.m3u8
-#EXTINF:-1,Ex-Yu: Pink Horror
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2904.m3u8
-#EXTINF:-1,Ex-Yu: Pink Koncert
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4761.m3u8
-#EXTINF:-1,Ex-Yu: Pink Kuvar
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4765.m3u8
-#EXTINF:-1,Ex-Yu: Pink Pedia
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2898.m3u8
-#EXTINF:-1,Ex-Yu: Pink Reality
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2900.m3u8
-#EXTINF:-1,Ex-Yu: Pink Romance
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2896.m3u8
-#EXTINF:-1,Ex-Yu: Pink Thriller
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2903.m3u8
-#EXTINF:-1,Ex-Yu: Pink Westren
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4020.m3u8
-#EXTINF:-1,Ex-Yu: Pink Zabava
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2907.m3u8
-#EXTINF:-1,Ex-Yu: Planeta tv
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3981.m3u8
-#EXTINF:-1,Ex-Yu: Pink Plus
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2908.m3u8
-#EXTINF:-1,Ex-Yu: Prva Plus
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3970.m3u8
-#EXTINF:-1,Ex-Yu: Prva Tv
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3969.m3u8
-#EXTINF:-1,Ex-Yu: Pink Reality
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2900.m3u8
-#EXTINF:-1,iptvtools_132
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: RETRO 
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,iptvtools_133
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: RIK 
 http://5.63.149.252:5000/live/499/499.m3u8
-#EXTINF:-1,Ex-Yu: Pink Romance
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2896.m3u8
-#EXTINF:-1,iptvtools_135
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: RTCG ENTERTAINMENT CROATIAN/SWEDISH 
 http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8
-#EXTINF:-1,Ex-Yu: RTCG Sat
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8775.m3u8
-#EXTINF:-1,iptvtools_138
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: RTHK 31 HONG KONG 
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: RTL 1 
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,Ex-Yu: RTL 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3996.m3u8
-#EXTINF:-1,iptvtools_161
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: RTV USK HD
 http://178.132.6.97:80/RTV:USK1/playlist.m3u8
-#EXTINF:-1,iptvtools_162
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SABAIDEE TV 
+http://stream.rs.co.th/sbd-low/index.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SAGAR TV 
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1,iptvtools_165
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SALING SAPA TV 
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SHOP CHANNEL 
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SLAVONSKA TV 
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1,iptvtools_168
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: STAR BRIDGE TV 
+http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: STUDIO B 
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
-#EXTINF:-1,iptvtools_170
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TELEVIZIA OSEM 
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1,iptvtools_171
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TELEVIZIJA 5 
 http://37.59.21.217:8809/live/tv5web.m3u8
-#EXTINF:-1,iptvtools_172
-http://192.99.6.113:1935/liveTarget/TeslaVision.stream/chunklist_w1459988322.m3u8
-#EXTINF:-1,iptvtools_178
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TIBETAN TV ENTERTAINMENT CH MANDARIN 
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TUTY TV 
+http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TV 14 
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TV 8 
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1,iptvtools_179
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TV ASAHI 
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TV LUX 
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TV NITRICKA 
 http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,iptvtools_182
-http://212.43.97.35:1935/winechannel/winechannel/chunklist_w693696609.m3u8
-#EXTINF:-1,iptvtools_183
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TV PEZINOK 
+http://s1.media-planet.sk:80/live/pezinok/BratuMarian.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TV TOKYO 
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TVE BAHIA 
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TVNZ 
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TVRI KALSEL 
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: TVRI KALTENG 
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: WEDDING CHANNEL 
+http://wedding-channel.tv/stream.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: YTN 
+http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: YU PLANET 
 http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
-#EXTINF:-1,Ex-Yu: Pink Zabava
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2907.m3u8
-#EXTINF:-1,Zdrava TV HR
-http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/16658.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: 4SEVEN 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/23.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: 5SELECT 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4774.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: 5SPIKE 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4741.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: 5STAR 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/264.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: 5USA 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4766.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: AL JAZEERA 
+http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AL JAZEERA (1+) 
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AL JAZEERA DOCUMENTARY 
+http://199.167.151.237:1935/live/sp15_8.stream/gmswf.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AL JAZEERA DOCUMENTARY (1+) 
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALIBI HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/640.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALIBI (1+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9787.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALIBI 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/44.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALJAZEERA 
+http://194.88.107.101:6204/live/jian/jian/6940.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALJAZEERA (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/6940.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: AMC 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/917.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ANAIS 18 HD
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AND FLIX 
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AND FLIX (1+) 
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ANIMAL PLANET HD
+http://194.88.107.101:6204/live/jian/jian/8593.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ANIMAL PLANET (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/8593.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ARTS 1 HD
+http://194.88.107.101:6204/live/jian/jian/8592.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ARTS 1 (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/8592.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ARY DIGITAL 
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ASIA TV UPDATED 
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ATLANTIC 
+http://194.88.107.101:6204/live/jian/jian/8591.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ATLANTIC (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8591.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BELGESEL SIRADISI GEZEGENLER 
+http://1290922571.rsc.cdn77.org/movies/Belgesel-En-Siradisi-Gezegenler.mp4/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BET 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/824.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX HITS 1 
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BUYUK DIZAYNLAR UCAK GEMISI 
+http://1290922571.rsc.cdn77.org/movies/En-Buyuk-Dizaynlar-Ucak-Gemisi.mp4/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BUYUK SABAN 
+http://1290922571.rsc.cdn77.org/movies/En-Buyuk-Saban.mp4/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CANALE 5 MEDIASET 
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CANVAS 
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CATCH 2 
+http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS ACTION 
+http://194.88.107.101:6204/live/jian/jian/8575.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS ACTION (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8575.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS ACTION (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/48.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS DRAMA 
+http://194.88.107.101:6204/live/jian/jian/8574.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS DRAMA (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8574.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS DRAMA (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/47.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS REALITY 
+http://194.88.107.101:6204/live/jian/jian/8573.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS REALITY (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8573.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS REALITY (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/642.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHALLENGE 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/49.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 4 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 4 (1+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7890.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 4 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/651.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 5 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/420.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 5 (1+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8017.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 5 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 5UK ENTERTAINMENT 
+http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1301132.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CLUB TV 
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1036.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL (1+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9788.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL 
+http://194.88.107.101:6204/live/jian/jian/8569.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8569.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/643.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL EXTRA 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/46.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CREATE AND CRAFT 
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: DAVE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/733.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DAVE 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/50.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DD PODHIGAI 
+https://mk9qa798qwyb-hls-live.wmncdn.net/824/abrstream/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY 
+http://194.88.107.101:6204/live/jian/jian/8568.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8568.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY HISTORY 
+http://194.88.107.101:6204/live/jian/jian/8567.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY HISTORY (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8567.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY HOME & HEALTH 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/63.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY SCIENCE 
+http://194.88.107.101:6204/live/jian/jian/8566.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY SCIENCE (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8566.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY SHED 
+http://194.88.107.101:6204/live/jian/jian/8565.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY SHED (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8565.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY SHED (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/234.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY TURBO 
+http://194.88.107.101:6204/live/jian/jian/8564.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DISCOVERY TURBO (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8564.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DMAX 
+http://rb-group-server.com:25461/live/yassine/yassine/3728.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DMAX (1+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/447.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DRAMA 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/391.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: DUBAI TV LIFESTYLE AE ARABIC 
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: DUNYANIN BUYUK TELESKOPU NASIL YAPILDI GORSEL SOLEN BELGESEL 
+http://1290922571.rsc.cdn77.org/movies/Dunyanin-En-Buyuk-Teleskopu-Nasil-Yapildi-Gorsel-Solen-Belgesel.mp4/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: DUNYANIN ZEHIRLI HAYVANLARI TEK PARCA 
+http://1290922571.rsc.cdn77.org/movies/Dunyanin-En-Zehirli-Hayvanlari-Tek-Parca.mp4/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: DW TV 
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: E! ENTERTAINMENT 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/260.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: EXPO CHANNEL 
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: FATEH TV 
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOOD NETWORK 
+http://194.88.107.101:6204/live/jian/jian/8558.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOOD NETWORK (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8558.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOOD NETWORK (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/456.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FORCES TV 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2073.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOX HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/51.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOX 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/646.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FRANCE 24 
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: FRANCE 24 2 
+http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: FRANCE 24 FRANCAIS 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2711.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: FRANCE 24 IN HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2707.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: GOLD 
+http://194.88.107.101:6204/live/jian/jian/8557.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: GOLD (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8557.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: GOLD (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/52.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: GOOD FOOD HD
+http://194.88.107.101:6204/live/jian/jian/8556.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: GOOD FOOD (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/8556.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: GOOD FOOD (2+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6815.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: GOOD FOOD 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/70.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: HISTORY HD
+http://194.88.107.101:6204/live/jian/jian/8555.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: HISTORY (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/8555.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: HOME 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4742.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: HOME & HEALTH 
+http://194.88.107.101:6204/live/jian/jian/8554.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: HOME & HEALTH (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8554.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: HORSE & COUNTRY 
+http://194.88.107.101:6204/live/jian/jian/8553.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: HORSE & COUNTRY (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8553.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: IRIB VARZESH 
+http://cdn1.live.irib.ir:1935/e-tv/varzesh-1mb.stream/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: IRIB VARZESH (1+) 
+http://cdn1.live.irib.ir:1935/e-tv3/varzesh-300k.stream/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV (1+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7900.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/637.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 1 
+http://194.88.107.101:6204/live/jian/jian/8552.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 1 (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8552.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 2 
+http://194.88.107.101:6204/live/jian/jian/8551.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 2 (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8551.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 3 
+http://194.88.107.101:6204/live/jian/jian/8550.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 3 (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8550.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 4 
+http://194.88.107.101:6204/live/jian/jian/8549.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 4 (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8549.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV LIVE EVENTS 
+https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/15.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV2 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/638.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV3 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/365.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV3 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/16.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV4 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/366.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV4 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/17.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITVBE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/364.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITVBE 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/18.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: JAKARTA GLOBE 
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: JEWELLERY MAKER 
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: JOHNY 
+http://1290922571.rsc.cdn77.org/movies/johnny-english-2011.mp4/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: KANSHI TV 
+http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: LIFETIME HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9713.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: LIFETIME 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/53.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: LIVE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4775.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: LIVE 
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: LIVING HD
+http://194.88.107.101:6204/live/jian/jian/11116.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: LIVING (1+) HD
+http://194.88.107.101:6204/live/rahman/rahman/11116.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: MAKAN 33 
+http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: MAKAN 33 (1+) 
+https://62-90-90-52.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w48594442_b1928000.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: MBC 4 ENTERTAINMENT SA 
+http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: MORE 4 HD
+http://194.88.107.101:6204/live/rahman/rahman/8547.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: MORE4 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/288.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: MORE4 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/22.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: MY CLUB TV 
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2798.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: MYHIT 
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NAT GEO WILD HD
+http://194.88.107.101:6204/live/jian/jian/8535.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: NAT GEO WILD (1+) HD
+http://194.88.107.101:6204/live/jian/jian/8535.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NAT GEO WILD (2+) HD
+http://194.88.107.101:6204/live/rahman/rahman/8535.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NATION TV 
+http://live.nationtv.tv/hls/ntv_th_hd.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NATION TV (1+) 
+http://live.nationtv.tv/hls/ntv_th_sd.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NATIONAL GEOGRAPHIC HD
+http://194.88.107.101:6204/live/rahman/rahman/8534.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: NATIONAL GEOPRAFHIC BUYUK DIZAYNLAR BELGESELI 
+http://1290922571.rsc.cdn77.org/movies/National-Geoprafhic-En-Buyuk-Dizaynlar-Belgeseli.mp4/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NOA 4 HAMBURG 
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NOA 4 NORDERSTEDT 
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: PALESTINE TODAY 
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: PHOENIX HONG KONG ENTERTAINMENT CH MANDARIN 
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: PICK 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/54.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: PUNJAB TV 
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: QUEST 
+http://194.88.107.101:6204/live/jian/jian/8529.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: QUEST (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8529.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: QUEST (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/332.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: QUEST RED 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7032.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: QVC 
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: QVC (1+) 
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: QVC 1 
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: QVC 2 
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: QVC 3 
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: QVC 4 
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: QVC BEAUTY 
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: QVC EXTRA 
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: QVC STYLE 
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: REAL LIVES 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1842.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: REAL MADRID TV 
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: REALLY 
+http://194.88.107.101:6204/live/jian/jian/8527.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: REALLY (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8527.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: REALLY (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1120.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RETE 4 MEDIASET 
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: RETE 4 MEDIASET (1+) 
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(04)/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: RT DOCUMENTARY 
+https://secure-streams.akamaized.net/rt-doc/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: RT DOCUMENTARY RUSSIAN 
+https://cdn-01.bonus-tv.ru:8090/rtdoc/tracks-v3a1/mono.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTE 2 
+http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTE JR 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/201.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTE ONE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5247.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTE ONE 
+http://194.88.107.101:6204/live/jian/jian/8525.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTE ONE (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8525.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTE ONE (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/14.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTE TWO HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5248.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTE TWO 
+http://194.88.107.101:6204/live/jian/jian/8524.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTE TWO (1+) 
+http://194.88.107.101:6204/live/rahman/rahman/8524.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTE TWO (2+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/309.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RTM TVI 
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: S4C HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/292.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: S4C (1+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9082.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: S4C 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9083.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SANGAT TV 
+http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SIDDETLI SENE 
+http://1290922571.rsc.cdn77.org/moviesnew/tr/horror/siddetlisene.mp4/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SIKH CHANNEL 
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY ARTS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4591.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY ARTS (1+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9789.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY ARTS 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/13.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY NATIONAL GEOGRAPHIC HD
+http://194.88.107.101:6204/live/jian/jian/8534.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY TWO 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2993.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SONY CRIME 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/373.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SONY CRIME 2 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4791.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: STV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2609.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: STV (1+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9078.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: STV 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9079.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SYFY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/329.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SYFY (1+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9780.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SYFY 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/55.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: TELENOVISA 43 VIVO ENTERTAINMENT DO /SPANISH 
+http://ss6.domint.net:2084/203_str/telenovisa/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: TELEZURI 
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/t/Bnhb6PI9GIjiKE7UgQC_qg/index-s32.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: TELEZURI (1+) 
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/10000/t/AFb4DZ0W2ts1a8fV5xo1VQ/index-s32.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: TEN 14 
+http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: TG4 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/377.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: THREE 
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: TLC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/66.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: TLC (1+) HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9791.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: TRAVEL CHANNEL 
+http://194.88.107.101:6204/live/rahman/rahman/8508.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: TRAVEL CHANNEL (1+) 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/115.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: TRT TURK 
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: TRU TV 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8642.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: TRUE ENTERTAINMENT 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4752.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: TV2 
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: TV3 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/378.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: TV8 
+http://stream-01.sg1.dailymotion.com/dm/3/x6qud17/live.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: TV8 (1+) 
+http://stream-01.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: TV8 (2+) 
+http://stream-01.sg1.dailymotion.com/dm/3/x6qud17/live-3.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: UNIVERSAL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2989.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: UNIVERSAL 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/56.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: UTV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9077.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: UTV 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9076.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: VICELAND HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2572.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: WATCH HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/363.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: WATCH 
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/133.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ZEE 24 GHANTA 
+http://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ZEE BANGLA 
+http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ZEE BANGLA (1+) 
+http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ZEE BIHAR JHARKHAND 
+http://z5ams.akamaized.net/biharjharkh/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ZEE KANNADA 
+http://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ZEE RAJASTHAN 
