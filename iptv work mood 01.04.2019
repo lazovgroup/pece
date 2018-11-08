@@ -1,75 +1,23 @@
-#EXTINF:-1,Arena sport 3
-http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/94.ts
+#EXTM3U
 #EXTINF:-1,Arena sport 4
 http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/95.ts
-#EXTINF:-1,Arena sport1
-http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/92.ts
-#EXTINF:-1,Arena sport 2
-http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/93.ts
-#EXTINF:-1,iptvtools_253
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2919
-#EXTINF:-1,iptvtools_255
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2917
-#EXTINF:-1,iptvtools_256
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2916
-#EXTINF:-1,SPORTKLUB 1
-http://ip.mountservers.com:7020/ian/jones/2313
+#EXTINF:-1,Arena sport 3
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/94.ts
 #EXTINF:-1,iptvtools_4
-http://premiumiptv.iptvgold.com:8010/DMKC1M55851/9k555L5DE/6650
-#EXTINF:-1,SPORTKLUB 3
-http://premiumiptv.iptvgold.com:8010/DMKC1M55851/9k555L5DE/6651
-#EXTINF:-1,(RS) Sport Klub 1
-http://ip.sltv.be:8000/live/WoXHuqvnHd/p3gl1oMq2L/120816.ts
-#EXTINF:-1,(HR) Sport Klub 1
-http://ip.sltv.be:8000/live/WoXHuqvnHd/p3gl1oMq2L/3036.ts
-#EXTINF:-1,(HR) Sport Klub 2
-http://ip.sltv.be:8000/live/WoXHuqvnHd/p3gl1oMq2L/3037.ts
-#EXTINF:-1,(HR) Sport Klub 3
-http://ip.sltv.be:8000/live/WoXHuqvnHd/p3gl1oMq2L/3038.ts
-#EXTINF:-1,Sport Klub 1 SLO
-http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/772.ts
-#EXTINF:-1,Sport Klub 2 SLO
-http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/773.ts
-#EXTINF:-1,(HR) Sport Klub 2
-http://ip.sltv.be:8000/live/WoXHuqvnHd/p3gl1oMq2L/3037.ts
-#EXTINF:-1,(HR) Sport Klub 3
-http://ip.sltv.be:8000/live/WoXHuqvnHd/p3gl1oMq2L/3038.ts
-#EXTINF:-1,iptvtools_223
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2902
-#EXTINF:-1,iptvtools_224
+http://ip.mountservers.com:7020/ian/jones/1758
+#EXTINF:-1,iptvtools_7
+http://premiumiptv.iptvgold.com:8010/DMKC1M55851/9k555L5DE/6521
+#EXTINF:-1,iptvtools_26
 http://iptv.ndasat.com:88/555155895930609/555155895930609/2901
-#EXTINF:-1,iptvtools_225
+#EXTINF:-1,iptvtools_27
 http://iptv.ndasat.com:88/555155895930609/555155895930609/2900
-#EXTINF:-1,iptvtools_226
+#EXTINF:-1,iptvtools_28
 http://iptv.ndasat.com:88/555155895930609/555155895930609/2907
-#EXTINF:-1,iptvtools_227
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2908
-#EXTINF:-1,iptvtools_281
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2902
-#EXTINF:-1,iptvtools_282
+#EXTINF:-1,iptvtools_31
 http://iptv.ndasat.com:88/555155895930609/555155895930609/2901
-#EXTINF:-1,iptvtools_283
+#EXTINF:-1,iptvtools_32
 http://iptv.ndasat.com:88/555155895930609/555155895930609/2900
-#EXTINF:-1,iptvtools_284
+#EXTINF:-1,iptvtools_33
 http://iptv.ndasat.com:88/555155895930609/555155895930609/2907
-#EXTINF:-1,iptvtools_285
+#EXTINF:-1,iptvtools_34
 http://iptv.ndasat.com:88/555155895930609/555155895930609/2908
-#EXTINF:-1,iptvtools_286
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2902
-#EXTINF:-1,iptvtools_287
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2901
-#EXTINF:-1,iptvtools_288
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2900
-#EXTINF:-1,iptvtools_289
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2907
-#EXTINF:-1,iptvtools_290
-http://iptv.ndasat.com:88/555155895930609/555155895930609/2908
-#EXTINF:-1,(RS) Sport Klub 1
-http://ip.sltv.be:8000/live/WoXHuqvnHd/p3gl1oMq2L/120816.ts
-#EXTINF:-1,(HR) Sport Klub 1
-http://ip.sltv.be:8000/live/WoXHuqvnHd/p3gl1oMq2L/3036.ts
-#EXTINF:-1,(HR) Sport Klub 2
-http://ip.sltv.be:8000/live/WoXHuqvnHd/p3gl1oMq2L/3037.ts
-#EXTINF:-1,(HR) Sport Klub 3
-http://ip.sltv.be:8000/live/WoXHuqvnHd/p3gl1oMq2L/3038.ts
-
