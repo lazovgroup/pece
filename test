@@ -1,1 +1,1761 @@
-
+#EXTM3U
+#EXTINF:-1,Top Channel
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/21.ts
+#EXTINF:-1,Klan TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/19.ts
+#EXTINF:-1,KTV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/86.ts
+#EXTINF:-1,RTV21
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/37.ts
+#EXTINF:-1,Klan Kosova
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/20.ts
+#EXTINF:-1,Klan PLUS
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4988.ts
+#EXTINF:-1,RTK
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/89.ts
+#EXTINF:-1,RTK 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1492.ts
+#EXTINF:-1,RTK 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1493.ts
+#EXTINF:-1,Alsat M
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/39.ts
+#EXTINF:-1,Vizion Plus
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/101.ts
+#EXTINF:-1,TV Dukagjini
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1759.ts
+#EXTINF:-1,T7
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5356.ts
+#EXTINF:-1,Tribuna Channel
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1503.ts
+#EXTINF:-1,First Channel
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1398.ts
+#EXTINF:-1,Rrokum TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/285.ts
+#EXTINF:-1,Film Nje HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/22.ts
+#EXTINF:-1,Film Dy HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/23.ts
+#EXTINF:-1,Film Hits
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/24.ts
+#EXTINF:-1,Film Autor
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/26.ts
+#EXTINF:-1,Film Aksion
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/27.ts
+#EXTINF:-1,Film Komedi
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/25.ts
+#EXTINF:-1,Film Thriller
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/28.ts
+#EXTINF:-1,Film Drame
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/29.ts
+#EXTINF:-1,Euro Film
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/31.ts
+#EXTINF:-1,Jolly HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/123.ts
+#EXTINF:-1,Tring Super
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/102.ts
+#EXTINF:-1,Tring Comedy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/104.ts
+#EXTINF:-1,Tring Life
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/111.ts
+#EXTINF:-1,Tring Fantasy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/105.ts
+#EXTINF:-1,Tring Shqip
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/120.ts
+#EXTINF:-1,Tring 3+
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/108.ts
+#EXTINF:-1,Sky Max
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1472.ts
+#EXTINF:-1,Sky Aksion
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1473.ts
+#EXTINF:-1,Sky Drama
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1475.ts
+#EXTINF:-1,Sky Komedi
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1474.ts
+#EXTINF:-1,ShqipTV Film
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5576.ts
+#EXTINF:-1,ShqipTV AksionHD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5571.ts
+#EXTINF:-1,ShqipTV CinemaHD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5572.ts
+#EXTINF:-1,ShqipTV DramaHD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5573.ts
+#EXTINF:-1,ShqipTV FamilyHD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5574.ts
+#EXTINF:-1,ShqipTv FantasyHD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5575.ts
+#EXTINF:-1,ShqipTV Komedi
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5579.ts
+#EXTINF:-1,ShqipTV Horror
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5578.ts
+#EXTINF:-1,ShqipTV Western
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5581.ts
+#EXTINF:-1,ShqipTV Hindi
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5577.ts
+#EXTINF:-1,ShqipTV Serial
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5580.ts
+#EXTINF:-1,KS GOLD 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6165.ts
+#EXTINF:-1,KS GOLD 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6166.ts
+#EXTINF:-1,KS GOLD 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6167.ts
+#EXTINF:-1,KS GOLD 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6168.ts
+#EXTINF:-1,KS Premiere 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6176.ts
+#EXTINF:-1,KS Premiere 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6177.ts
+#EXTINF:-1,KS Premiere 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6178.ts
+#EXTINF:-1,KS Premiere 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6179.ts
+#EXTINF:-1,KS HINDI
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6169.ts
+#EXTINF:-1,Family HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/233.ts
+#EXTINF:-1,Explorer Shkenc
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/32.ts
+#EXTINF:-1,Explorer Histori
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/34.ts
+#EXTINF:-1,Explorer Natyre
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/33.ts
+#EXTINF:-1,Tring Planet
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/106.ts
+#EXTINF:-1,Tring Histori
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/119.ts
+#EXTINF:-1,Tring World
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/121.ts
+#EXTINF:-1,Sky Shkenc
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1476.ts
+#EXTINF:-1,Sky Histori
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1477.ts
+#EXTINF:-1,ShqipTV Humor
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5583.ts
+#EXTINF:-1,ShqipTV Qeshu
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5585.ts
+#EXTINF:-1,Alba Humor1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3744.ts
+#EXTINF:-1,ShqipTV Stupcat
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5586.ts
+#EXTINF:-1,KS Humor
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6172.ts
+#EXTINF:-1,T
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/64.ts
+#EXTINF:-1,TV Mitrovica
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1756.ts
+#EXTINF:-1,TV Besa
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1764.ts
+#EXTINF:-1,Living
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/107.ts
+#EXTINF:-1,Smile
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/281.ts
+#EXTINF:-1,Stinet
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/67.ts
+#EXTINF:-1,Era
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/87.ts
+#EXTINF:-1,TVSH
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/280.ts
+#EXTINF:-1,RTSH 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5675.ts
+#EXTINF:-1,RTSH 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5676.ts
+#EXTINF:-1,RTSH Film
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5678.ts
+#EXTINF:-1,RTSH Muzike
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5679.ts
+#EXTINF:-1,RTSH Shqip
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5677.ts
+#EXTINF:-1,ALB UK
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5822.ts
+#EXTINF:-1,Tema Tv
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5680.ts
+#EXTINF:-1,TV Shenja
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5681.ts
+#EXTINF:-1,Syri Vision
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5682.ts
+#EXTINF:-1,Channel One
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5683.ts
+#EXTINF:-1,Zjarr TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1763.ts
+#EXTINF:-1,TV Dielli
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5391.ts
+#EXTINF:-1,TV Koha Tetove
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5392.ts
+#EXTINF:-1,TV Pendimi
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5389.ts
+#EXTINF:-1,TV Tema
+http://edge01eu.ekranet.com/tematv_720p/index.m3u8?e=962db456428cf5b1bd8fc58d97f66a24&c=tematv&medium=websocket
+#EXTINF:-1,RTP Presheve
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5965.ts
+#EXTINF:-1,Syri Blue
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5964.ts
+#EXTINF:-1,TV Tetova
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5393.ts
+#EXTINF:-1,Drita tv
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5532.ts
+#EXTINF:-1,Peace TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1601.ts
+#EXTINF:-1,RTV Islam
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1605.ts
+#EXTINF:-1,Alba Beba
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2615.ts
+#EXTINF:-1,Bang Bang
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/112.ts
+#EXTINF:-1,Junior TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/113.ts
+#EXTINF:-1,Cufo TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/63.ts
+#EXTINF:-1,Tring Tring
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/122.ts
+#EXTINF:-1,Tip TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/291.ts
+#EXTINF:-1,Baby TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1431.ts
+#EXTINF:-1,ShqipTV Mimi
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5584.ts
+#EXTINF:-1,KS Kids
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6173.ts
+#EXTINF:-1,Amol TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1766.ts
+#EXTINF:-1,RTV21 Popullore
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/284.ts
+#EXTINF:-1,RTV 21 Plus
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1502.ts
+#EXTINF:-1,Dasma TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/577.ts
+#EXTINF:-1,My Music
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1765.ts
+#EXTINF:-1,BBF Music
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/287.ts
+#EXTINF:-1,Supersonic
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1602.ts
+#EXTINF:-1,Alba Popullore
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3719.ts
+#EXTINF:-1,Alba Muzikë
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2505.ts
+#EXTINF:-1,KS Muzike
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6174.ts
+#EXTINF:-1,Alba Folklor
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3743.ts
+#EXTINF:-1,ShqipTV Qifteli
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5582.ts
+#EXTINF:-1,Folk+
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/286.ts
+#EXTINF:-1,Folklorit
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1604.ts
+#EXTINF:-1,Top News
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/88.ts
+#EXTINF:-1,Arta News
+https://abdyli.gjirafa.com/live/r6e3JjXjSjkUCsA7CmdhL8lzM4fGXGz4/kohavision-Mjc1Mzk1-360/index.m3u8
+#EXTINF:-1,ABC News
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/124.ts
+#EXTINF:-1,News 24
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1767.ts
+#EXTINF:-1,Fax News
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5686.ts
+#EXTINF:-1,Raport TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5685.ts
+#EXTINF:-1,FOX
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/588.ts
+#EXTINF:-1,FOX Life
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/586.ts
+#EXTINF:-1,FOX Crime
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/587.ts
+#EXTINF:-1,Super Sport 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/40.ts
+#EXTINF:-1,Super Sport 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/41.ts
+#EXTINF:-1,Super Sport 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/42.ts
+#EXTINF:-1,Super Sport 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6314.ts
+#EXTINF:-1,Super Sport 5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3178.ts
+#EXTINF:-1,Supersport Kosova 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/44.ts
+#EXTINF:-1,Supersport Kosova 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/65.ts
+#EXTINF:-1,Tring Sport News
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/246.ts
+#EXTINF:-1,Tring Sport 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/230.ts
+#EXTINF:-1,Tring Sport 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/231.ts
+#EXTINF:-1,Tring Sport 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/232.ts
+#EXTINF:-1,Tring Sport 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/283.ts
+#EXTINF:-1,Kujtesa Sport 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6184.ts
+#EXTINF:-1,Kujtesa Sport 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6185.ts
+#EXTINF:-1,Kujtesa Sport 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6186.ts
+#EXTINF:-1,Kujtesa Sport 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6187.ts
+#EXTINF:-1,RTSH SPORT
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5811.ts
+#EXTINF:-1,Arena Sport 1 Cro
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2279.ts
+#EXTINF:-1,Arena Sport 2 Cro
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2280.ts
+#EXTINF:-1,Arena Sport 3 Cro
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2281.ts
+#EXTINF:-1,Arena Sport 4 Cro
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2282.ts
+#EXTINF:-1,Arena Sport 5 Cro
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2283.ts
+#EXTINF:-1,Arena Sport 1 Sr
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2274.ts
+#EXTINF:-1,Arena Sport 2 Sr
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2275.ts
+#EXTINF:-1,Arena Sport 3 Sr
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2276.ts
+#EXTINF:-1,Arena Sport 4 Sr
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2277.ts
+#EXTINF:-1,Sport Klub1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2285.ts
+#EXTINF:-1,Sport Klub2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2286.ts
+#EXTINF:-1,Sport Klub3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2287.ts
+#EXTINF:-1,Sport Klub4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2293.ts
+#EXTINF:-1,Sport Klub 5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6192.ts
+#EXTINF:-1,Sport Klub 6
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6191.ts
+#EXTINF:-1,Sport TV1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2295.ts
+#EXTINF:-1,Sport TV2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2296.ts
+#EXTINF:-1,Sport TV3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2297.ts
+#EXTINF:-1,Sport TV4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2299.ts
+#EXTINF:-1,Sport TV5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2298.ts
+#EXTINF:-1,FOX Sports1 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/150.ts
+#EXTINF:-1,FOX Sports2 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/146.ts
+#EXTINF:-1,FOX Sports3 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/147.ts
+#EXTINF:-1,FOX Sports4 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/148.ts
+#EXTINF:-1,FOX Sports5 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/149.ts
+#EXTINF:-1,beIN Sport 1 Fr
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/222.ts
+#EXTINF:-1,beIN Sport 2 Fr
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/223.ts
+#EXTINF:-1,beIN Sport 3 Fr
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/224.ts
+#EXTINF:-1,Sky Sports 1 UK
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/69.ts
+#EXTINF:-1,Sky Sports 2 UK
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/70.ts
+#EXTINF:-1,Sky Sports 3 UK
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/71.ts
+#EXTINF:-1,Sky Sports 4 UK
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/72.ts
+#EXTINF:-1,Sky Sports 5 UK
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/73.ts
+#EXTINF:-1,Setanta Sports
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1422.ts
+#EXTINF:-1,RMC Sport 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4312.ts
+#EXTINF:-1,RMC Sport 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4313.ts
+#EXTINF:-1,RMC Sport 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4314.ts
+#EXTINF:-1,RMC Sport 5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4315.ts
+#EXTINF:-1,Bein Sport 1 Arb
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2304.ts
+#EXTINF:-1,Bein Sport 2 Arb
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2305.ts
+#EXTINF:-1,Bein Sport 3 Arb
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2306.ts
+#EXTINF:-1,Bein Sport 4 Arb
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2307.ts
+#EXTINF:-1,Bein Sport 5 Arb
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2308.ts
+#EXTINF:-1,Bein Sport 6 Arb
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2309.ts
+#EXTINF:-1,Bein Sport 7 Arb
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2310.ts
+#EXTINF:-1,Bein Sport 8 Arb
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2311.ts
+#EXTINF:-1,Bein Sport 9 Arb
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2312.ts
+#EXTINF:-1,Bein Sport 10 Arb
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2313.ts
+#EXTINF:-1,SportTV1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/129.ts
+#EXTINF:-1,SportTV2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/130.ts
+#EXTINF:-1,SportTV3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/131.ts
+#EXTINF:-1,SportTV4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/132.ts
+#EXTINF:-1,SportTV5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/133.ts
+#EXTINF:-1,Lig TV1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1731.ts
+#EXTINF:-1,Lig TV2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2115.ts
+#EXTINF:-1,Lig TV3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2116.ts
+#EXTINF:-1,Lig tv 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6396.ts
+#EXTINF:-1,Tivibu Spor 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4596.ts
+#EXTINF:-1,Tivibu Spor 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4597.ts
+#EXTINF:-1,Tivibu Spor 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4598.ts
+#EXTINF:-1,Tivibu Spor 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4599.ts
+#EXTINF:-1,Sport1 Select
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/983.ts
+#EXTINF:-1,Sport1 Voetbal
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/982.ts
+#EXTINF:-1,Sport1 Racing
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/984.ts
+#EXTINF:-1,Sport1 Extra 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/985.ts
+#EXTINF:-1,Sport1 Extra 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/986.ts
+#EXTINF:-1,Eurosport 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/240.ts
+#EXTINF:-1,Eurosport 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/241.ts
+#EXTINF:-1,ESPN 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1654.ts
+#EXTINF:-1,ESPN 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1655.ts
+#EXTINF:-1,Fox Sport USA1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1652.ts
+#EXTINF:-1,Fox Sport USA2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1653.ts
+#EXTINF:-1,Canal+ Sport
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/247.ts
+#EXTINF:-1,Infosport+
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/250.ts
+#EXTINF:-1,Foot+
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1684.ts
+#EXTINF:-1,Viasat Futboll
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1667.ts
+#EXTINF:-1,La Liga TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5539.ts
+#EXTINF:-1,Bein LA Liga
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2301.ts
+#EXTINF:-1,Bein Sport Espana
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1745.ts
+#EXTINF:-1,Moviestar Futboll
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2303.ts
+#EXTINF:-1,Sky Sports News Germany
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2300.ts
+#EXTINF:-1,Sky Sport 1 Germany
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2288.ts
+#EXTINF:-1,Sky Sport 2 Germany
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2289.ts
+#EXTINF:-1,Premium Sport
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1619.ts
+#EXTINF:-1,Digi Sport 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1660.ts
+#EXTINF:-1,Digi Sport 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1661.ts
+#EXTINF:-1,Digi Sport 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1662.ts
+#EXTINF:-1,Digi Sport 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1663.ts
+#EXTINF:-1,BT Sport1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/79.ts
+#EXTINF:-1,BT SPORT2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/80.ts
+#EXTINF:-1,BT Sport ESPN
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/203.ts
+#EXTINF:-1,Teleclub Sport 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4277.ts
+#EXTINF:-1,NBA TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5531.ts
+#EXTINF:-1,BOX Nation
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/261.ts
+#EXTINF:-1,Moviestar F1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1744.ts
+#EXTINF:-1,Barca TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/174.ts
+#EXTINF:-1,Real Madrid TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1741.ts
+#EXTINF:-1,Chelsea F.C.
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5530.ts
+#EXTINF:-1,Milan Channel
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6228.ts
+#EXTINF:-1,Inter TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6229.ts
+#EXTINF:-1,Roma TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6230.ts
+#EXTINF:-1,Lazio Channel
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6232.ts
+#EXTINF:-1,Sky Bundesliga 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/202.ts
+#EXTINF:-1,Sky Bundesliga 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4467.ts
+#EXTINF:-1,Sky Bundesliga 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4468.ts
+#EXTINF:-1,Sky Bundesliga 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4469.ts
+#EXTINF:-1,Sky Bundesliga 5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4470.ts
+#EXTINF:-1,beIN SPORTS MAX 4 (France)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6153.ts
+#EXTINF:-1,beIN SPORTS MAX 5 (France)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6163.ts
+#EXTINF:-1,beIN SPORTS MAX 6 (France)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6156.ts
+#EXTINF:-1,beIN SPORTS MAX 7 (France)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6157.ts
+#EXTINF:-1,beIN SPORTS MAX 8 (France)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6158.ts
+#EXTINF:-1,beIN SPORTS MAX 9 (France)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6159.ts
+#EXTINF:-1,Sky Movies Premiere
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/116.ts
+#EXTINF:-1,Sky Movies Thriller
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/85.ts
+#EXTINF:-1,Sky Movies Grates
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/84.ts
+#EXTINF:-1,Sky Movies Drama & Romance
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/83.ts
+#EXTINF:-1,Sky Movies Comedy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/82.ts
+#EXTINF:-1,Sky Movies Action & Adventure
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/81.ts
+#EXTINF:-1,Sky Drama UK
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/115.ts
+#EXTINF:-1,Sky One
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1411.ts
+#EXTINF:-1,Sky Two
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1412.ts
+#EXTINF:-1,Sky Arts
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1413.ts
+#EXTINF:-1,Sky Living
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1415.ts
+#EXTINF:-1,Sky Atlantic
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1414.ts
+#EXTINF:-1,ITV 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1405.ts
+#EXTINF:-1,ITV 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1406.ts
+#EXTINF:-1,ITV 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1407.ts
+#EXTINF:-1,ITV 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1408.ts
+#EXTINF:-1,BBC 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1401.ts
+#EXTINF:-1,BBC 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1402.ts
+#EXTINF:-1,BBC 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1403.ts
+#EXTINF:-1,BBC 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1404.ts
+#EXTINF:-1,BBC Alba
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6442.ts
+#EXTINF:-1,BBC America
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6440.ts
+#EXTINF:-1,BBC News
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6438.ts
+#EXTINF:-1,BBC World News
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6441.ts
+#EXTINF:-1,BBC Parliament
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6439.ts
+#EXTINF:-1,Channel 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1410.ts
+#EXTINF:-1,Channel 5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1409.ts
+#EXTINF:-1,More 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1416.ts
+#EXTINF:-1,5*
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1429.ts
+#EXTINF:-1,Universal Channel
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1421.ts
+#EXTINF:-1,Movies 4 Men
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1428.ts
+#EXTINF:-1,Syfy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1424.ts
+#EXTINF:-1,Gold
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1418.ts
+#EXTINF:-1,Watch
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1417.ts
+#EXTINF:-1,Comedy Central
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1420.ts
+#EXTINF:-1,Discovery Channel
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/178.ts
+#EXTINF:-1,Discovery History
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/179.ts
+#EXTINF:-1,Animal Planet
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/183.ts
+#EXTINF:-1,Discovery Science
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/181.ts
+#EXTINF:-1,Discovery Turbo
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/182.ts
+#EXTINF:-1,Discovery Investigation
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/180.ts
+#EXTINF:-1,Nat Geografic
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/177.ts
+#EXTINF:-1,Nat Geo Wild
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/176.ts
+#EXTINF:-1,National Geografic (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4.ts
+#EXTINF:-1,E! Entertainment
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/279.ts
+#EXTINF:-1,Food Network
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1423.ts
+#EXTINF:-1,Fashion Television
+https://youtu.be/cBXWUoK6SXc
+#EXTINF:-1,Sky News UK
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2559.ts
+#EXTINF:-1,ZDF
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/259.ts
+#EXTINF:-1,ZDF Info
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5960.ts
+#EXTINF:-1,ZDF Neo
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5959.ts
+#EXTINF:-1,Das Erste DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/260.ts
+#EXTINF:-1,WDR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5961.ts
+#EXTINF:-1,RTL DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/252.ts
+#EXTINF:-1,RTL 2 DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/253.ts
+#EXTINF:-1,RTL Pasion DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/893.ts
+#EXTINF:-1,SAT.1 DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/256.ts
+#EXTINF:-1,Sat 1 Gold
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5955.ts
+#EXTINF:-1,PRO 7
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/254.ts
+#EXTINF:-1,PRO 7 MAX
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/262.ts
+#EXTINF:-1,VOX DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/255.ts
+#EXTINF:-1,Kabel Eins DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/257.ts
+#EXTINF:-1,3Sat
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5957.ts
+#EXTINF:-1,Arte DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5958.ts
+#EXTINF:-1,ORF 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/575.ts
+#EXTINF:-1,ORF 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/576.ts
+#EXTINF:-1,n-TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5962.ts
+#EXTINF:-1,N24
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5963.ts
+#EXTINF:-1,RTL Crime
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5952.ts
+#EXTINF:-1,RTL Nitro
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5953.ts
+#EXTINF:-1,Sky Cinema DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/156.ts
+#EXTINF:-1,Sky Hits DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/169.ts
+#EXTINF:-1,Sky Comedy DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/157.ts
+#EXTINF:-1,Sky Emotion DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/168.ts
+#EXTINF:-1,Sky Action DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/165.ts
+#EXTINF:-1,Sky Cinema +24 DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/167.ts
+#EXTINF:-1,Sky Atlantic DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/166.ts
+#EXTINF:-1,SKY Krimi DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/881.ts
+#EXTINF:-1,MGM DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/877.ts
+#EXTINF:-1,Universal DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/889.ts
+#EXTINF:-1,Kinowelt DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/894.ts
+#EXTINF:-1,Sony Entertainment DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1347.ts
+#EXTINF:-1,Zee ONE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6437.ts
+#EXTINF:-1,TNT Film DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/879.ts
+#EXTINF:-1,TNT Serie DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/880.ts
+#EXTINF:-1,TNT Comedy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4582.ts
+#EXTINF:-1,FOX DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/883.ts
+#EXTINF:-1,Syfy DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/892.ts
+#EXTINF:-1,AXN DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/878.ts
+#EXTINF:-1,13th Street DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/882.ts
+#EXTINF:-1,DMAX DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/891.ts
+#EXTINF:-1,Sixx DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/890.ts
+#EXTINF:-1,Heimatkanal
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5956.ts
+#EXTINF:-1,Teleclub Cinema
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4278.ts
+#EXTINF:-1,Teleclub Star
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4279.ts
+#EXTINF:-1,Telestar Prime
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4280.ts
+#EXTINF:-1,Planet DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/896.ts
+#EXTINF:-1,Discovery Channel DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/886.ts
+#EXTINF:-1,National Geographic DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/887.ts
+#EXTINF:-1,Nat Geo Wild DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/888.ts
+#EXTINF:-1,Histori DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/885.ts
+#EXTINF:-1,TLC DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5954.ts
+#EXTINF:-1,Sport Digital DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/897.ts
+#EXTINF:-1,Super RTL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/258.ts
+#EXTINF:-1,Kika
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/884.ts
+#EXTINF:-1,Nickelodeon DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4889.ts
+#EXTINF:-1,Disney Channel DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2212.ts
+#EXTINF:-1,Disney Cinemagic DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2209.ts
+#EXTINF:-1,Disney Junior DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2210.ts
+#EXTINF:-1,Disney-XD DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2211.ts
+#EXTINF:-1,Boomerang DE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5544.ts
+#EXTINF:-1,CineStar TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1750.ts
+#EXTINF:-1,CineStar Premiere 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1747.ts
+#EXTINF:-1,CineStar Premiere 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1748.ts
+#EXTINF:-1,CineStar Action
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1749.ts
+#EXTINF:-1,HBO Adria
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/192.ts
+#EXTINF:-1,HBO 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/191.ts
+#EXTINF:-1,RTS 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/200.ts
+#EXTINF:-1,RTS 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/201.ts
+#EXTINF:-1,RTS 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5674.ts
+#EXTINF:-1,B92
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/58.ts
+#EXTINF:-1,Prva TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/215.ts
+#EXTINF:-1,Prva Plus
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/216.ts
+#EXTINF:-1,Prva Max
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5529.ts
+#EXTINF:-1,Prva World
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5593.ts
+#EXTINF:-1,Nova RS
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/198.ts
+#EXTINF:-1,Nova HR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/199.ts
+#EXTINF:-1,Al Jazera Balkans
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1494.ts
+#EXTINF:-1,Happy TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/100.ts
+#EXTINF:-1,Studio B
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5587.ts
+#EXTINF:-1,TOP Kanal
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5688.ts
+#EXTINF:-1,KCN 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5591.ts
+#EXTINF:-1,Palma Plus
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5590.ts
+#EXTINF:-1,SOS Kanal
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5592.ts
+#EXTINF:-1,K3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5588.ts
+#EXTINF:-1,N1 Srbia
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5589.ts
+#EXTINF:-1,RTRS
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5596.ts
+#EXTINF:-1,RTRS Plus
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5598.ts
+#EXTINF:-1,BN
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4575.ts
+#EXTINF:-1,HRT 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/211.ts
+#EXTINF:-1,HRT 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/212.ts
+#EXTINF:-1,HRT 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5672.ts
+#EXTINF:-1,HRT 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5673.ts
+#EXTINF:-1,Doma TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5595.ts
+#EXTINF:-1,Z1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5602.ts
+#EXTINF:-1,RTL HR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/214.ts
+#EXTINF:-1,RTL 2 HR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5600.ts
+#EXTINF:-1,RTL Living HR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5601.ts
+#EXTINF:-1,TV1 Mreza
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/213.ts
+#EXTINF:-1,BHT
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/195.ts
+#EXTINF:-1,Hayat
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/193.ts
+#EXTINF:-1,Hayat Plus
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/194.ts
+#EXTINF:-1,OBN
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/197.ts
+#EXTINF:-1,Face TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5594.ts
+#EXTINF:-1,Alternativa TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5604.ts
+#EXTINF:-1,TV Sarajevo
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5603.ts
+#EXTINF:-1,Lov i Ribolov
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4264.ts
+#EXTINF:-1,Pink
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/68.ts
+#EXTINF:-1,Pink2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/91.ts
+#EXTINF:-1,Pink 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1448.ts
+#EXTINF:-1,Pink Plus
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/90.ts
+#EXTINF:-1,Pink M
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/92.ts
+#EXTINF:-1,Pink BIH
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/93.ts
+#EXTINF:-1,Pink Premium
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/96.ts
+#EXTINF:-1,Pink Film
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/95.ts
+#EXTINF:-1,Pink Action
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/94.ts
+#EXTINF:-1,Pink Comedy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/97.ts
+#EXTINF:-1,Pink Thriller
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1445.ts
+#EXTINF:-1,Pink Horror
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1450.ts
+#EXTINF:-1,Pink Sci-Fi&Fantasy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1452.ts
+#EXTINF:-1,Pink Crime&Mistery
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1446.ts
+#EXTINF:-1,Pink Western
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1447.ts
+#EXTINF:-1,Pink Romance
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1454.ts
+#EXTINF:-1,Pink World
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/98.ts
+#EXTINF:-1,Pink Reality
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/99.ts
+#EXTINF:-1,Pink Zabava
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1453.ts
+#EXTINF:-1,Pink Soap
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1451.ts
+#EXTINF:-1,Pink Kuvar
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1449.ts
+#EXTINF:-1,Pink Kids
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1459.ts
+#EXTINF:-1,Planeta Tv
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4222.ts
+#EXTINF:-1,Pink Music
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1455.ts
+#EXTINF:-1,Pink Folk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1457.ts
+#EXTINF:-1,Pink Folk2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1458.ts
+#EXTINF:-1,Balkanika TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5605.ts
+#EXTINF:-1,Star TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/134.ts
+#EXTINF:-1,ATV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/135.ts
+#EXTINF:-1,Kanal D
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/137.ts
+#EXTINF:-1,Show TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/136.ts
+#EXTINF:-1,Show Max
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3446.ts
+#EXTINF:-1,TV 8
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/139.ts
+#EXTINF:-1,TV 8.5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2364.ts
+#EXTINF:-1,Fox TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/138.ts
+#EXTINF:-1,Beyaz TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/243.ts
+#EXTINF:-1,TV2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1438.ts
+#EXTINF:-1,TRT HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/141.ts
+#EXTINF:-1,TRT 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3433.ts
+#EXTINF:-1,TRT Avaz
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3435.ts
+#EXTINF:-1,TRT Diyanet
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3437.ts
+#EXTINF:-1,TRT World
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3434.ts
+#EXTINF:-1,TRT Turk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1636.ts
+#EXTINF:-1,A2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4311.ts
+#EXTINF:-1,NTV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1501.ts
+#EXTINF:-1,Kanal 7
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1443.ts
+#EXTINF:-1,Kanal A
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1441.ts
+#EXTINF:-1,Ulke TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1432.ts
+#EXTINF:-1,Tek Rumeli
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5488.ts
+#EXTINF:-1,TV 52
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3460.ts
+#EXTINF:-1,TV 360
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3457.ts
+#EXTINF:-1,beIN Movies Action
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5866.ts
+#EXTINF:-1,beIN Movies Action 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5867.ts
+#EXTINF:-1,beIN Movies Comedy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5868.ts
+#EXTINF:-1,beIN Movies Premiere
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5864.ts
+#EXTINF:-1,beIN Movies Stars
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5869.ts
+#EXTINF:-1,beIN Movies Turk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5870.ts
+#EXTINF:-1,beIN Series Comedy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5874.ts
+#EXTINF:-1,beIN Series Drama
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5872.ts
+#EXTINF:-1,beIN Series SCI-FI HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5873.ts
+#EXTINF:-1,beIN Series Vice
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5871.ts
+#EXTINF:-1,beIN Box Office 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5890.ts
+#EXTINF:-1,beIN Box Office 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5891.ts
+#EXTINF:-1,beIN Box Office 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5892.ts
+#EXTINF:-1,Movie Smart Premium
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5875.ts
+#EXTINF:-1,Movie Smart Premium 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5876.ts
+#EXTINF:-1,Movie Smart Platin
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5879.ts
+#EXTINF:-1,Movie Smart Platin 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5880.ts
+#EXTINF:-1,Movie Smart Gold
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5878.ts
+#EXTINF:-1,Movie Smart Action
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5877.ts
+#EXTINF:-1,Movie Smart Family
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5882.ts
+#EXTINF:-1,Movie Smart Fest
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5881.ts
+#EXTINF:-1,Movie Smart Turk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5883.ts
+#EXTINF:-1,Sinema TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5884.ts
+#EXTINF:-1,Sinema TV 1001
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5886.ts
+#EXTINF:-1,Sinema TV 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5885.ts
+#EXTINF:-1,Sinema TV Aile
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5888.ts
+#EXTINF:-1,Sinema TV Aksion
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5887.ts
+#EXTINF:-1,Sinema TV Komedi
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5889.ts
+#EXTINF:-1,Cinestar Vizyon 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1679.ts
+#EXTINF:-1,Cinestar Girelim
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1674.ts
+#EXTINF:-1,beIN IZ
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5637.ts
+#EXTINF:-1,beIN Gurme
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5893.ts
+#EXTINF:-1,TRT Belgesel
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1631.ts
+#EXTINF:-1,Discovery Channel TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1669.ts
+#EXTINF:-1,Discovery Science TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5947.ts
+#EXTINF:-1,Discovery Showcase TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5948.ts
+#EXTINF:-1,National Geographic TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1629.ts
+#EXTINF:-1,National Geo Wild TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1632.ts
+#EXTINF:-1,National Geo People TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1630.ts
+#EXTINF:-1,Da Vinci Learning TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5945.ts
+#EXTINF:-1,Animal Planet TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5946.ts
+#EXTINF:-1,History Channel TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5950.ts
+#EXTINF:-1,Viasat Nature&History TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5951.ts
+#EXTINF:-1,TLC TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5646.ts
+#EXTINF:-1,DMAX
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/144.ts
+#EXTINF:-1,TV NET
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5949.ts
+#EXTINF:-1,TRT Cocuk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1638.ts
+#EXTINF:-1,Cartoon Network TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5941.ts
+#EXTINF:-1,Disney Channel TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5942.ts
+#EXTINF:-1,Disney Junior TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5943.ts
+#EXTINF:-1,Nickeledon TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5939.ts
+#EXTINF:-1,Nick Junior TR
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5940.ts
+#EXTINF:-1,Minika Cocuk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5937.ts
+#EXTINF:-1,Minika GO
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5938.ts
+#EXTINF:-1,Planet Cocuk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5944.ts
+#EXTINF:-1,Bloomberg HT
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3455.ts
+#EXTINF:-1,CNN Turk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1635.ts
+#EXTINF:-1,TRT Haber
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1637.ts
+#EXTINF:-1,Haber Turk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1634.ts
+#EXTINF:-1,A Haber
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1768.ts
+#EXTINF:-1,TGRT Haber
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3452.ts
+#EXTINF:-1,Anadolu Ajans
+rtmp://watchme.video/live//smart_hd1
+#EXTINF:-1,Bein Sports Haber
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4941.ts
+#EXTINF:-1,A Spor
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1433.ts
+#EXTINF:-1,Tivibu Spor
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3459.ts
+#EXTINF:-1,S SPORT
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5635.ts
+#EXTINF:-1,TRT Spor
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1440.ts
+#EXTINF:-1,SMART SPORT 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4310.ts
+#EXTINF:-1,Number One Turk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3454.ts
+#EXTINF:-1,Power Turk
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1439.ts
+#EXTINF:-1,TRT Muzik
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1434.ts
+#EXTINF:-1,Numer One
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3453.ts
+#EXTINF:-1,Kral Pop
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/145.ts
+#EXTINF:-1,GS TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3440.ts
+#EXTINF:-1,BJK TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3441.ts
+#EXTINF:-1,FB TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3439.ts
+#EXTINF:-1,Canal+
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/249.ts
+#EXTINF:-1,Canal+ Cinéma
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/248.ts
+#EXTINF:-1,Canal+ Family
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/269.ts
+#EXTINF:-1,Canal+ Décalé
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/270.ts
+#EXTINF:-1,TF1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/264.ts
+#EXTINF:-1,France 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/276.ts
+#EXTINF:-1,France 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/277.ts
+#EXTINF:-1,France 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/278.ts
+#EXTINF:-1,France 5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6062.ts
+#EXTINF:-1,France 24
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6063.ts
+#EXTINF:-1,France O
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6061.ts
+#EXTINF:-1,M6
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/265.ts
+#EXTINF:-1,Arte
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1001.ts
+#EXTINF:-1,C8
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6064.ts
+#EXTINF:-1,W9
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/263.ts
+#EXTINF:-1,TMC
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6065.ts
+#EXTINF:-1,TFX
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6066.ts
+#EXTINF:-1,NRJ 12
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/268.ts
+#EXTINF:-1,BFM TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6079.ts
+#EXTINF:-1,C News
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6068.ts
+#EXTINF:-1,C Star
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6069.ts
+#EXTINF:-1,6Ter
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6072.ts
+#EXTINF:-1,Numero 23
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6073.ts
+#EXTINF:-1,RMC Découverte
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6074.ts
+#EXTINF:-1,Chérie 25
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6075.ts
+#EXTINF:-1,LCI
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6076.ts
+#EXTINF:-1,TV5 Monde
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6085.ts
+#EXTINF:-1,Téva
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6092.ts
+#EXTINF:-1,RTL 9
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6083.ts
+#EXTINF:-1,Paris Première
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6104.ts
+#EXTINF:-1,TV Breizh
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6144.ts
+#EXTINF:-1,Ciné+ Premiere
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/272.ts
+#EXTINF:-1,Ciné+ Frisson
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/274.ts
+#EXTINF:-1,Ciné+ Famiz
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/273.ts
+#EXTINF:-1,Ciné+ Emotion
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/271.ts
+#EXTINF:-1,Ciné+ Classic
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6129.ts
+#EXTINF:-1,Ciné FX
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6081.ts
+#EXTINF:-1,Ciné Polar
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6082.ts
+#EXTINF:-1,OCS Max
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/266.ts
+#EXTINF:-1,OCS Géants
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6109.ts
+#EXTINF:-1,OCS City
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6108.ts
+#EXTINF:-1,OCS Choc
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6107.ts
+#EXTINF:-1,Paramount Channel France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6105.ts
+#EXTINF:-1,Warner TV France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6145.ts
+#EXTINF:-1,Action
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/999.ts
+#EXTINF:-1,13ème Rue Universal
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6121.ts
+#EXTINF:-1,SyFy France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6096.ts
+#EXTINF:-1,Comedie+
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/275.ts
+#EXTINF:-1,Animaux
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1000.ts
+#EXTINF:-1,BET
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6123.ts
+#EXTINF:-1,AB1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6077.ts
+#EXTINF:-1,AB3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6078.ts
+#EXTINF:-1,Serie Club
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6097.ts
+#EXTINF:-1,Elle Girl TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6150.ts
+#EXTINF:-1,Brava
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6126.ts
+#EXTINF:-1,Chasse et Pêche
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6080.ts
+#EXTINF:-1,E! France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6137.ts
+#EXTINF:-1,Trek
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6088.ts
+#EXTINF:-1,Toute l'Histoire
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6090.ts
+#EXTINF:-1,Voyage
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6086.ts
+#EXTINF:-1,J-One
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6141.ts
+#EXTINF:-1,Science & Vie
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6099.ts
+#EXTINF:-1,Seasons
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6098.ts
+#EXTINF:-1,TCM Cinéma
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6095.ts
+#EXTINF:-1,TF1 Series Films
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6070.ts
+#EXTINF:-1,Ushuia TV
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6084.ts
+#EXTINF:-1,L'Equipe
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6071.ts
+#EXTINF:-1,AB Moteurs
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6122.ts
+#EXTINF:-1,Golf +
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6120.ts
+#EXTINF:-1,LCP
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6067.ts
+#EXTINF:-1,Discovery Channel France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6130.ts
+#EXTINF:-1,Discovery Investigation France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6132.ts
+#EXTINF:-1,Discovery Science France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6131.ts
+#EXTINF:-1,Disney Channel France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6133.ts
+#EXTINF:-1,National Geo Wild France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6140.ts
+#EXTINF:-1,National Geographic France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6139.ts
+#EXTINF:-1,Planète+
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6100.ts
+#EXTINF:-1,Planète+ A&E
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6101.ts
+#EXTINF:-1,Planète+ CI
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6102.ts
+#EXTINF:-1,Histoire
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6138.ts
+#EXTINF:-1,Game One
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6151.ts
+#EXTINF:-1,Cartoon Network France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6128.ts
+#EXTINF:-1,Disney Cinema France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6136.ts
+#EXTINF:-1,Disney Junior France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6134.ts
+#EXTINF:-1,Disney XD France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6135.ts
+#EXTINF:-1,Nicelodeon France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6146.ts
+#EXTINF:-1,Nickelodeon Junior France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6147.ts
+#EXTINF:-1,Nickelodeon Teen France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6148.ts
+#EXTINF:-1,Boomerang France
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6125.ts
+#EXTINF:-1,Gulli
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1599.ts
+#EXTINF:-1,Piwi+
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6103.ts
+#EXTINF:-1,Télétoon+
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6093.ts
+#EXTINF:-1,Télétoon+1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6094.ts
+#EXTINF:-1,Mangas
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6143.ts
+#EXTINF:-1,Boing
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6124.ts
+#EXTINF:-1,Canal J
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6127.ts
+#EXTINF:-1,TiJi
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6091.ts
+#EXTINF:-1,Toonami
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6142.ts
+#EXTINF:-1,MCM
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6149.ts
+#EXTINF:-1,NRJ Hits
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6106.ts
+#EXTINF:-1,Trace Urban
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6089.ts
+#EXTINF:-1,Rai 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1620.ts
+#EXTINF:-1,Rai 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1621.ts
+#EXTINF:-1,Rai 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1622.ts
+#EXTINF:-1,Rai 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1623.ts
+#EXTINF:-1,RAI 5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6193.ts
+#EXTINF:-1,RAI Gulp
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6194.ts
+#EXTINF:-1,RAI Movie
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6195.ts
+#EXTINF:-1,RAI Premium
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6196.ts
+#EXTINF:-1,RAI Scuola
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6197.ts
+#EXTINF:-1,RAI Yoyo
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6199.ts
+#EXTINF:-1,RAI News
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6198.ts
+#EXTINF:-1,RAI Sport1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6200.ts
+#EXTINF:-1,Italia 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1625.ts
+#EXTINF:-1,Italia 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1627.ts
+#EXTINF:-1,Canale 5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1626.ts
+#EXTINF:-1,Canale 7
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6224.ts
+#EXTINF:-1,Rete 4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1624.ts
+#EXTINF:-1,LA 7
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6202.ts
+#EXTINF:-1,Boing ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6217.ts
+#EXTINF:-1,LA 5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6220.ts
+#EXTINF:-1,Mediaset Extra
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6227.ts
+#EXTINF:-1,Iris
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6215.ts
+#EXTINF:-1,TGcom 24
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6222.ts
+#EXTINF:-1,Sky UNO
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6201.ts
+#EXTINF:-1,Sky Cinema UNO+1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6210.ts
+#EXTINF:-1,Sky Cinema +24
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6212.ts
+#EXTINF:-1,Sky Cinema Hits
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6206.ts
+#EXTINF:-1,Sky Cinema MAX
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6205.ts
+#EXTINF:-1,Sky Cinema Family
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6207.ts
+#EXTINF:-1,Sky Cinema Passion
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6204.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6208.ts
+#EXTINF:-1,Sky Cinema Classic
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6209.ts
+#EXTINF:-1,Sky Cinema Cult
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6213.ts
+#EXTINF:-1,Sky Atlantic ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6214.ts
+#EXTINF:-1,Premium Cinema
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1606.ts
+#EXTINF:-1,Premium Action
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1609.ts
+#EXTINF:-1,Premium Crime
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1611.ts
+#EXTINF:-1,Premium Comedy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1615.ts
+#EXTINF:-1,Premium Stories
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1612.ts
+#EXTINF:-1,Premium Emotion
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1610.ts
+#EXTINF:-1,Premium Energy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1614.ts
+#EXTINF:-1,Premium Joy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1613.ts
+#EXTINF:-1,FOX ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6239.ts
+#EXTINF:-1,FOX Life ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6242.ts
+#EXTINF:-1,FOX Crime ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6238.ts
+#EXTINF:-1,FOX Comedy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6241.ts
+#EXTINF:-1,FOX Animation
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6240.ts
+#EXTINF:-1,Discovery Channel ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6235.ts
+#EXTINF:-1,Discovery Science ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6233.ts
+#EXTINF:-1,Discovery T&L ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6234.ts
+#EXTINF:-1,Discovery DMAX
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6247.ts
+#EXTINF:-1,Discovery K2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6243.ts
+#EXTINF:-1,Discovery Nove ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6237.ts
+#EXTINF:-1,Crime Investigation ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6236.ts
+#EXTINF:-1,National Geo ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6244.ts
+#EXTINF:-1,National People ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6246.ts
+#EXTINF:-1,National Wild ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6245.ts
+#EXTINF:-1,Animal Planet ITA
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6216.ts
+#EXTINF:-1,Marcopolo
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6226.ts
+#EXTINF:-1,ALICE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6203.ts
+#EXTINF:-1,Gamberro Rosso
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6225.ts
+#EXTINF:-1,Real Time
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6221.ts
+#EXTINF:-1,Pesca
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6231.ts
+#EXTINF:-1,Caccia
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6218.ts
+#EXTINF:-1,Cielo
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6223.ts
+#EXTINF:-1,Giallo
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6219.ts
+#EXTINF:-1,MTV Classic
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/57.ts
+#EXTINF:-1,MTV Rocks
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/55.ts
+#EXTINF:-1,MTV Hits
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/56.ts
+#EXTINF:-1,VH1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1226.ts
+#EXTINF:-1,C More Hits
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1721.ts
+#EXTINF:-1,Npo 1 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5914.ts
+#EXTINF:-1,Npo 2 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5915.ts
+#EXTINF:-1,Npo 3 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5935.ts
+#EXTINF:-1,RTL4 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5926.ts
+#EXTINF:-1,RTL5 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5927.ts
+#EXTINF:-1,RTL7 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5928.ts
+#EXTINF:-1,RTL8 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5929.ts
+#EXTINF:-1,SBS 6 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5924.ts
+#EXTINF:-1,SBS 9 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5925.ts
+#EXTINF:-1,Net 5 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5936.ts
+#EXTINF:-1,192 TV NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5933.ts
+#EXTINF:-1,AT5 NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5917.ts
+#EXTINF:-1,Film 1 Action NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5922.ts
+#EXTINF:-1,Film 1 Premiere NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5919.ts
+#EXTINF:-1,Film 1 Drama NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5930.ts
+#EXTINF:-1,Disney Channel NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5931.ts
+#EXTINF:-1,Nickelodeon NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5932.ts
+#EXTINF:-1,VERONICA DISNEY NL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5923.ts
+#EXTINF:-1,LA UNE HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5897.ts
+#EXTINF:-1,LA DEUX
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5898.ts
+#EXTINF:-1,LA TROIS
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5899.ts
+#EXTINF:-1,RTL TVI HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5900.ts
+#EXTINF:-1,CLUB RTL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5901.ts
+#EXTINF:-1,PLUG RTL
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5902.ts
+#EXTINF:-1,BX1 HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5903.ts
+#EXTINF:-1,EEN HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5907.ts
+#EXTINF:-1,VIER HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5905.ts
+#EXTINF:-1,VIJF HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5906.ts
+#EXTINF:-1,VTM
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5904.ts
+#EXTINF:-1,VITAYA HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5908.ts
+#EXTINF:-1,CANVAS-HD
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5909.ts
+#EXTINF:-1,Moviestar Accion (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5794.ts
+#EXTINF:-1,Moviestar Comedia (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5795.ts
+#EXTINF:-1,Moviestar Estrenos (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5805.ts
+#EXTINF:-1,Moviestar Dcine (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5796.ts
+#EXTINF:-1,Moviestar Series Xtra (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5804.ts
+#EXTINF:-1,Moviestar Deportes (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2.ts
+#EXTINF:-1,Moviestar Deportes 2 (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5555.ts
+#EXTINF:-1,Moviestar Formula1  (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5895.ts
+#EXTINF:-1,Moviestar Futboll (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3.ts
+#EXTINF:-1,Moviestar Golf (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5570.ts
+#EXTINF:-1,Moviestar Disney (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5896.ts
+#EXTINF:-1,AMC Espana (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5817.ts
+#EXTINF:-1,Antena 3  (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5552.ts
+#EXTINF:-1,Nova (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5792.ts
+#EXTINF:-1,La 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/1742.ts
+#EXTINF:-1,Energy  (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5910.ts
+#EXTINF:-1,AXN (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5799.ts
+#EXTINF:-1,AXN WHITE (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5798.ts
+#EXTINF:-1,Fox (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5797.ts
+#EXTINF:-1,Fox Life (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5791.ts
+#EXTINF:-1,Comedy Central España (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5807.ts
+#EXTINF:-1,Paramount Channel Espana (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5551.ts
+#EXTINF:-1,TCM Espana (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5818.ts
+#EXTINF:-1,Disney Channel Espana (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5806.ts
+#EXTINF:-1,Disney JR (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5793.ts
+#EXTINF:-1,GOL (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5894.ts
+#EXTINF:-1,Viajar (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5819.ts
+#EXTINF:-1,Iberalia TV (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5812.ts
+#EXTINF:-1,Teledeporte (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5809.ts
+#EXTINF:-1,Real Madrid (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5553.ts
+#EXTINF:-1,Barca TV (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5911.ts
+#EXTINF:-1,Svt 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5997.ts
+#EXTINF:-1,Svt 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5996.ts
+#EXTINF:-1,Svt 24
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5995.ts
+#EXTINF:-1,TV3 SE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5987.ts
+#EXTINF:-1,TV4 SE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5988.ts
+#EXTINF:-1,TV4 Film
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5991.ts
+#EXTINF:-1,TV4 Guld
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5990.ts
+#EXTINF:-1,TV4 Fakta
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5989.ts
+#EXTINF:-1,TV6 SE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5986.ts
+#EXTINF:-1,TV8 SE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5985.ts
+#EXTINF:-1,TV10 SE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5984.ts
+#EXTINF:-1,TV12 SE
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5992.ts
+#EXTINF:-1,Kanal 5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5983.ts
+#EXTINF:-1,Kanal 9
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5982.ts
+#EXTINF:-1,Kanal 11
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5981.ts
+#EXTINF:-1,Sjuan
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5993.ts
+#EXTINF:-1,Kunskapskanalen
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5994.ts
+#EXTINF:-1,NRK 1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6010.ts
+#EXTINF:-1,NRK 2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6009.ts
+#EXTINF:-1,NRK 3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6008.ts
+#EXTINF:-1,TV Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6011.ts
+#EXTINF:-1,TV2 Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6012.ts
+#EXTINF:-1,TV2 Humor Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6018.ts
+#EXTINF:-1,TV2 Livsstil
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6014.ts
+#EXTINF:-1,TV2 Nyhetskanalen
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6015.ts
+#EXTINF:-1,TV2 Zebra
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6013.ts
+#EXTINF:-1,TV2 Sport Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6016.ts
+#EXTINF:-1,TV3 Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6023.ts
+#EXTINF:-1,Viasat 4 Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6025.ts
+#EXTINF:-1,TV6 Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6024.ts
+#EXTINF:-1,VOX Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6021.ts
+#EXTINF:-1,MAT Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6022.ts
+#EXTINF:-1,Max Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6020.ts
+#EXTINF:-1,FEM Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6017.ts
+#EXTINF:-1,Kanal 10 Norge
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6019.ts
+#EXTINF:-1,DR1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6030.ts
+#EXTINF:-1,DR2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6031.ts
+#EXTINF:-1,DR3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6032.ts
+#EXTINF:-1,DR4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6049.ts
+#EXTINF:-1,DR K
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6047.ts
+#EXTINF:-1,DR Ultra
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6048.ts
+#EXTINF:-1,TV2 Den
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6033.ts
+#EXTINF:-1,TV2 Charlie
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6035.ts
+#EXTINF:-1,TV2 Zulu
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6034.ts
+#EXTINF:-1,TV2 Fri
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6036.ts
+#EXTINF:-1,TV2 News
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6039.ts
+#EXTINF:-1,TV2 Ostjylland
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6037.ts
+#EXTINF:-1,TV2 Fyn
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6040.ts
+#EXTINF:-1,TV2 Sport Den
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6038.ts
+#EXTINF:-1,TV3 Den
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6041.ts
+#EXTINF:-1,TV3 Plus
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6042.ts
+#EXTINF:-1,TV3 Max
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6043.ts
+#EXTINF:-1,6'eren
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6046.ts
+#EXTINF:-1,Kanal 5 Den
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6044.ts
+#EXTINF:-1,Kanal 9 Den
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6045.ts
+#EXTINF:-1,Yle TV1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6050.ts
+#EXTINF:-1,Yle TV2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6051.ts
+#EXTINF:-1,MTV3 Fin
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6052.ts
+#EXTINF:-1,Nelonen Fin
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6053.ts
+#EXTINF:-1,Jim Fin
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6060.ts
+#EXTINF:-1,Sub Fin
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6054.ts
+#EXTINF:-1,Liv Fin
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6055.ts
+#EXTINF:-1,TV7 Fin
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6059.ts
+#EXTINF:-1,Ruutu+ Lapset
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6056.ts
+#EXTINF:-1,Ruutu+ Lapset ja Sarjat
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6057.ts
+#EXTINF:-1,Ruutu+ Dokkarit
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6058.ts
+#EXTINF:-1,Viasat Explorer
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5999.ts
+#EXTINF:-1,Viasat Film Action
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6001.ts
+#EXTINF:-1,Viasat Film Comedy
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6002.ts
+#EXTINF:-1,Viasat Film Family
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6000.ts
+#EXTINF:-1,Viasat Film Hits
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5998.ts
+#EXTINF:-1,Viasat Fotboll
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6004.ts
+#EXTINF:-1,Viasat Golf
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6003.ts
+#EXTINF:-1,Viasat Motor
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6005.ts
+#EXTINF:-1,Viasat Sport
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6006.ts
+#EXTINF:-1,Viasat Sport Premium
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/6007.ts
+#EXTINF:-1,Alba XXX-HD1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3755.ts
+#EXTINF:-1,Alba XXX-HD2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3749.ts
+#EXTINF:-1,Alba XXX-1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/3759.ts
+#EXTINF:-1,Alba XXX-2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2971.ts
+#EXTINF:-1,Alba XXX-3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/2972.ts
+#EXTINF:-1,Alba XXX-4
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5257.ts
+#EXTINF:-1,Alba XXX-5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5262.ts
+#EXTINF:-1,Alba XXX-6
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5263.ts
+#EXTINF:-1,XXX-1
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/184.ts
+#EXTINF:-1,XXX-3
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/187.ts
+#EXTINF:-1,XXX-6
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/189.ts
+#EXTINF:-1,XXX-5
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/188.ts
+#EXTINF:-1,XXX-2
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/185.ts
+#EXTINF:-1,Playboy (Local)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5.ts
+#EXTINF:-1,Radio +
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4732.ts
+#EXTINF:-1,Radio Dugagjini
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4917.ts
+#EXTINF:-1,Radio Top Albania
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/4734.ts
+#EXTINF:-1,Radio Vala Rinore
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5031.ts
+#EXTINF:-1,Planeta Radio (Bulgaria)
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5082.ts
+#EXTINF:-1,Radio ENERGY HAMBURG
+http://185.52.127.159/de/33009/mp3_128.mp3
+#EXTINF:-1,Radio Marija (Serbia)
+http://dreamsiteradiocp.com:8034/;
+#EXTINF:-1,Deep House Lounge
+http://198.15.94.34:8006/stream
+#EXTINF:-1,Power Fm
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5078.ts
+#EXTINF:-1,Power Greece
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5126.ts
+#EXTINF:-1,027 House Music
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/5528.ts
