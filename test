@@ -27,3 +27,31 @@
 #EXTINF: 0, DISCOVERY HD http://80.80.160.168/live/8/live.m3u8
 #EXTINF: 0, SCI HD http://80.80.160.168/live/9/live.m3u8
 Источник: https://htru.ru/page/7/
+#EXTINF:0,EX-YU: ARENA SPORT 1 HD CRO
+http://server.internext.tv:8080/gaurav/gaurav123/36104
+#EXTINF:0,EX-YU: ARENA SPORT 1 SRB
+http://server.internext.tv:8080/gaurav/gaurav123/36099
+#EXTINF:0,EX-YU: ARENA SPORT 2 HD CRO
+http://server.internext.tv:8080/gaurav/gaurav123/36103
+#EXTINF:0,EX-YU: ARENA SPORT 2 SRB
+http://server.internext.tv:8080/gaurav/gaurav123/36098
+#EXTINF:0,EX-YU: ARENA SPORT 3 HD CRO
+http://server.internext.tv:8080/gaurav/gaurav123/36102
+#EXTINF:0,EX-YU: ARENA SPORT 3 SRB
+http://server.internext.tv:8080/gaurav/gaurav123/36097
+#EXTINF:0,EX-YU: ARENA SPORT 4 HD CRO
+http://server.internext.tv:8080/gaurav/gaurav123/36101
+#EXTINF:0,EX-YU: ARENA SPORT 4 SRB
+http://server.internext.tv:8080/gaurav/gaurav123/36096
+#EXTINF:0,EX-YU: ARENA SPORT 5 HD CRO
+http://server.internext.tv:8080/gaurav/gaurav123/36100
+#EXTINF:0,EX-YU: ARENA SPORT 5 SRB
+http://server.internext.tv:8080/gaurav/gaurav123/36095
+#EXTINF:0,EX-YU: SPORT KLUB 1 HD CRO
+http://server.internext.tv:8080/gaurav/gaurav123/36056
+#EXTINF:0,EX-YU: SPORT KLUB 3 HD CRO
+http://server.internext.tv:8080/gaurav/gaurav123/36055
+#EXTINF:0,EX-YU: SPORT KLUB HD 1 SRB
+http://server.internext.tv:8080/gaurav/gaurav123/36058
+#EXTINF:0,EX-YU: SPORT KLUB HD 3 SRB
+http://server.internext.tv:8080/gaurav/gaurav123/36057
