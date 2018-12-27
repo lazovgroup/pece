@@ -2381,6 +2381,8 @@ http://195.154.207.143:89/movie/P0rtal1proiptv/y1aXMgsYNd/3123.mp4
 http://195.154.207.143:89/P0rtal1proiptv/y1aXMgsYNd/1053
 #EXTINF:0 tvg-id="ext" group-title="Hrvatski",HNTV
 http://195.154.207.143:89/P0rtal1proiptv/y1aXMgsYNd/446
+#EXTINF:0 tvg-id="ext" group-title="Hrvatski",HRT1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hrvatski",HRT 2
 http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:0 tvg-id="HRT3.hr" group-title="Hrvatski",HRT 3
