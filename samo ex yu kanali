@@ -1,9 +1,9 @@
 #EXTINF:0 tvg-id="ext" group-title="(EX-YU) PING",-----(EX-YU) PING-----
 http://nexa.dyndns.ws:8000/barut/necdet/29537
 #EXTINF:0 tvg-id="24Kitchen.hr" group-title="(EX-YU) PING",EX-YU: 24kitchen
-http://nexa.dyndns.ws:8000/barut/necdet/41763
+http://nexa.dyndns.ws:8000/barut/necdet/41763.ts
 #EXTINF:0 tvg-id="AnimalPlanet.svn" group-title="(EX-YU) PING",EX-YU: Animal Planet HD
-http://nexa.dyndns.ws:8000/barut/necdet/41762
+http://nexa.dyndns.ws:8000/barut/necdet/41762.ts
 #EXTINF:0 tvg-id="ext" group-title="(EX-YU) PING",EX-YU: Arena Sport 1 HD hr
 http://nexa.dyndns.ws:8000/barut/necdet/41761
 #EXTINF:0 tvg-id="ext" group-title="(EX-YU) PING",EX-YU: Arena Sport 1 HD sr
